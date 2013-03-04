@@ -1,5 +1,5 @@
-[![](http://core.olin.edu/wp-content/uploads/2010/09/CORe-Constitution.png "CORe Constitution")](http://core.olin.edu/wp-content/uploads/2010/09/CORe-Constitution.png)Constitution
-===================================================================================================================================================================================
+CORe Constitution
+=================
 
 Preamble
 --------
