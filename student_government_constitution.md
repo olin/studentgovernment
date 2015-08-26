@@ -12,8 +12,8 @@
 
 #### Section 1. The Relationship.
 
-The elected Student Leadership - Executives, Representatives, and Committee Leaders - together form the Student Government which will have sole authority to allocate the Student Activities Fund and amend the Student Government By-Laws. This group will also have several functions, as described in Article 2.
-A smaller subsection of the Student Government - the Executives and the Representatives - will comprise the Council of Olin Representatives which alone may not allocate the Student Activities Fund or amend the Student Government By-Laws. However, this group may make recommendations to the College Administration and Board of Trustees on behalf of the Student Government, and will work to compile Action Items and prioritize their execution, as described in Article 3.
+The elected Student Leadership - Executives, Representatives, and Committee Leaders - together form the Student Government which will have sole authority to allocate the Student Activities Fund and amend the Student Government By-Laws. This group will also have several functions, as described in [Article 2](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#article-2-the-student-government).
+A smaller subsection of the Student Government - the Executives and the Representatives - will comprise the Council of Olin Representatives which alone may not allocate the Student Activities Fund or amend the Student Government By-Laws. However, this group may make recommendations to the College Administration and Board of Trustees on behalf of the Student Government, and will work to compile Action Items and prioritize their execution, as described in [Article 3](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#article-3-the-council-of-olin-representatives).
 
 Structuring the Council as a subsection of Student Government enables the Council to continually represent the Student Body and frees the Committee Leaders to execute their missions while still involving the entire Student Leadership in decisions that impact the entire school.
 
@@ -45,7 +45,7 @@ The Student Activities Fund is funded through the Student Activities Fee, collec
 
 #### Section 7. Amending the By-Laws.
 
-The Student Government may amend the Student Government By-Laws using the procedure described in Article 12.
+The Student Government may amend the Student Government By-Laws using the procedure described in [Article 12](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#article-12-amendment-procedures).
 
 #### Section 8. Ad-hoc Representatives.
 
@@ -99,7 +99,7 @@ The Student Government Committees will perform the day to day operations require
 
 #### Section 3. Structures.
 
-Each Committee has a Chair or Director (Leader) and a Vice Chair or Assistant Director (Assistant). The Leader sits on Student Government, and can be substituted in the event of absence, as outlined in Article 2, Section 3. The Committees may have additional members to fulfill their respective missions. 
+Each Committee has a Chair or Director (Leader) and a Vice Chair or Assistant Director (Assistant). The Leader sits on Student Government, and can be substituted in the event of absence, as outlined in [Article 2, Section 3](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#section-3-structure). The Committees may have additional members to fulfill their respective missions. 
 
 ### Article 5. The Honor Board
 

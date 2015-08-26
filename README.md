@@ -5,10 +5,10 @@ Originally established after the COReDesign of 2010, the 2015-2016 Council of Ol
 Ratified at a Town Meeting on March 5th, 2015.
 Not yet amended.
 
-[Read it online](https://github.com/olin/studentgovernment/master/student_government_constitution.md).
+[Read it online](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md).
 
 ## Student Government By-Laws
 Originally passed at a meeting of the Student Government on May 1st, 2015.
 Not yet amended.
 
-[Read it online](https://github.com/olin/studentgovernment/master/student_government_bylaws.md).
+[Read it online](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md).
