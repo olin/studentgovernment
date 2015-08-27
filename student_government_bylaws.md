@@ -29,9 +29,9 @@ Official Actions of the Student Government will include issuing Allocation Order
 
 The Student Government may issue Allocation Orders to appropriate the Student Activities Fund. Allocation Orders of the Student Government may allocate funds from the Student Activities Fund for the virtual funds. Allocation Orders may reallocate funds from one virtual fund to another. Allocation Orders may also restrict the use of any funds which originated from the Student Activities Fund.
 
-#### Section 6.
+#### Section 6. The Student Activities Fund.
 
-The Student Activities Fund. Each year, after the newly elected Student Government assumes office, the Vice President for Finance will draft and introduce Allocation Order 0. Allocation Order 0 will appropriate money for the virtual funds defined in [Article 9, Section 2](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-2-virtual-funds).
+Each year, after the newly elected Student Government assumes office, the Vice President for Finance will draft and introduce Allocation Order 0. Allocation Order 0 will appropriate money for the virtual funds defined in [Article 9, Section 2](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-2-virtual-funds).
 
 #### Section 7. A Service to the Community.
 
