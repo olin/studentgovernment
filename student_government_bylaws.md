@@ -490,7 +490,11 @@ At the end of the meeting, all members of the Student Government not currently u
 
 Impeachment proceedings against members of the Honor Board will occur according the to the procedures specified in the Honor Code. If a request for impeachment has been submitted against the Chair of the Honor Board, proceedings will be presided over by another member of the Honor Board, as elected by the Vice Chair and General Members.
 
-#### Section 8. Vacancies.
+#### Section 8. Resignation.
+
+A member of the Student Government may resign from office by submitting a writen letter of resignation to the President of the Student Government or, in the case of a President's resignation, the Vice President for Communications.
+
+#### Section 9. Vacancies.
 
 A vacancy in the one of the three Executive positions of the Student Government will be filled by an internal election within the Council of Olin Representatives where any Council member is eligible. The vote will be done by excellence voting while the candidates are out of the room.
 
@@ -500,11 +504,11 @@ A vacancy in any Honor Board position will be filled through the vacancy procedu
 
 Any other vacancy will be filled by a special election.
 
-#### Section 9. Special Elections.
+#### Section 10. Special Elections.
 
 Given the importance of all Student Government positions being filled, Special Elections will occur over an abbreviated timeline compared to normal elections and will therefore occur over one week. Nominations will be open for at least 48 hours. Normal campaigning will occur during Special Elections. A the end of the week, the polls will be open for 24 hours and follow the same voting procedures as normal elections. Students elected to a position through a Special Election will take office immediately upon election.
 
-#### Section 10. Transition.
+#### Section 11. Transition.
 
 In order to maintain institutional memory, each elected member of the Student Government will keep a transition document which they will continually update during their time in office. Each official’s transition document will be kept in a central location which can be accessed by the current members of the Student Government. Each elected official must meet with their successor to discuss their respective transition document upon leaving office.
 
