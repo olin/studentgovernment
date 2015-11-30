@@ -609,7 +609,7 @@ rules will be established.
 2. Clubs may however purchase general meals for the club members.
 3. Clubs have a hard limit of $3 per person to purchase food for events.
   * This limit does not affect clubs or events where food is the focus.
-5. Questions and edge cases regarding food will be handled at the discretion of
+4. Questions and edge cases regarding food will be handled at the discretion of
    the Director of Clubs and Organizations.
 
 #### Section 9. Joint Events.
