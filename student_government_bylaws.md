@@ -358,7 +358,7 @@ When requested by the Administration to appoint students to faculty and
 operational committees, the Council will begin the appointment process. In the
 appointment process, the Council will notify the Student Body of openings on
 committees and the position’s description, and students will be allowed at
-least six days to volunteer. At a meeting following the volunteering period,
+least three days to volunteer. At a meeting following the volunteering period,
 the Council will discuss the candidates and appoint students to the committees
 by excellence voting.
 
