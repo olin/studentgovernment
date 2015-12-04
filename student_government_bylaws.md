@@ -762,7 +762,8 @@ allocation as necessary.
 
 #### Section 3. Funding Guidelines.
 
-The student government will vote on funding guidelines in Fall 2015.
+The Student Government currently has no all-encompasing funding guidelines for
+the Student Activities Fund.
 
 ### Article 10. Student Government Audits.
 
