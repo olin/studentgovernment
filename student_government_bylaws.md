@@ -760,6 +760,11 @@ funds:
 Some money from the Student Activities Fund may remain unallocated for later
 allocation as necessary.
 
+#### Section 3. Funding Guidelines.
+
+The Student Government currently has no all-encompasing funding guidelines for
+the Student Activities Fund.
+
 ### Article 10. Student Government Audits.
 
 #### Section 1. Meetings.
