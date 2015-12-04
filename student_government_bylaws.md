@@ -16,11 +16,11 @@ list.
 
 #### Section 2. Meetings.
 
-Meetings of the Student Government will occur monthly at 3:30 PM on a Friday.
-The meeting will  be open for the Student Body to attend and participate in
-discussion. A meeting of the Student Government may be canceled, postponed, or
-rescheduled at the President’s discretion. Additional meetings may also be
-scheduled as appropriate at the President’s discretion.
+Meetings of the Student Government will occur monthly at a regularly scheduled
+time set by the President and will be open for the Student Body to attend and
+participate in discussion. A meeting of the Student Government may be canceled,
+postponed, or rescheduled at the President’s discretion. Additional meetings
+may also be scheduled as appropriate at the President’s discretion.
 
 The time, location, and agenda of each normally scheduled meeting of the
 Student Government will be announced at least 24 hours in advance in an email
