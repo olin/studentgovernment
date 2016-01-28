@@ -675,20 +675,13 @@ community in maintaining a spirit of service and volunteerism. Announcements of
 meetings times and agendas will be sent to the SERV mailing list prior to
 meetings.
 
-#### Section 5. Service Student Groups.
-
-The difference between General Student Groups and Service Student Groups is
-that General Student Groups are funded by the Committee for Clubs and
-Organizations whereas Service Student Groups are funded by the Committee for
-Supporting, Encouraging, and Recognizing Volunteerism.
-
-#### Section 6. Service Fund.
+#### Section 5. Service Fund.
 
 The Service Fund will be allocated jointly by the Director and Assistant
 Director of Service for the purpose of fulfilling the Mission and Function of
 the Committee.
 
-#### Section 7. Funding Procedures.
+#### Section 6. Funding Procedures.
 
 The Committee for Supporting, Encouraging, and Recognizing Volunteerism will
 allocate the Service Fund as follows.
@@ -704,6 +697,10 @@ must be reviewed and approved by the Director and the Assistant Director of
 Service. Students may form groups in order to collectively receive more funding
 for a project. We encourage larger groups of students to work together on
 service projects to increase philanthropic spirit within the Community.
+
+**Service Student Groups.** While General Student Groups are funded by the
+Committee for Clubs and Organizations, Service Student Groups may be funded by
+the Committee for Supporting, Encouraging, and Recognizing Volunteerism.
 
 ## Part III. Relative to the Procedures and Provisions.
 
