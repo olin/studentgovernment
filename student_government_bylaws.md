@@ -647,11 +647,11 @@ the Service Fund.
 
 **Assistant Director of Service.** The Assistant Director of Service will
 assist the Director in the operations of the Committee. The Assistant Director
-will keep the financial records, meeting minutes, and membership list of the
-Committee. In the absence of the Director, the Assistant Director will perform
-the duties of the Director and attend meetings of the Student Government. With
-the agreement of the Director, the Assistant Director may appropriate money
-from the Service Fund.
+will keep the financial records, meeting minutes, service activity records, and
+membership list of the Committee. In the absence of the Director, the Assistant
+Director will perform the duties of the Director and attend meetings of the
+Student Government. With the agreement of the Director, the Assistant Director
+may appropriate money from the Service Fund.
 
 #### Section 3. General Membership.
 
@@ -661,8 +661,7 @@ College (Section 5). Therefore, there is an expectation that the entire Student
 Body must maintain a spirit of volunteerism. More specifically, any student
 interested in helping to organize school-wide service events and who attends
 meetings of the Committee will be considered part of the General Membership of
-the Committee. The Assistant Director of Service will keep a list of the
-General Membership.
+the Committee.
 
 #### Section 4. Meetings.
 
@@ -670,32 +669,19 @@ The Committee will meet weekly to coordinate and plan for upcoming events and
 service opportunities as well as reflect on the success of previous activities.
 Meetings of the Committee will include the Officers and the General Membership.
 The Director and Assistant Director of Service will also schedule regular
-meetings with a Student Affairs adviser, faculty adviser, and staff adviser to
-keep them up to date and find opportunities to involve the entire Olin
+meetings with the Student Affairs adviser, faculty adviser, and staff adviser
+to keep them up to date and find opportunities to involve the entire Olin
 community in maintaining a spirit of service and volunteerism. Announcements of
 meetings times and agendas will be sent to the SERV mailing list prior to
 meetings.
 
-#### Section 5. Service Student Group Classifications.
-
-Service Student Groups will be categorized by the Director of Service into one
-of two classifications. A Service Student Group’s classification determines how
-a Student Group is allocated money. Service Student Groups will be categorized
-with the same classifications as General Student Groups as defined in [Article
-5, Section 5](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-5-student-group-classifications).
-
-The difference between General Student Groups and Service Student Groups is
-that General Student Groups are funded by the Committee for Clubs and
-Organizations whereas Service Student Groups are funded by the Committee for
-Supporting, Encouraging, and Recognizing Volunteerism.
-
-#### Section 6. Service Fund.
+#### Section 5. Service Fund.
 
 The Service Fund will be allocated jointly by the Director and Assistant
 Director of Service for the purpose of fulfilling the Mission and Function of
 the Committee.
 
-#### Section 7. Funding Procedures.
+#### Section 6. Funding Procedures.
 
 The Committee for Supporting, Encouraging, and Recognizing Volunteerism will
 allocate the Service Fund as follows.
@@ -706,20 +692,15 @@ school-wide service events within an agreed upon budget for each event decided
 by the Director and Assistant Director of Service.
 
 **Service Pursuits.** Through the Service Pursuits program, students may apply
-for up to $50 of funding per semester per person to be used towards a Service
-Project. These projects must be reviewed and approved by the Director,
-Assistant Director of Service, and at least one adviser of the Committee for
-Supporting, Encouraging, and Recognizing Volunteerism. Students may form groups
-in order to collectively receive more funding for a project.
+for transportation and supply funding for a service activity. These projects
+must be reviewed and approved by the Director and the Assistant Director of
+Service. Students may form groups in order to collectively receive more funding
+for a project. We encourage larger groups of students to work together on
+service projects to increase philanthropic spirit within the Community.
 
-**Service Student Groups.** Service Student Groups that request funding from
-the Service Fund will be granted funding through the same Funding, Procedures,
-and Spending Limits and Rules policies as the Committee for Clubs and
-Organizations as defined in [Article 5, Sections
-7](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-7-funding-procedure)
-[and 8](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-8-spending-limits-and-rules)
-respectively. Joint Events for Service Student Groups will be treated as
-school-wide service events and handled accordingly.
+**Service Student Groups.** While General Student Groups are funded by the
+Committee for Clubs and Organizations, Service Student Groups may be funded by
+the Committee for Supporting, Encouraging, and Recognizing Volunteerism.
 
 ## Part III. Relative to the Procedures and Provisions.
 
