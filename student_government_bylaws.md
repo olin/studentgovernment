@@ -9,10 +9,9 @@
 
 The Student Government serves and acts as the voice of the Student Body of the
 College. The Student Body will be defined as all currently enrolled students of
-the College who plan to graduate from Olin College. At times when the Student
-Government, its members, or its Committees must communicate to the entire
-Student Body, they will email the Student Government Announcements mailing
-list.
+the College. At times when the Student Government, its members, or its
+Committees must communicate to the entire Student Body, they will email the
+All-Students mailing list.
 
 #### Section 2. Meetings.
 
@@ -40,18 +39,17 @@ relevant by the presiding officer.
 
 In order for the proceedings of a meeting of the Student Government to be
 valid, a quorum of the Student Government must be present in person or by video
-conference. At least 7 of the 13 members of the Council and at least 3 of the 4
-Committee Leaders will be considered a quorum of the Student Government.
+conference. At least a majority of the Council together with at least a majority
+of the Committee Leaders will be considered a quorum of the Student Government.
 
 #### Section 4. Official Actions.
 
 Official Actions of the Student Government will include issuing Allocation
-Orders, amending the By-Laws, and reviewing amendments to the Constitution. All
-Official Actions of the Student Government may be passed with approval of a
-majority of the voting members present. In order for a vote to be taken on an
-Official Action, a motion to its effect must be recognized by the presiding
-officer and seconded by another voting member. All Official Actions must be
-recorded separately and numbered.
+Orders, amending the By-Laws, voting on impeachment proceedings, holding
+internal elections, and reviewing amendments to the Constitution. All Official
+Actions of the Student Government may be passed with approval of a majority of
+the voting members present except where otherwise noted. All Official Actions
+must be recorded separately and numbered.
 
 #### Section 5. Allocation Orders.
 
@@ -62,12 +60,15 @@ reallocate funds from one virtual fund to another. Allocation Orders may also
 restrict the use of any funds which originated from the Student Activities
 Fund.
 
-#### Section 6. The Student Activities Fund.
+#### Section 6. The Student Government Budget.
 
-Each year, after the newly elected Student Government assumes office, the Vice
-President for Finance will draft and introduce Allocation Order 0. Allocation
-Order 0 will appropriate money for the virtual funds defined in
-[Article 9, Section 2](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-2-virtual-funds).
+Each year, before Transition Day, the outgoing Student Government drafts the
+next year's budget, designated Allocation Order 0, informed by their experience
+of a full year in office. The outgoing Student Government passes their draft to
+the incoming Student Government who, within a month after Transition Day, amends
+or approves Allocation Order 0 to establish a budget for their session of
+Student Government. Allocation Order 0 will appropriate money for the virtual
+funds defined in [Article 9, Section 2](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-2-virtual-funds).
 
 #### Section 7. A Service to the Community.
 
@@ -263,9 +264,8 @@ officer.
 #### Section 6. Quorum.
 
 In order for the proceedings of a meeting of the Council to be valid, a quorum
-of the Council must be present in person or by video conference. At least 7 of
-the 13 voting members of the Council will be considered a quorum of the
-Council.
+of the Council must be present in person or by video conference. At least a
+majority of the Council will be considered a quorum of the Council.
 
 #### Section 7. Open and Closed Session.
 
@@ -285,16 +285,15 @@ Resolutions, or unforeseeable sensitive issues.
 
 Official Actions of the Council will include issuing Allocation Orders,
 publishing Recommendations, establishing Council Projects, voting on Committee
-Appointments, and arbitrating Disagreement Resolutions. All Official Actions of
-the Council may be passed with the approval of a majority of the voting members
-present with the exception of Committee Appointments which will be done by
-approval voting and Allocation Orders of the Discretionary Fund or the Class
-Events Funds which may be approved by a smaller subsection of the Council as
-defined in [Article 2, Sections 11](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-11-discretionary-fund)
+Appointments, holding Internal Elections, and arbitrating Disagreement
+Resolutions. All Official Actions of the Council may be passed with the approval
+of a majority of the voting members present with the exception of Committee
+Appointments which will be done by approval voting and Allocation Orders of the
+Discretionary Fund or the Class Events Funds which may be approved by a smaller
+subsection of the Council as defined in [Article 2, Sections 11](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-11-discretionary-fund)
 [and 12](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-12-class-events-funds)
-respectively. In order for a vote to be taken on an Official Action, a motion
-to its effect must be proposed and seconded. All Official Actions of the
-Council must be recorded separately and numbered.
+respectively. All Official Actions of the Council must be recorded separately
+and numbered.
 
 #### Section 9. Allocation Orders.
 
@@ -334,8 +333,8 @@ organize and plan class events.
 
 As the core of the Student Government, the Council may express the official
 opinion of the Student Government in the form of Recommendations. It is the
-responsibility of the President to convey Recommendations to the appropriate
-member(s) of the College’s Administration.
+responsibility of the President to ensure Recommendations are conveyed to the
+appropriate member(s) of the College’s Administration.
 
 #### Section 14. Council Projects.
 
@@ -382,7 +381,15 @@ outlining the accomplishments and activities of the Student Government for that
 month as well as any activities of the Administration that would be of interest
 to the Student Body.
 
-#### Section 18. Ad Hoc Representatives.
+#### Section 18. Conflicts of Interest.
+
+A member of CORe should excuse themselves from a vote if there is a clear
+conflict of interest. Specifically, a member should excuse themselves if an
+Allocation Order provides direct and exclusive benefit to that member or if the
+vote relates to an appointment or internal election in which they are a
+candidate.
+
+#### Section 19. Ad Hoc Representatives.
 
 The Student Government establishes the following non-voting ad hoc
 representatives of the Council:
@@ -757,10 +764,19 @@ to the Student Body.
 
 #### Section 2. Review Process.
 
-During the Audit meeting, one or more representatives of the Honor Board will
-meet with the Student Government and discuss whether or not the Governing
-Documents, including the Honor Code, are being properly and completely
-executed.
+At least two representatives of the Honor Board meet individually with the
+following leadership teams to discuss and question the operations of their
+respective organizations in order to evaluate each organization's compliance
+with the Governing Documents:
+
+1. the Executives of the Council of Olin Representatives
+2. the Chair and Vice Chair of the Honor Board
+3. the Director and Assistant Director of Student Activities
+4. the Director and Assistant Director of Clubs and Organizations
+5. the Director and Assistant Director of Service
+
+Following the review, the Honor Board representatives summarize their findings
+in a joint report on the state of the Student Government.
 
 #### Section 3. Discrepancy Resolution.
 
@@ -887,7 +903,7 @@ The following positions will be elected in the second cycle:
 12. Senior Class Affairs Representative
 
 Students elected to office during Spring Elections will take office as soon as
-is reasonable after Patriot’s Day as agreed upon by the incoming and outgoing
+is reasonable after April 1st as agreed upon by the incoming and outgoing
 Presidents.
 
 #### Section 4. Fall Elections.
@@ -1046,10 +1062,8 @@ discuss their respective transition document upon leaving office.
 
 Any member of the Student Body may propose an amendment to the Student
 Government Constitution by presenting the amendment in written form to the
-President of the Student Government. The Student Government will review the
-amendment at its next meeting and decide if it is appropriate and will not
-conflict with the Honor Code. However, it is not the duty of the Student
-Government to decide if an amendment is “good” or “worth implementing.”
+President of the Student Government. The Student Government reviews the
+amendment at its next meeting and decide whether to call a Town Meeting.
 
 If the amendment passes review, the President will call a Town Meeting within
 three school weeks. The Vice President for Communications will send an
