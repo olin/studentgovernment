@@ -775,10 +775,10 @@ Rising Seniors are also eligible to run for:
 2. Assistant Director of Clubs and Organizations, and
 3. Assistant Director of Service.
 
-Rising seniors are eligible for:
+Only Rising Seniors are eligible for:
 1. The Senior Class Activities Representative
 
-First Years are eligible to run for: 
+Only First Years are eligible to run for: 
 1. First Year Class Representative
 
 #### Section 2. The Election Monitor.
