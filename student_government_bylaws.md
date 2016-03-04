@@ -8,53 +8,53 @@
 #### Section 1. Constituency.
 
 The Student Government serves and acts as the voice of the Student Body of the
-College. The Student Body will be defined as all currently enrolled students of
-the College. At times when the Student Government, its members, or its
-Committees must communicate to the entire Student Body, they will email the
-All-Students mailing list.
+College. The Student Body is defined as all currently enrolled students of the
+College who plan to graduate from Olin College. At times when the Student
+Government, its members, or its Committees must communicate to the entire
+Student Body, they email the Student Government Announcements mailing list.
 
 #### Section 2. Meetings.
 
-Meetings of the Student Government will occur monthly at a regularly scheduled
-time set by the President and will be open for the Student Body to attend and
+Meetings of the Student Government occur monthly at a regularly scheduled time
+set by the President and are open for the Student Body to attend and
 participate in discussion. A meeting of the Student Government may be canceled,
 postponed, or rescheduled at the President’s discretion. Additional meetings
 may also be scheduled as appropriate at the President’s discretion.
 
 The time, location, and agenda of each normally scheduled meeting of the
-Student Government will be announced at least 24 hours in advance in an email
-sent to the Student Body and the CORe Discussion mailing list. Additional or
-rescheduled meetings that do not occur during normally scheduled times should
-be announced to the Student Body at least 48 hours in advance, if at all
-possible.
+Student Government is announced at least 24 hours in advance in an email sent to
+the Student Body and the CORe Discussion mailing list. Additional or rescheduled
+meetings that do not occur during normally scheduled times should be announced
+to the Student Body at least 48 hours in advance, if at all possible.
 
-Meetings of the Student Government will serve as the exclusive venue to pass
-Official Actions, as described in Section 4.  Additionally, meetings of the
-Student Government can serve as venues to discuss and formulate Official
-Actions, discuss the state of the Student Body and Student Experience, allow
-Committees to take charge of proposed projects, and other activities deemed
-relevant by the presiding officer.
+Meetings of the Student Government serve as the exclusive venue to pass Official
+Actions, as described in Section 4.  Additionally, meetings of the Student
+Government can serve as venues to discuss and formulate Official Actions,
+discuss the state of the Student Body and Student Experience, allow Committees
+to take charge of proposed projects, and other activities deemed relevant by the
+presiding officer.
 
 #### Section 3. Quorum.
 
 In order for the proceedings of a meeting of the Student Government to be
 valid, a quorum of the Student Government must be present in person or by video
 conference. At least a majority of the Council together with at least a majority
-of the Committee Leaders will be considered a quorum of the Student Government.
+of the Committee Leaders is considered a quorum of the Student Government.
 
 #### Section 4. Official Actions.
 
-Official Actions of the Student Government will include issuing Allocation
-Orders, amending the By-Laws, voting on impeachment proceedings, holding
-internal elections, and reviewing amendments to the Constitution. All Official
+Official Actions of the Student Government include issuing Allocation Orders,
+amending the By-Laws, and reviewing amendments to the Constitution. All Official
 Actions of the Student Government may be passed with approval of a majority of
-the voting members present except where otherwise noted. All Official Actions
-must be recorded separately and numbered.
+the voting members present. In order for a vote to be taken on an Official
+Action, a motion to its effect must be recognized by the presiding officer and
+seconded by another voting member. All Official Actions are recorded
+separately and numbered.
 
 #### Section 5. Allocation Orders.
 
-The Student Government may issue Allocation Orders to appropriate the Student
-Activities Fund. Allocation Orders of the Student Government may allocate funds
+The Student Government issues Allocation Orders to appropriate the Student
+Activities Fund. Allocation Orders of the Student Government allocate funds
 from the Student Activities Fund for the virtual funds. Allocation Orders may
 reallocate funds from one virtual fund to another. Allocation Orders may also
 restrict the use of any funds which originated from the Student Activities
@@ -73,24 +73,24 @@ funds defined in [Article 9, Section 2](https://github.com/olin/studentgovernmen
 #### Section 7. A Service to the Community.
 
 Since serving on the Student Government or a Student Government Committee is a
-service to the community, no elected official will be monetarily compensated
-for their time in office.
+service to the community, no elected official is or will be monetarily
+compensated for their time in office.
 
 ### Article 2. The Council of Olin Representatives.
 
 #### Section 1. Composition.
 
-The Council of Olin Representatives will be comprised of three executive
-officers and ten representatives, each of whom will have one full vote on the
-Council and the Student Government. The executive officers are:
+The Council of Olin Representatives is comprised of three executive officers and
+ten representatives, each of whom have one full vote on the Council and the
+Student Government. The executive officers are:
 
 1. the President
 2. the Vice President for Communications
 3. the Vice President for Finance
 
-Five of the ten representatives will be Specialized Representatives who will
-each meet directly with senior administrators of the College on a regular
-basis. These representatives will include:
+Five of the ten representatives are Specialized Representatives who each meet
+directly with senior administrators of the College on a regular basis. These
+representatives include:
 
 1. a Representative to Operations
 2. a Representative to Marketing and Communications and Development, Family,
@@ -100,8 +100,8 @@ basis. These representatives will include:
 4. a Representative for Curriculum and Faculty
 5. a Representative for Intercollegiate Affairs
 
-The remaining five representatives will be Class Representatives. These
-representatives will include:
+The remaining five representatives are Class Representatives. These
+representatives include:
 
 1. a Senior Class Representative
 2. a Junior Class Representative
@@ -110,36 +110,35 @@ representatives will include:
 
 #### Section 2. Executives.
 
-There will be three executives who will lead the Student Government and the
-Council:
+There are three executives who will lead the Student Government and the Council:
 
 **President.** The President serves as the Student Body President and
 represents the Student Government to the Administration and Board of Trustees.
 The President serves as the presiding officer of the Student Government and the
 Council and as such calls, presides over, and creates agendas for meetings of
-the Student Government and the Council. The President will moderate Town
-Meetings called by the Student Government.
+the Student Government and the Council. The President moderates Town Meetings
+called by the Student Government.
 
 **Vice President for Communications.** In the absence of the President, the
-Vice President for Communications will preside over the Student Government and
-the Council. The Vice President for Communications will serve as the secretary
-of the Student Government and the Council and, as such, will keep meeting
-minutes and records of Official Actions and ensure that such documents are
-accessible to the Student Body, as specified in [Article
+Vice President for Communications presides over the Student Government and the
+Council. The Vice President for Communications serves as the secretary
+of the Student Government and the Council and, as such, keeps meeting minutes
+and records of Official Actions and ensure that such documents are accessible
+to the Student Body, as specified in [Article
 13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
-The Vice President for Communications will advertise Student Government and
-Council related events, organize the publishing of the monthly report, and
-actively encourage Student Body participation in the improvement of the Student
+The Vice President for Communications advertises Student Government and Council
+related events, organizes the publishing of the monthly report, and actively
+encourages Student Body participation in the improvement of the Student
 Government and Olin culture.
 
-**Vice President for Finance.** The Vice President for Finance will keep the
-official records of the Student Activities Fund and inform the Student Body on
+**Vice President for Finance.** The Vice President for Finance keeps the
+official records of the Student Activities Fund and informs the Student Body on
 how the Student Activities Fund is being allocated and spent throughout the
 year by, at least, emailing a report detailing the state of the Student
 Activities Fund to the Student Body once per semester. The Vice President for
-Finance will be the main point of contact for processing all payments and
+Finance serves as the main point of contact for processing all payments and
 reimbursements for Student Activities Fund purchases. The Vice President for
-Finance will draft and introduce Allocation Order 0, as described in [Article
+Finance drafts and introduces Allocation Order 0, as described in [Article
 9, Section 2](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-2-virtual-funds).
 The Vice President for Finance has the authority to approve the creation or
 removal of student group financial accounts which are separate from the main
@@ -147,73 +146,72 @@ Student Activities Fund account.
 
 #### Section 3. Specialized Representatives.
 
-There will be five Specialized Representatives who will represent the entire
+There are five Specialized Representatives who will represent the entire
 Student Body and meet directly with members of the President’s Cabinet of the
-College. Each Specialized Representative will:
+College. Each Specialized Representative:
 
-1. become familiar with the operations and policies of their relevant
+1. becomes familiar with the operations and policies of their relevant
    Administrative Department(s),
-2. assist their relevant Administrative Department(s) in gathering student
+2. assists their relevant Administrative Department(s) in gathering student
    opinions on issues important to the Administration,
-3. bring concerns of the Student Body to the attention of the Administration,
-4. bring concerns of the Administration to the attention of the Student
+3. brings concerns of the Student Body to the attention of the Administration,
+4. brings concerns of the Administration to the attention of the Student
    Government,
-5. make an effort to develop lasting solutions to issues of concern to the
+5. makes an effort to develop lasting solutions to issues of concern to the
    Student Body and the Administration, and
-6. use their combined knowledge of the Student Body and their relevant
+6. uses their combined knowledge of the Student Body and their relevant
    Administrative Department(s) to prevent issues before they arise.
 
-The Student Body will elect the following five Specialized Representatives:
+The Student Body elects the following five Specialized Representatives:
 
-**Representative to Operations.** The Representative to Operations will liaise
+**Representative to Operations.** The Representative to Operations liaises
 with the College’s Vice President for Operations and Chief Information Officer
-and will keep themselves informed of any actions or initiatives related to
-student dining, facilities, or information technology at the College.
-Additionally, the Representative will solicit volunteers for operational
-committees and, after the completion of the committee appointment process,
-notify volunteers of whether or not they have been appointed. The
-Representative will keep an open dialog with each operational committee
-appointee in order to stay informed of the activities of each committee, and
-invite each appointee to at least one Council meeting per semester. The
-Representative will keep a list of operational committees and make that list
-available to the Student Body.
+and keeps themselves informed of any actions or initiatives related to student
+dining, facilities, or information technology at the College. Additionally, the
+Representative solicits volunteers for operational committees and, after the
+completion of the committee appointment process, notifies volunteers of whether
+or not they have been appointed. The Representative keeps an open dialog with
+each operational committee appointee in order to stay informed of the activities
+of each committee and invites each appointee to at least one Council meeting per
+semester. The Representative keeps a list of operational committees and makes
+that list available to the Student Body.
 
 **Representative to Marketing and Communications and Development, Family, and
 Alumni Relations.** The Representative to Marketing and Communications, and
-Development, Family, and Alumni Relations will liaise with the College’s Chief
+Development, Family, and Alumni Relations liaises with the College’s Chief
 Marketing Officer and Vice President of Development, Family, and Alumni
-Relations and will keep themselves informed of any actions or initiatives
-happening in their relevant departments.
+Relations and keeps themselves informed of any actions or initiatives happening
+in their relevant departments.
 
 **Representative to Admissions and the Office of Student Affairs and
 Resources.** The Representative to Admissions and the Office of Student Affairs
-and Resources will liaise with the Dean of Student Life and the Dean of
-Admissions and will keep themselves informed of any actions or initiatives
-happening in their relevant departments.
+and Resources liaises with the Dean of Student Life and the Dean of Admissions
+and keeps themselves informed of any actions or initiatives happening in their
+relevant departments.
 
 **Representative for Curriculum and Faculty.** The Representative for
-Curriculum and Faculty will liaise with the Associate Dean of Curriculum, the
+Curriculum and Faculty liaises with the Associate Dean of Curriculum, the
 Associate Dean for Faculty Affairs and Development, and the Provost and Dean of
-Faculty and will keep themselves informed of any actions or initiatives related
-to curriculum and faculty. Additionally, the Representative will solicit
-volunteers for faculty committees and, after the completion of the committee
-appointment process, notify volunteers of whether or not they have been
-appointed. The Representative will keep an open dialog with each faculty
-committee appointee in order to stay informed of the activities of each
-committee and invite each appointee to at least one Council meeting per
-semester. The Representative will keep a list of operational committees and
-make that list available to the Student Body.
+Faculty and keeps themselves informed of any actions or initiatives related
+to curriculum and faculty. Additionally, the Representative solicits volunteers
+for faculty committees and, after the completion of the committee appointment
+process, notifies volunteers of whether or not they have been appointed. The
+Representative keeps an open dialog with each faculty committee appointee in
+order to stay informed of the activities of each committee and invites each
+appointee to at least one Council meeting per semester. The Representative keeps
+a list of operational committees and makes that list available to the Student
+Body.
 
 **Representative for Intercollegiate Affairs.** The Representative for
-Intercollegiate Affairs will liaise with the Director of the Collaboratory and
+Intercollegiate Affairs liaises with the Director of the Collaboratory and
 the Administrative Assistant to the Babson/Olin/Wellesley Three College
-Collaboration and serve as the Student Body’s Ambassador to
-Babson/Olin/Wellesley Three College Collaboration and will keep themselves
+Collaboration and serves as the Student Body’s Ambassador to
+Babson/Olin/Wellesley Three College Collaboration and keeps themselves
 informed of any actions or initiatives related to these groups. The
-Representative will serve as Olin’s Ambassador to the Babson/Olin/Wellesley
+Representative serves as Olin’s Ambassador to the Babson/Olin/Wellesley
 Student Council which advises the administrators of the Collaboration on issues
-of interest to the students of the three colleges. The Representative will keep
-the student body informed as to what relations the College is developing with
+of interest to the students of the three colleges. The Representative keeps the
+student body informed as to what relations the College is developing with
 other institutions and how students can be involved in these relations.
 
 As the definition, function, and communication pathways of the Specialized
@@ -224,80 +222,78 @@ must be amended before the Spring Elections of 2016.
 
 #### Section 4. Class Representatives.
 
-There will be five Class Representatives who will represent their respective
-graduating classes. Each Class Representative will:
+There are five Class Representatives who represent their respective graduating
+classes. Each Class Representative:
 
-1. actively solicit feedback from their respective class to identify issues of
+1. actively solicits feedback from their respective class to identify issues of
    concern and potential areas of improvement of student life that could be
    addressed by the Council,
-2. keep in touch with their class to better advise the Student Government and
+2. keeps in touch with their class to better advise the Student Government and
    the Council of the interests, wishes, and feelings of their class, and
-3. participate in the organization of class events, and/or the allocation of
+3. participates in the organization of class events, and/or the allocation of
    their Class Events Fund.
 
-Each class will have one class representative, except for the First Year Class,
-which will have two representatives, as this class would otherwise be
+Each class has one class representative, except for the First Year Class,
+which has two representatives, as this class would otherwise be
 under-represented on the Council.
 
 #### Section 5. Meetings.
 
-In general, meetings of the Council will occur weekly and the Student Body will
-be highly encouraged to participate in open sessions. Meetings of the Student
-Government count as meetings of the Council. A meeting of the Council may be
-canceled, postponed, or rescheduled at the President’s discretion. Additional
-meetings may also be scheduled as appropriate at the President’s discretion.
+In general, meetings of the Council occur weekly and the Student Body is highly
+encouraged to participate in open sessions. Meetings of the Student Government
+count as meetings of the Council. A meeting of the Council may be canceled,
+postponed, or rescheduled at the President’s discretion. Additional meetings may
+also be scheduled as appropriate at the President’s discretion.
 
 The time, location, and agenda of each normally scheduled meeting of the
-Council will be announced at least 24 hours in advance with an email sent to
-the CORe Discussion mailing list. The email sent to the Student Body announcing
-the meeting of the Student Government may be used to remind students of the
-weekly meetings of the Council but may not replace the weekly CORe Discussion
-mailing list announcement.
+Council is announced at least 24 hours in advance with an email sent to the CORe
+Discussion mailing list. The email sent to the Student Body announcing the
+meeting of the Student Government may be used to remind students of the weekly
+meetings of the Council but may not replace the weekly CORe Discussion mailing
+list announcement.
 
-Meetings of the Council will serve as the exclusive venue to pass Official
-Actions, as described in Section 8.  Additionally, meetings of the Council can
-serve as venues to discuss and formulate Official Actions, discuss topics
-relating to the Administration, discuss the state of the Student Body and
-Student Experience, and other activities deemed relevant by the presiding
-officer.
+Meetings of the Council serves as the exclusive venue to pass Official Actions,
+as described in Section 8. Additionally, meetings of the Council can serve as
+venues to discuss and formulate Official Actions, discuss topics relating to the
+Administration, discuss the state of the Student Body and Student Experience,
+and other activities deemed relevant by the presiding officer.
 
 #### Section 6. Quorum.
 
 In order for the proceedings of a meeting of the Council to be valid, a quorum
 of the Council must be present in person or by video conference. At least a
-majority of the Council will be considered a quorum of the Council.
+majority of the Council constitutes a quorum of the Council.
 
 #### Section 7. Open and Closed Session.
 
-Discussions, agenda items, and votes of the Council will take place in one of
-two states: Open Session or Closed Session. When the Council is in Open
-Session, any member of the Olin community may be present and participate in
-discussion. When the Council is in Closed Session, only members of the Council
-and people whose attendance is declared appropriate by the President may be
-present and participate. Minutes and relevant documentation taken during closed
-session will be kept confidential, as described in [Article
-13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
+Discussions, agenda items, and votes of the Council take place in one of two
+states: Open Session or Closed Session. When the Council is in Open Session, any
+member of the Olin community may be present and participate in discussion. When
+the Council is in Closed Session, only members of the Council and people whose
+attendance is declared appropriate by the President may be present and
+participate. Minutes and relevant documentation taken during closed session are
+kept confidential, as described in [Article 13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
 The President may declare the Council in Closed Session during discussions and
 votes regarding Allocation Orders, Committee Appointments, Disagreement
 Resolutions, or unforeseeable sensitive issues.
 
 #### Section 8. Official Actions.
 
-Official Actions of the Council will include issuing Allocation Orders,
-publishing Recommendations, establishing Council Projects, voting on Committee
+Official Actions of the Council include issuing Allocation Orders, publishing
+Recommendations, establishing Council Projects, voting on Committee
 Appointments, holding Internal Elections, and arbitrating Disagreement
 Resolutions. All Official Actions of the Council may be passed with the approval
 of a majority of the voting members present with the exception of Committee
-Appointments which will be done by approval voting and Allocation Orders of the
-Discretionary Fund or the Class Events Funds which may be approved by a smaller
-subsection of the Council as defined in [Article 2, Sections 11](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-11-discretionary-fund)
+Appointments which are completed using approval voting and Allocation Orders of
+the Discretionary Fund or the Class Events Funds which may be approved by a
+smaller subsection of the Council as defined in [Article 2, Sections 11](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-11-discretionary-fund)
 [and 12](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-12-class-events-funds)
-respectively. All Official Actions of the Council must be recorded separately
-and numbered.
+respectively. All Official Actions of the Council are recorded separately and
+numbered.
 
 #### Section 9. Allocation Orders.
 
-The Council may issue Allocation Orders appropriating the Student Initiatives
+The Council issues Allocation Orders appropriating the Student Initiatives
 Fund. The Council may only vote on Allocation Orders at in-person meetings of
 the Council.
 
@@ -312,18 +308,18 @@ When the Council is not in session and for purposes which cannot wait until the
 next meeting of the Council, the President may issue Allocation Orders to
 allocate and spend the Discretionary Fund with the consent of the Vice
 President for Finance. For the purposes of documentation, Discretionary Fund
-Allocation Orders will be documented in the minutes of the next meeting of the
+Allocation Orders is documented in the minutes of the next meeting of the
 Council and treated as an Official Action.
 
 #### Section 12. Class Events Funds.
 
-There will be one Class Events Fund for each of the four graduating classes.
-The relevant Class Representative may issue Allocation Orders to allocate and
-spend their Class Events Fund with the consent of the Vice President for
-Finance. Events and activities paid for using a Class Events Fund should be
+There is one Class Events Fund for each of the four graduating classes. The
+relevant Class Representative may issue Allocation Orders to allocate and spend
+their Class Events Fund with the consent of the Vice President for Finance.
+Events and activities paid for using a Class Events Fund should be
 directed towards the graduating class corresponding to the fund from which the
 money was allocated. For the purposes of documentation, Class Events Fund
-Allocation Orders will be documented in the minutes of the next meeting of the
+Allocation Orders are documented in the minutes of the next meeting of the
 Council and treated as an Official Action.
 
 Class Representatives are encouraged to enlist the help of fellow classmates to
