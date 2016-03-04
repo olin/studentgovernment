@@ -88,7 +88,9 @@ Council and the Student Government. The executive officers are:
 2. the Vice President for Communications
 3. the Vice President for Finance
 
-Five of the ten representatives are Specialized Representatives who meet directly with senior administrators of the College on a regular basis. These representatives include:
+Seven of the ten representatives are Specialized Representatives who meet
+directly with senior administrators of the College on a regular basis. These
+representatives include:
 
 1. a Representative to Marketing and Communications and Development, Family,
    and Alumni Relations
@@ -96,18 +98,19 @@ Five of the ten representatives are Specialized Representatives who meet directl
    Resources
 3. a Representative for Curriculum and Faculty
 4. a Representative for Intercollegiate Affairs
-5. a Representative to IT 
-6. a Representative to Facilities 
-. a Representative to the Dining Services  
+5. a Representative to Information Technology 
+6. a Representative to Facilities
+7. a Representative to Dining Services  
 
-The remaining representatives include:
+The remaining three representatives are Class Representatives. These
+representatives include:
 
-1. two First Year representatives 
-2. the Senior Class Activities q representative  
+1. a Senior Class Activities Representative  
+2. two First Year Class Representatives 
 
 #### Section 2. Executives.
 
-There are be three executives who lead the Student Government and the
+There are three executives who lead the Student Government and the
 Council:
 
 **President.** The President serves as the Student Body President and
@@ -115,17 +118,20 @@ represents the Student Government to the Administration and Board of Trustees.
 The President serves as the presiding officer of the Student Government and the
 Council and as such calls, presides over, and creates agendas for meetings of
 the Student Government and the Council. The President moderates Town
-Meetings called by the Student Government. Along with the Vice President for Finance, the President has the authority to approve the creation or removal of student group financial accounts, which are separate from the main Student Activities Fund. 
+Meetings called by the Student Government. Along with the Vice President for
+Finance, the President has the authority to approve the creation or removal of
+student group financial accounts, which are separate from the main Student
+Activities Fund. 
 
-**Vice President for Communications.** In the absence of the President, the
-Vice President for Communications presides over the Student Government and
-the Council. The Vice President for Communications serves as the secretary
-of the Student Government and the Council and, as such, keeps meeting
-minutes and records of Official Actions and ensures that such documents are
-accessible to the Student Body, as specified in [Article
-13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
-The Vice President for Communications organize the publishing of the monthly report, and actively encourage Student Body participation in the improvement of the Student
-Government and Olin culture.
+**Vice President for Communications.** In the absence of the President, the Vice
+President for Communications presides over the Student Government and the
+Council. The Vice President for Communications serves as the secretary of the
+Student Government and the Council and, as such, keeps meeting minutes and
+records of Official Actions and ensures that such documents are accessible to
+the Student Body, as specified in [Article 13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
+The Vice President for Communications organize the publishing of the monthly
+report, and actively encourage Student Body participation in the improvement of
+the Student Government and Olin culture.
 
 **Vice President for Finance.** The Vice President for Finance keeps the
 official records of the Student Activities Fund and inform the Student Body on
@@ -140,8 +146,9 @@ Student Activities Fund account.
 
 #### Section 3. Specialized Representatives.
 
-There are five Specialized Representatives who represent the entire
-Student Body and meet directly with members of the President’s Cabinet. Each Specialized Representative:
+There are seven Specialized Representatives who represent the entire
+Student Body and meet directly with members of the President’s Cabinet. Each
+Specialized Representative:
 
 1. becomes familiar with the operations and policies of their relevant
    Administrative Department(s),
@@ -155,8 +162,7 @@ Student Body and meet directly with members of the President’s Cabinet. Each S
 6. uses their combined knowledge of the Student Body and their relevant
    Administrative Department(s) to prevent issues before they arise.
 
-The Student Body elects the following five Specialized Representatives:
-
+The Student Body elects the following seven Specialized Representatives:
 
 **Representative to Marketing and Communications and Development, Family, and
 Alumni Relations.** The Representative to Marketing and Communications, and
@@ -174,8 +180,8 @@ happening in their relevant departments.
 **Representative for Curriculum and Faculty.** The Representative for
 Curriculum and Faculty liases with the Associate Dean of Curriculum, the
 Associate Dean for Faculty Affairs and Development, and the Provost and Dean of
-Faculty and follows all actions and initiatives related to curriculum and faculty. This could include working with faculty and students to re-imatine curriculum or faculty comittees. Previous projects have been in Faculty Search, AHS, and 
-toolboxes.
+Faculty and follows all actions and initiatives related to curriculum and
+faculty.
 
 **Representative for Intercollegiate Affairs.** The Representative for
 Intercollegiate Affairs liases with the Director of the Collaboratory and
@@ -183,46 +189,36 @@ the administrators of the Babson/Olin/Wellesley Three College
 Collaboration and serve as the Student Body’s Ambassador to
 Babson/Olin/Wellesley Three College Collaboration and follows all actions and initiatives related to these groups. The Representative serves as Olin’s Ambassador to the Babson/Olin/Wellesley Student Council which advises the administrators of the Collaboration on issues of interest to the students of the three colleges.
 
-**Representative to IT" 
-The representative to information technology at Olin will liase with the head 
-of IT at Olin. This representative follows all activities and initiatives related
-to IT at Olin. This roles of this representative will be leading discussions 
-about IT preferences at Olin (such as with preferred email providers.) 
+**Representative to Information Technology** 
+The Representative to Information Technology liases with the Chief Information
+Officer and Director of Information Technology. This representative follows all
+activities and initiatives related to Information Technology at Olin.
 
 **Representative to Facilities** 
-The representative to facilities liases with the head of facilities and faculty
-responsible for student safety in the dining hall. This representative follows
-all activities and initiatives related to facilities at Olin, and will be 
-responsible for serving as a point of communication between facilities and the 
-student body. 
+The Representative to Facilities liases with the Vice President for Operations
+and the Director of Facilities and follows all activities and initiatives
+related to facilities, space, and maintenance.
 
-**Representative to Dining Hall Services**
-The representative to Dining Hall Services liases with the Director of Dining
-and (less frequently) the head of facilities. This representative follows all 
-actions and initiatives related to dining at Olin, and will be responsible for 
-reviewing the dining services provider and addressing health and nutritional 
-concerns related to the dining services provider. 
+**Representative to Dining Services**
+The Representative to Dining Services liases with the Vice President for
+Operations and the Manager of Dining and follows all actions and initiatives
+related to dining.
 
-#### Section 4. First Year Representatives
+#### Section 4. Class Representatives
 
-There are two First Year Representatives to aid in the First year class' transition into life at Olin. Each Representative:
+There are two First Year Class Representatives to aid in the First Year class'
+transition into life at Olin. Each First Year Class Representative:
 
-1. actively solicits feedback from the first year class to identify issues of
+1. actively solicits feedback from the First Year class to identify issues of
    concern and potential areas of improvement of student life that could be
    addressed by the Council,
 2. keeps in touch with their class to better advise the Student Government and
    the Council of the interests, wishes, and feelings of their class.
-3. Vote on issues relevant to their class and communicate to the administration
-about them if necessary.
 
-### Section 5. Senior Class Activities Representative 
-
-Representative is elected by the rising senior class following normal
-spring election procedures. The Senior Class Activities Representative
-ensures the completion of senior class obligations such as ordering class rings,
-organizing the class gift, fundraising, serving on the Commencement Steering
-Committee, and supporting the class representative in organizing class
-activities and Senior Week activities.
+The Senior Class elects a Senior Class Activities Representative who ensures the
+completion of senior class obligations such as ordering class rings, organizing
+the class gift, fundraising, serving on the Commencement Steering Committee, and
+Senior Week activities.
 
 #### Section 5. Meetings.
 
@@ -759,9 +755,6 @@ following eligibility restrictions will apply to the remaining Student
 Government positions. A student may run for any combination of positions but
 may only hold one voting position on the Student Government.
 
-(Solely) First Years are eligible to run for: 
-1. First Year Representative
-
 Rising Sophomores, Juniors, and Seniors are eligible to run for:
 1. President,
 2. Vice President for Communications,
@@ -782,8 +775,11 @@ Rising Seniors are also eligible to run for:
 2. Assistant Director of Clubs and Organizations, and
 3. Assistant Director of Service.
 
-(Solely) Rising seniors are eligible for:
-1. The Senior Class Activities Representative 
+Rising seniors are eligible for:
+1. The Senior Class Activities Representative
+
+First Years are eligible to run for: 
+1. First Year Class Representative
 
 #### Section 2. The Election Monitor.
 
@@ -942,6 +938,11 @@ second spring election cycle. If a position is not filled during the second
 spring election cycle, the election for the position will occur again during
 the fall election cycle. If a position is not filled during the fall election
 cycle, a special election for the position will be held.
+
+Per the Student Government Constitution, to ensure each graduating class has
+representation on the Council, in the case a particular graduating class would
+be unrepresented on the Council, the candidate from the unrepresented class who
+lost by the smallest margin is instead declared the winner of their election.
 
 #### Section 7. Impeachment.
 
