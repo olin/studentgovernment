@@ -88,156 +88,141 @@ Council and the Student Government. The executive officers are:
 2. the Vice President for Communications
 3. the Vice President for Finance
 
-Five of the ten representatives will be Specialized Representatives who will
-each meet directly with senior administrators of the College on a regular
-basis. These representatives will include:
+Five of the ten representatives are Specialized Representatives who meet directly with senior administrators of the College on a regular basis. These representatives include:
 
-1. a Representative to Operations
-2. a Representative to Marketing and Communications and Development, Family,
+1. a Representative to Marketing and Communications and Development, Family,
    and Alumni Relations
-3. a Representative to Admissions and the Office of Student Affairs and
+2. a Representative to Admissions and the Office of Student Affairs and
    Resources
-4. a Representative for Curriculum and Faculty
-5. a Representative for Intercollegiate Affairs
+3. a Representative for Curriculum and Faculty
+4. a Representative for Intercollegiate Affairs
+5. a Representative to IT 
+6. a Representative to Facilities 
+. a Representative to the Dining Services  
 
-The remaining five representatives will be Class Representatives. These
-representatives will include:
+The remaining representatives include:
 
-1. a Senior Class Representative
-2. a Junior Class Representative
-3. a Sophomore Class Representative
-4. two First Year Class Representatives.
+1. two First Year representatives 
+2. the Senior Class Activities q representative  
 
 #### Section 2. Executives.
 
-There will be three executives who will lead the Student Government and the
+There are be three executives who lead the Student Government and the
 Council:
 
 **President.** The President serves as the Student Body President and
 represents the Student Government to the Administration and Board of Trustees.
 The President serves as the presiding officer of the Student Government and the
 Council and as such calls, presides over, and creates agendas for meetings of
-the Student Government and the Council. The President will moderate Town
-Meetings called by the Student Government.
+the Student Government and the Council. The President moderates Town
+Meetings called by the Student Government. Along with the Vice President for Finance, the President has the authority to approve the creation or removal of student group financial accounts, which are separate from the main Student Activities Fund. 
 
 **Vice President for Communications.** In the absence of the President, the
-Vice President for Communications will preside over the Student Government and
-the Council. The Vice President for Communications will serve as the secretary
-of the Student Government and the Council and, as such, will keep meeting
-minutes and records of Official Actions and ensure that such documents are
+Vice President for Communications presides over the Student Government and
+the Council. The Vice President for Communications serves as the secretary
+of the Student Government and the Council and, as such, keeps meeting
+minutes and records of Official Actions and ensures that such documents are
 accessible to the Student Body, as specified in [Article
 13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
-The Vice President for Communications will advertise Student Government and
-Council related events, organize the publishing of the monthly report, and
-actively encourage Student Body participation in the improvement of the Student
+The Vice President for Communications organize the publishing of the monthly report, and actively encourage Student Body participation in the improvement of the Student
 Government and Olin culture.
 
-**Vice President for Finance.** The Vice President for Finance will keep the
+**Vice President for Finance.** The Vice President for Finance keeps the
 official records of the Student Activities Fund and inform the Student Body on
 how the Student Activities Fund is being allocated and spent throughout the
 year by, at least, emailing a report detailing the state of the Student
 Activities Fund to the Student Body once per semester. The Vice President for
-Finance will be the main point of contact for processing all payments and
-reimbursements for Student Activities Fund purchases. The Vice President for
-Finance will draft and introduce Allocation Order 0, as described in [Article
-9, Section 2](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-2-virtual-funds).
-The Vice President for Finance has the authority to approve the creation or
+Finance serves as the main point of contact for processing all payments and
+reimbursements for Student Activities Fund purchases. Along with the president, 
+the Vice President for Finance has the authority to approve the creation or
 removal of student group financial accounts which are separate from the main
 Student Activities Fund account.
 
 #### Section 3. Specialized Representatives.
 
-There will be five Specialized Representatives who will represent the entire
-Student Body and meet directly with members of the President’s Cabinet of the
-College. Each Specialized Representative will:
+There are five Specialized Representatives who represent the entire
+Student Body and meet directly with members of the President’s Cabinet. Each Specialized Representative:
 
-1. become familiar with the operations and policies of their relevant
+1. becomes familiar with the operations and policies of their relevant
    Administrative Department(s),
-2. assist their relevant Administrative Department(s) in gathering student
+2. assists their relevant Administrative Department(s) in gathering student
    opinions on issues important to the Administration,
-3. bring concerns of the Student Body to the attention of the Administration,
-4. bring concerns of the Administration to the attention of the Student
+3. brings concerns of the Student Body to the attention of the Administration,
+4. brings concerns of the Administration to the attention of the Student
    Government,
-5. make an effort to develop lasting solutions to issues of concern to the
+5. makes an effort to develop lasting solutions to issues of concern to the
    Student Body and the Administration, and
-6. use their combined knowledge of the Student Body and their relevant
+6. uses their combined knowledge of the Student Body and their relevant
    Administrative Department(s) to prevent issues before they arise.
 
-The Student Body will elect the following five Specialized Representatives:
+The Student Body elects the following five Specialized Representatives:
 
-**Representative to Operations.** The Representative to Operations will liaise
-with the College’s Vice President for Operations and Chief Information Officer
-and will keep themselves informed of any actions or initiatives related to
-student dining, facilities, or information technology at the College.
-Additionally, the Representative will solicit volunteers for operational
-committees and, after the completion of the committee appointment process,
-notify volunteers of whether or not they have been appointed. The
-Representative will keep an open dialog with each operational committee
-appointee in order to stay informed of the activities of each committee, and
-invite each appointee to at least one Council meeting per semester. The
-Representative will keep a list of operational committees and make that list
-available to the Student Body.
 
 **Representative to Marketing and Communications and Development, Family, and
 Alumni Relations.** The Representative to Marketing and Communications, and
-Development, Family, and Alumni Relations will liaise with the College’s Chief
+Development, Family, and Alumni Relations liaises with the College’s Chief
 Marketing Officer and Vice President of Development, Family, and Alumni
-Relations and will keep themselves informed of any actions or initiatives
-happening in their relevant departments.
+Relations and follows all actions and initiatives
+happening in their respective departments.
 
 **Representative to Admissions and the Office of Student Affairs and
 Resources.** The Representative to Admissions and the Office of Student Affairs
-and Resources will liaise with the Dean of Student Life and the Dean of
-Admissions and will keep themselves informed of any actions or initiatives
+and Resources liaises with the Dean of Student Life and the Dean of
+Admissions and follows all actions and initiatives
 happening in their relevant departments.
 
 **Representative for Curriculum and Faculty.** The Representative for
-Curriculum and Faculty will liaise with the Associate Dean of Curriculum, the
+Curriculum and Faculty liases with the Associate Dean of Curriculum, the
 Associate Dean for Faculty Affairs and Development, and the Provost and Dean of
-Faculty and will keep themselves informed of any actions or initiatives related
-to curriculum and faculty. Additionally, the Representative will solicit
-volunteers for faculty committees and, after the completion of the committee
-appointment process, notify volunteers of whether or not they have been
-appointed. The Representative will keep an open dialog with each faculty
-committee appointee in order to stay informed of the activities of each
-committee and invite each appointee to at least one Council meeting per
-semester. The Representative will keep a list of operational committees and
-make that list available to the Student Body.
+Faculty and follows all actions and initiatives related to curriculum and faculty. This could include working with faculty and students to re-imatine curriculum or faculty comittees. Previous projects have been in Faculty Search, AHS, and 
+toolboxes.
 
 **Representative for Intercollegiate Affairs.** The Representative for
-Intercollegiate Affairs will liaise with the Director of the Collaboratory and
-the Administrative Assistant to the Babson/Olin/Wellesley Three College
+Intercollegiate Affairs liases with the Director of the Collaboratory and
+the administrators of the Babson/Olin/Wellesley Three College
 Collaboration and serve as the Student Body’s Ambassador to
-Babson/Olin/Wellesley Three College Collaboration and will keep themselves
-informed of any actions or initiatives related to these groups. The
-Representative will serve as Olin’s Ambassador to the Babson/Olin/Wellesley
-Student Council which advises the administrators of the Collaboration on issues
-of interest to the students of the three colleges. The Representative will keep
-the student body informed as to what relations the College is developing with
-other institutions and how students can be involved in these relations.
+Babson/Olin/Wellesley Three College Collaboration and follows all actions and initiatives related to these groups. The Representative serves as Olin’s Ambassador to the Babson/Olin/Wellesley Student Council which advises the administrators of the Collaboration on issues of interest to the students of the three colleges.
 
-As the definition, function, and communication pathways of the Specialized
-Representatives are to be discovered during the first year of this document’s
-existence (2015-2016 school year), [Article 2, Section
-3](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-3-specialized-representatives)
-must be amended before the Spring Elections of 2016.
+**Representative to IT" 
+The representative to information technology at Olin will liase with the head 
+of IT at Olin. This representative follows all activities and initiatives related
+to IT at Olin. This roles of this representative will be leading discussions 
+about IT preferences at Olin (such as with preferred email providers.) 
 
-#### Section 4. Class Representatives.
+**Representative to Facilities** 
+The representative to facilities liases with the head of facilities and faculty
+responsible for student safety in the dining hall. This representative follows
+all activities and initiatives related to facilities at Olin, and will be 
+responsible for serving as a point of communication between facilities and the 
+student body. 
 
-There will be five Class Representatives who will represent their respective
-graduating classes. Each Class Representative will:
+**Representative to Dining Hall Services**
+The representative to Dining Hall Services liases with the Director of Dining
+and (less frequently) the head of facilities. This representative follows all 
+actions and initiatives related to dining at Olin, and will be responsible for 
+reviewing the dining services provider and addressing health and nutritional 
+concerns related to the dining services provider. 
 
-1. actively solicit feedback from their respective class to identify issues of
+#### Section 4. First Year Representatives
+
+There are two First Year Representatives to aid in the First year class' transition into life at Olin. Each Representative:
+
+1. actively solicits feedback from the first year class to identify issues of
    concern and potential areas of improvement of student life that could be
    addressed by the Council,
-2. keep in touch with their class to better advise the Student Government and
-   the Council of the interests, wishes, and feelings of their class, and
-3. participate in the organization of class events, and/or the allocation of
-   their Class Events Fund.
+2. keeps in touch with their class to better advise the Student Government and
+   the Council of the interests, wishes, and feelings of their class.
+3. Vote on issues relevant to their class and communicate to the administration
+about them if necessary.
 
-Each class will have one class representative, except for the First Year Class,
-which will have two representatives, as this class would otherwise be
-under-represented on the Council.
+### Section 5. Senior Class Activities Representative 
+
+Representative is elected by the rising senior class following normal
+spring election procedures. The Senior Class Activities Representative
+ensures the completion of senior class obligations such as ordering class rings,
+organizing the class gift, fundraising, serving on the Commencement Steering
+Committee, and supporting the class representative in organizing class
+activities and Senior Week activities.
 
 #### Section 5. Meetings.
 
@@ -315,28 +300,15 @@ President for Finance. For the purposes of documentation, Discretionary Fund
 Allocation Orders will be documented in the minutes of the next meeting of the
 Council and treated as an Official Action.
 
-#### Section 12. Class Events Funds.
 
-There will be one Class Events Fund for each of the four graduating classes.
-The relevant Class Representative may issue Allocation Orders to allocate and
-spend their Class Events Fund with the consent of the Vice President for
-Finance. Events and activities paid for using a Class Events Fund should be
-directed towards the graduating class corresponding to the fund from which the
-money was allocated. For the purposes of documentation, Class Events Fund
-Allocation Orders will be documented in the minutes of the next meeting of the
-Council and treated as an Official Action.
-
-Class Representatives are encouraged to enlist the help of fellow classmates to
-organize and plan class events.
-
-#### Section 13. Recommendations.
+#### Section 12. Recommendations.
 
 As the core of the Student Government, the Council may express the official
 opinion of the Student Government in the form of Recommendations. It is the
 responsibility of the President to ensure Recommendations are conveyed to the
 appropriate member(s) of the College’s Administration.
 
-#### Section 14. Council Projects.
+#### Section 13. Council Projects.
 
 The establishment of a Council Project is a commitment by the Council to
 address an issue or topic. To establish a Project, a Project Document must be
@@ -351,7 +323,7 @@ is “Active” and is the responsibility of the Council until the Council marks
 of the school year will carry over into the next year. Council Projects may be
 proposed by any member of the Olin community.
 
-#### Section 15. Committee Appointments.
+#### Section 14. Committee Appointments.
 
 When requested by the Administration to appoint students to faculty and
 operational committees, the Council will begin the appointment process. In the
@@ -361,7 +333,7 @@ least three days to volunteer. At a meeting following the volunteering period,
 the Council will discuss the candidates and appoint students to the committees
 by excellence voting.
 
-#### Section 16. Appellate Authority.
+#### Section 15. Appellate Authority.
 
 If a major disagreement arises between a Director and their Assistant Director
 or between a Committee and a club or organization, either party may appeal to
@@ -374,7 +346,7 @@ invite the parties involved to return in order to suggest a solution to the
 disagreement. However, the Council must vote without the parties involved
 present and its decision will be final.
 
-#### Section 17. Monthly Reports.
+#### Section 16. Monthly Reports.
 
 Each month, the Council will publish a brief report to the Student Body
 outlining the accomplishments and activities of the Student Government for that
@@ -388,19 +360,6 @@ conflict of interest. Specifically, a member should excuse themselves if an
 Allocation Order provides direct and exclusive benefit to that member or if the
 vote relates to an appointment or internal election in which they are a
 candidate.
-
-#### Section 19. Ad Hoc Representatives.
-
-The Student Government establishes the following non-voting ad hoc
-representatives of the Council:
-
-**The Senior Class Activities Representative.** The Senior Class Activities
-Representative will be elected by the rising senior class following normal
-spring election procedures. The Senior Class Activities Representative will
-ensure the completion of senior class obligations such as ordering class rings,
-organizing the class gift, fundraising, serving on the Commencement Steering
-Committee, and supporting the class representative in organizing class
-activities and Senior Week activities.
 
 ## Part II. Relative to the Committees.
 
@@ -800,6 +759,9 @@ following eligibility restrictions will apply to the remaining Student
 Government positions. A student may run for any combination of positions but
 may only hold one voting position on the Student Government.
 
+(Solely) First Years are eligible to run for: 
+1. First Year Representative
+
 Rising Sophomores, Juniors, and Seniors are eligible to run for:
 1. President,
 2. Vice President for Communications,
@@ -820,8 +782,8 @@ Rising Seniors are also eligible to run for:
 2. Assistant Director of Clubs and Organizations, and
 3. Assistant Director of Service.
 
-The Class Representative positions are only open to students from the
-particular class which the position represents.
+(Solely) Rising seniors are eligible for:
+1. The Senior Class Activities Representative 
 
 #### Section 2. The Election Monitor.
 
