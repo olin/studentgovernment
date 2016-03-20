@@ -139,11 +139,9 @@ year by, at least, emailing a report detailing the state of the Student
 Activities Fund to the Student Body once per semester. The Vice President for
 Finance will be the main point of contact for processing all payments and
 reimbursements for Student Activities Fund purchases. The Vice President for
-Finance will draft and introduce Allocation Order 0, as described in [Article
-9, Section 2](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-2-virtual-funds).
-The Vice President for Finance has the authority to approve the creation or
-removal of student group financial accounts which are separate from the main
-Student Activities Fund account.
+Finance has the authority to approve the creation or removal of student group
+financial accounts which are separate from the main Student Activities Fund
+account.
 
 #### Section 3. Specialized Representatives.
 
