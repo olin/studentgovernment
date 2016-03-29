@@ -138,11 +138,9 @@ year by, at least, emailing a report detailing the state of the Student
 Activities Fund to the Student Body once per semester. The Vice President for
 Finance serves as the main point of contact for processing all payments and
 reimbursements for Student Activities Fund purchases. The Vice President for
-Finance drafts and introduces Allocation Order 0, as described in [Article
-9, Section 2](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-2-virtual-funds).
-The Vice President for Finance has the authority to approve the creation or
-removal of student group financial accounts which are separate from the main
-Student Activities Fund account.
+Finance has the authority to approve the creation or removal of student group
+financial accounts which are separate from the main Student Activities Fund
+account.
 
 #### Section 3. Specialized Representatives.
 
@@ -225,13 +223,11 @@ must be amended before the Spring Elections of 2016.
 There are five Class Representatives who represent their respective graduating
 classes. Each Class Representative:
 
-1. actively solicits feedback from their respective class to identify issues of
-   concern and potential areas of improvement of student life that could be
-   addressed by the Council,
-2. keeps in touch with their class to better advise the Student Government and
-   the Council of the interests, wishes, and feelings of their class, and
-3. participates in the organization of class events, and/or the allocation of
-   their Class Events Fund.
+1. holds weekly office hours to communicate with their class and listen to
+   their concerns,
+2. conveys the Council's function and activities to their class, and
+3. actively improves student life by championing or contributing to Council
+   Projects, allocating their Class Fund, and organizing class events.
 
 Each class has one class representative, except for the First Year Class,
 which has two representatives, as this class would otherwise be
@@ -311,16 +307,15 @@ President for Finance. For the purposes of documentation, Discretionary Fund
 Allocation Orders is documented in the minutes of the next meeting of the
 Council and treated as an Official Action.
 
-#### Section 12. Class Events Funds.
+#### Section 12. Class Funds.
 
-There is one Class Events Fund for each of the four graduating classes. The
-relevant Class Representative may issue Allocation Orders to allocate and spend
-their Class Events Fund with the consent of the Vice President for Finance.
-Events and activities paid for using a Class Events Fund should be
-directed towards the graduating class corresponding to the fund from which the
-money was allocated. For the purposes of documentation, Class Events Fund
-Allocation Orders are documented in the minutes of the next meeting of the
-Council and treated as an Official Action.
+There is one Class Fund for each of the four graduating classes. The relevant
+Class Representative may issue Allocation Orders to allocate and spend their 
+Class Fund with the consent of the Vice President for Finance. Events and
+activities paid for using a Class Fund should be directed towards the graduating
+class corresponding to the fund from which the money was allocated. For the
+purposes of documentation, Class Fund Allocation Orders are documented in the
+minutes of the next meeting of the Council and treated as an Official Action.
 
 Class Representatives are encouraged to enlist the help of fellow classmates to
 organize and plan class events.
@@ -725,7 +720,7 @@ funds:
    Council of Olin Representatives,
 2. the Discretionary Fund, which will be managed and allocated by the President
    and Vice President for Finance of the Council of Olin Representatives,
-3. the Class Events Funds, consisting of an individual fund for each graduating
+3. the Class Funds, consisting of an individual fund for each graduating
    class, which will be managed and allocated by the relevant Class
    Representative and the Vice President for Finance,
 4. the Honor Board Fund, which will be managed and allocated by the Honor
