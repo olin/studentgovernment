@@ -67,8 +67,8 @@ next year's budget, designated Allocation Order 0, informed by their experience
 of a full year in office. The outgoing Student Government passes their draft to
 the incoming Student Government who, within a month after Transition Day, amends
 or approves Allocation Order 0 to establish a budget for their session of
-Student Government. Allocation Order 0 will appropriate money for the virtual
-funds defined in [Article 9, Section 2](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-2-virtual-funds).
+Student Government. Allocation Order 0 appropriates money for the virtual funds
+defined in [Article 9, Section 2](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-2-virtual-funds).
 
 #### Section 7. A Service to the Community.
 
@@ -110,7 +110,7 @@ representatives include:
 
 #### Section 2. Executives.
 
-There are three executives who will lead the Student Government and the Council:
+There are three executives who lead the Student Government and the Council:
 
 **President.** The President serves as the Student Body President and
 represents the Student Government to the Administration and Board of Trustees.
@@ -144,9 +144,9 @@ account.
 
 #### Section 3. Specialized Representatives.
 
-There are five Specialized Representatives who will represent the entire
-Student Body and meet directly with members of the President’s Cabinet of the
-College. Each Specialized Representative:
+There are five Specialized Representatives who represent the entire Student Body
+and meet directly with members of the President’s Cabinet of the College. Each
+Specialized Representative:
 
 1. becomes familiar with the operations and policies of their relevant
    Administrative Department(s),
@@ -331,25 +331,25 @@ appropriate member(s) of the College’s Administration.
 
 The establishment of a Council Project is a commitment by the Council to
 address an issue or topic. To establish a Project, a Project Document must be
-approved by the Council. A Project Document must include at least: a title, the
-date established, the goal, and the timeframe over which the goal is to be
-achieved. The Project Document is a working document. The President will
-appoint a Project Lead who is responsible for coordinating the Project and a
-Project Team who will assist in the execution of the Project. Project Teams can
-consist of any members of the Olin community. When a Project is established, it
-is “Active” and is the responsibility of the Council until the Council marks it
-“Complete,” “Suspended,” or “Unsuccessful.” Any Projects remaining at the end
-of the school year will carry over into the next year. Council Projects may be
-proposed by any member of the Olin community.
+approved by the Council. A Project Document includes at least: a title, the date
+established, the goal, and the timeframe over which the goal is to be achieved.
+The Project Document is a working document. The President appoints a Project
+Lead who is responsible for coordinating the Project and a Project Team who
+assists in the execution of the Project. Project Teams can consist of any
+members of the Olin community. When a Project is established, it is “Active” and
+is the responsibility of the Council until the Council marks it “Complete,”
+“Suspended,” or “Unsuccessful.” Any Projects remaining at the end of the school
+year carry over into the next year. Council Projects may be proposed by any
+member of the Olin community.
 
 #### Section 15. Committee Appointments.
 
 When requested by the Administration to appoint students to faculty and
-operational committees, the Council will begin the appointment process. In the
-appointment process, the Council will notify the Student Body of openings on
-committees and the position’s description, and students will be allowed at
+operational committees, the Council begins the appointment process. In the
+appointment process, the Council notifies the Student Body of openings on
+committees and the position’s description, and students are allowed at
 least three days to volunteer. At a meeting following the volunteering period,
-the Council will discuss the candidates and appoint students to the committees
+the Council discusses the candidates and appoints students to the committees
 by excellence voting.
 
 #### Section 16. Appellate Authority.
@@ -358,19 +358,18 @@ If a major disagreement arises between a Director and their Assistant Director
 or between a Committee and a club or organization, either party may appeal to
 the Council by contacting the presiding officer in writing and requesting that
 the Council arbitrate the disagreement. At the next meeting of the Council, the
-presiding officer will request the presence of both parties, and the Council
-will hear testimony. The parties involved in the disagreement will then leave
-the room, and the Council will deliberate. If appropriate, the Council may
-invite the parties involved to return in order to suggest a solution to the
-disagreement. However, the Council must vote without the parties involved
-present and its decision will be final.
+presiding officer requests the presence of both parties, and the Council hears
+testimony. The parties involved in the disagreement then leave the room, and the
+Council deliberates. If appropriate, the Council may invite the parties involved
+to return in order to suggest a solution to the disagreement. However, the
+Council votes without the parties involved present and its decision is final.
 
 #### Section 17. Monthly Reports.
 
-Each month, the Council will publish a brief report to the Student Body
-outlining the accomplishments and activities of the Student Government for that
-month as well as any activities of the Administration that would be of interest
-to the Student Body.
+Each month, the Council publishes a brief report to the Student Body outlining
+the accomplishments and activities of the Student Government for that month as
+well as any activities of the Administration that would be of interest to the
+Student Body.
 
 #### Section 18. Conflicts of Interest.
 
@@ -386,12 +385,12 @@ The Student Government establishes the following non-voting ad hoc
 representatives of the Council:
 
 **The Senior Class Activities Representative.** The Senior Class Activities
-Representative will be elected by the rising senior class following normal
-spring election procedures. The Senior Class Activities Representative will
-ensure the completion of senior class obligations such as ordering class rings,
-organizing the class gift, fundraising, serving on the Commencement Steering
-Committee, and supporting the class representative in organizing class
-activities and Senior Week activities.
+Representative is elected by the rising senior class following normal spring
+election procedures. The Senior Class Activities Representative ensures the
+completion of senior class obligations such as ordering class rings, organizing
+the class gift, fundraising, serving on the Commencement Steering Committee, and
+supporting the class representative in organizing class activities and Senior
+Week activities.
 
 ## Part II. Relative to the Committees.
 
@@ -414,49 +413,49 @@ with joint approval.
 
 Pursuant to its mission, as defined in the Constitution ([Article 6, Section
 1](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#section-1-mission-1)),
-the Student Activities Committee will plan and execute campus-wide events,
-facilitate club events as requested, and maintain a public calendar of events.
-The Committee will hold events of interest to the Student Body.
+the Student Activities Committee plans and executes campus-wide events,
+facilitates club events as requested, and maintains a public calendar of events.
+The Committee holds events of interest to the Student Body.
 
 #### Section 2. Officers.
 
-The Committee will have two elected Officers, the Director and Assistant
-Director of Student Activities.
+The Committee has two elected Officers, the Director and Assistant Director of
+Student Activities.
 
-**Director of Student Activities.** The Director of Student Activities will run
-meetings of the Committee and generally oversee the Committee’s activities. The
-Director will attend meetings of the Student Government and be prepared to
-report the activities and spending of the Committee. The Director will send a
-summary of spendings to the Vice President for Finance once a week broken down
-by event. With the agreement of the Assistant Director, the Director may
-appropriate money from the Student Events Fund.
+**Director of Student Activities.** The Director of Student Activities runs
+meetings of the Committee and generally oversees the Committee’s activities. The
+Director attends meetings of the Student Government prepared to report the
+activities and spending of the Committee. The Director sends a summary of
+spendings to the Vice President for Finance once a week broken down by event.
+With the agreement of the Assistant Director, the Director may appropriate money
+from the Student Events Fund.
 
 **Assistant Director of Student Activities.** The Assistant Director of Student
-Activities will assist the Director in the operations of the Committee. The
-Assistant Director will keep the financial records, meeting minutes, and
-membership list of the Committee. In the absence of the Director, the Assistant
-Director will perform the duties of the Director and attend meetings of the
-Student Government. With the agreement of the Director, the Assistant Director
-may appropriate money from the Student Events Fund.
+Activities assists the Director in the operations of the Committee. The
+Assistant Director keeps the financial records, meeting minutes, and membership
+list of the Committee. In the absence of the Director, the Assistant Director
+performs the duties of the Director and attends meetings of the Student
+Government. With the agreement of the Director, the Assistant Director may
+appropriate money from the Student Events Fund.
 
 #### Section 3. General Membership.
 
 Any student interested in helping to organize school-wide events and who
-attends meetings of the Committee will be considered part of the General
-Membership of the Committee. The Assistant Director of Student Activities will
-keep a list of the General Membership.
+attends meetings of the Committee is considered part of the General Membership
+of the Committee. The Assistant Director of Student Activities keeps a list of
+the General Membership.
 
 #### Section 4. Meetings.
 
-The Committee will meet weekly to coordinate and plan for upcoming events and
-social opportunities as well as reflect on the success of previous activities.
-Meetings of the Committee will include the Officers and the General Membership.
-Announcements of meetings times and agendas will be sent to the SAC mailing
-list prior to meetings.
+The Committee meets weekly to coordinate and plan for upcoming events and social
+opportunities and to reflect on the success of previous activities. Meetings of
+the Committee will include the Officers and the General Membership.
+Announcements of meetings times and agendas is sent to the SAC mailing list
+prior to meetings.
 
 #### Section 5. Student Events Fund.
 
-The Student Events Fund will be allocated jointly by the Director and Assistant
+The Student Events Fund is allocated jointly by the Director and Assistant
 Director of Student Activities for the purpose of fulfilling the Mission and
 Function of the Committee. Events and activities paid for using the Student
 Events Fund should be open to the entire Student Body.
@@ -467,10 +466,10 @@ Any member of the Student Body may request funding from the Student Events Fund
 for an activity consistent with the Function of the Committee by submitting a
 request to the Director of Student Activities. So that one person cannot
 allocate large amounts of money alone, both the Director and Assistant Director
-must approve allocations. The Director will serve as the point of contact for
+must approve allocations. The Director serves as the point of contact for
 students who are requesting funds from the Committee, but any request must be
-approved by both Officers. The Director must send a summary of expenditures to
-the Vice President for Finance once per week broken down by event.
+approved by both Officers. The Director sends a summary of expenditures to the
+Vice President for Finance once per week broken down by event.
 
 ### Article 5. The Committee for Clubs and Organizations.
 
@@ -478,82 +477,80 @@ the Vice President for Finance once per week broken down by event.
 
 Pursuant to its mission, as defined in the Constitution ([Article 7, Section
 1](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#section-1-mission-2)),
-the Committee for Clubs and Organizations will allocate organization budgets
-annually and allocate funds to clubs upon request.
+the Committee for Clubs and Organizations allocates organization budgets
+annually and allocates funds to clubs upon request.
 
 #### Section 2. Officers.
 
-The Committee will have two elected Officers, the Director and Assistant
-Director of Clubs and Organizations.
+The Committee has two elected Officers, the Director and Assistant Director of
+Clubs and Organizations.
 
-**Director of Clubs and Organizations.** The Director of Clubs and
-Organizations will run meetings of the Committee and generally oversee the
-Committee’s activities.  The Director will approve the creation of Student
-Groups, classify them as Clubs or Organizations, and generally help them meet
-their goals. The Director will send a summary of spendings to the Vice
-President for Finance once a week broken down by Student Group. The Director
-will attend meetings of the Student Government and be prepared to report the
-activities and spending of the Committee. With the agreement of the Assistant
-Director, the Director may appropriate money from the Clubs and Organizations
-Fund.
+**Director of Clubs and Organizations.** The Director of Clubs and Organizations
+runs meetings of the Committee and generally oversees the Committee’s
+activities. The Director approves the creation of Student Groups, classifies
+them as Clubs or Organizations, and generally helps them meet their goals. The
+Director sends a summary of spendings to the Vice President for Finance once per
+week broken down by Student Group. The Director attends meetings of the Student
+Government prepared to report the activities and spending of the Committee. With
+the agreement of the Assistant Director, the Director may appropriate money from
+the Clubs and Organizations Fund.
 
 **Assistant Director of Clubs and Organizations.** The Assistant Director of
-Clubs and Organizations will assist the Director in the operations of the
-Committee. The Assistant Director will keep financial records of the Committee.
-In the absence of the Director, the Assistant Director will perform the duties
-of the Director and attend meetings of the Student Government. With the
-agreement of the Director, the Assistant Director may appropriate money from
-the Clubs and Organizations Fund.
+Clubs and Organizations assists the Director in the operations of the Committee.
+The Assistant Director keeps financial records of the Committee. In the absence
+of the Director, the Assistant Director performs the duties of the Director and
+attends meetings of the Student Government. With the agreement of the Director,
+the Assistant Director may appropriate money from the Clubs and Organizations
+Fund.
 
 #### Section 3. General Membership.
 
-The General Membership of the Committee shall include the leadership of every
-student club and organization.
+The General Membership of the Committee includes the leadership of every student
+club and organization.
 
 #### Section 4. Meetings.
 
-Meetings of the Committee will include the Officers and the General Membership
+Meetings of the Committee include the Officers and the General Membership
 of the Committee. Meetings may be called at the discretion of the Director of
 Clubs and Organizations as necessary for the purpose of informing clubs and
 organizations of funding procedures and issues of importance.
 
 #### Section 5. Student Group Classifications.
 
-Student Groups will be categorized by the Director of Clubs and Organizations
-into one of two classifications. A Student Group’s classification determines
-how a Student Group is allocated money.
+Student Groups are categorized by the Director of Clubs and Organizations into
+one of two classifications. A Student Group’s classification determines how a
+Student Group is allocated money.
 
-**Clubs.** By default, Student Groups will be classified as Clubs. Clubs
-generally have a smaller membership, are newer, and/or usually request less
-money from the Committee. Clubs request money from the Committee as needed by
-sending a request to the Director.
+**Clubs.** By default, Student Groups are classified as Clubs. Clubs generally
+have a smaller membership, are newer, and/or usually request less money from the
+Committee. Clubs request money from the Committee as needed by sending a request
+to the Director.
 
 **Organizations.** A Student Group may petition to the Director to be
 classified as an Organization. Organizations are student groups that have
 demonstrated a need for significant or consistent funding. Notable indicators
 for being a good candidate for Organization status include having at least 10
 members, and existing for at least 1 year. Failed petitions to become an
-Organization can be appealed to the Council of Olin Representatives, who will
-decide the status of the Group for the remainder of the school year.
-Organizations request an annual budget from the Committee at the beginning of
-the school year. Once a budget is allocated, an Organization may spend its
-money without further approval from the Committee or its Officers.
-Organizations may request additional funds as needed from the Committee.
-Maintaining Organization status is contingent on an Organization keeping
-accurate financial records which can be produced upon request. Organization
-status is granted for one year at a time.
+Organization can be appealed to the Council of Olin Representatives, who decides
+the status of the Group for the remainder of the school year. Organizations
+request an annual budget from the Committee at the beginning of the school year.
+Once a budget is allocated, an Organization may spend its money without further
+approval from the Committee or its Officers. Organizations may request
+additional funds as needed from the Committee. Maintaining Organization status
+is contingent on an Organization keeping accurate financial records which can be
+produced upon request. Organization status is granted for one year at a time.
 
 #### Section 6. Clubs and Organizations Fund.
 
-The Clubs and Organizations Fund will be allocated jointly by the Director and
+The Clubs and Organizations Fund is allocated jointly by the Director and
 Assistant Director of Clubs and Organizations for the purpose of fulfilling the
 Mission and Function of the Committee.
 
 #### Section 7. Funding Procedure.
 
-The Director of Clubs and Organizations will define the system for requesting
-club funding every year. A description of this system will be made available to
-the Student Body. The following rules will apply to club funding requests:
+The Director of Clubs and Organizations defines the system for requesting club
+funding every year. A description of this system is made available to the
+Student Body. The following rules apply to club funding requests:
 
 1. Every request must come in at least 72 hours before the event. Any purchases
    from amazon.com require a 2-week requesting period. Requests not meeting
@@ -581,7 +578,7 @@ the Student Body. The following rules will apply to club funding requests:
 #### Section 8. Spending Limits and Rules.
 
 In order to fairly distribute club funding, the following spending limits and
-rules will be established.
+rules are established.
 
 ##### General Guidelines.
 1. When a request is made, the requestor should include the expected turnout
@@ -592,9 +589,9 @@ rules will be established.
 3. For a one-time, off-campus event, the suggested limit is $10 per person.
 4. For a recurring on-campus event, the suggested limit is $3 per person.
 5. For a recurring off-campus event, the suggested limit is $5 per person.
-6. These limits will not be hard limits. If an event is unthrowable at this
-   limit, the Director of Clubs and Organizations may approve the funding
-   necessary to run the event.
+6. These limits are not hard limits. If an event is unthrowable at this limit,
+   the Director of Clubs and Organizations may approve the funding necessary to
+   run the event.
 7. If a club wants to purchase items for long term use (more than 1 semester),
    the club has a soft limit of $20 per club member. Usually this is seen as
    the majority of the club’s spending for the year.
@@ -607,8 +604,8 @@ rules will be established.
 2. Clubs may however purchase general meals for the club members.
 3. Clubs have a hard limit of $3 per person to purchase food for events.
   * This limit does not affect clubs or events where food is the focus.
-4. Questions and edge cases regarding food will be handled at the discretion of
-   the Director of Clubs and Organizations.
+4. Questions and edge cases regarding food are handled at the discretion of the
+   Director of Clubs and Organizations.
 
 #### Section 9. Joint Events.
 
@@ -623,33 +620,32 @@ Committees.
 
 Pursuant to its mission, as defined in the Constitution ([Article 8, Section
 1](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#section-1-mission-3)),
-the Committee for Supporting, Encouraging, and Recognizing Volunteerism will
-oversee the direction, continuity, and ongoing health of community service at
-the College. The Committee will allocate service related organization budgets
-annually and allocate funds to service related clubs upon request. The
-Committee may hold or coordinate events and activities related to service and
-volunteerism at the College.
+the Committee for Supporting, Encouraging, and Recognizing Volunteerism oversees
+the direction, continuity, and ongoing health of community service at the
+College. The Committee allocates service related organization budgets annually
+and allocates funds to service related clubs upon request. The Committee may
+hold or coordinate events and activities related to service and volunteerism at
+the College.
 
 #### Section 2. Officers.
 
-The Committee will have two elected Officers, the Director and Assistant
-Director of Service.
+The Committee has two elected Officers, the Director and Assistant Director of
+Service.
 
-**Director of Service.** The Director of Service will run meetings of the
-Committee and generally oversee the Committee’s activities. The Director will
-act as the voice of the Committee and thereby market and advertise on behalf of
-the Committee. The Director will attend meetings of the Student Government and
-be prepared to report the activities and spending of the Committee. With the
-agreement of the Assistant Director, the Director may appropriate money from
-the Service Fund.
+**Director of Service.** The Director of Service runs meetings of the Committee
+and generally oversees the Committee’s activities. The Director acts as the
+voice of the Committee and thereby markets and advertises on behalf of the
+Committee. The Director attends meetings of the Student Government prepared to
+report the activities and spending of the Committee. With the agreement of the
+Assistant Director, the Director may appropriate money from the Service Fund.
 
-**Assistant Director of Service.** The Assistant Director of Service will
-assist the Director in the operations of the Committee. The Assistant Director
-will keep the financial records, meeting minutes, service activity records, and
-membership list of the Committee. In the absence of the Director, the Assistant
-Director will perform the duties of the Director and attend meetings of the
-Student Government. With the agreement of the Director, the Assistant Director
-may appropriate money from the Service Fund.
+**Assistant Director of Service.** The Assistant Director of Service assists the
+Director in the operations of the Committee. The Assistant Director keeps the
+financial records, meeting minutes, service activity records, and membership
+list of the Committee. In the absence of the Director, the Assistant Director
+performs the duties of the Director and attends meetings of the Student
+Government. With the agreement of the Director, the Assistant Director may
+appropriate money from the Service Fund.
 
 #### Section 3. General Membership.
 
@@ -658,43 +654,41 @@ philanthropic endeavors of their choice” by the Founding Precepts of Olin
 College (Section 5). Therefore, there is an expectation that the entire Student
 Body must maintain a spirit of volunteerism. More specifically, any student
 interested in helping to organize school-wide service events and who attends
-meetings of the Committee will be considered part of the General Membership of
-the Committee.
+meetings of the Committee is considered part of the General Membership of the
+Committee.
 
 #### Section 4. Meetings.
 
-The Committee will meet weekly to coordinate and plan for upcoming events and
-service opportunities as well as reflect on the success of previous activities.
-Meetings of the Committee will include the Officers and the General Membership.
-The Director and Assistant Director of Service will also schedule regular
-meetings with the Student Affairs adviser, faculty adviser, and staff adviser
-to keep them up to date and find opportunities to involve the entire Olin
-community in maintaining a spirit of service and volunteerism. Announcements of
-meetings times and agendas will be sent to the SERV mailing list prior to
-meetings.
+The Committee meets weekly to coordinate and plan for upcoming events and
+service opportunities and to reflect on the success of previous activities.
+Meetings of the Committee include the Officers and the General Membership. The
+Director and Assistant Director of Service also schedule regular meetings with
+the Student Affairs adviser, faculty adviser, and staff adviser to keep them up
+to date and find opportunities to involve the entire Olin community in
+maintaining a spirit of service and volunteerism. Announcements of meetings
+times and agendas are sent to the SERV mailing list prior to meetings.
 
 #### Section 5. Service Fund.
 
-The Service Fund will be allocated jointly by the Director and Assistant
-Director of Service for the purpose of fulfilling the Mission and Function of
-the Committee.
+The Service Fund is allocated jointly by the Director and Assistant Director of
+Service for the purpose of fulfilling the Mission and Function of the Committee.
 
 #### Section 6. Funding Procedures.
 
-The Committee for Supporting, Encouraging, and Recognizing Volunteerism will
-allocate the Service Fund as follows.
+The Committee for Supporting, Encouraging, and Recognizing Volunteerism
+allocates the Service Fund as follows.
 
 **School-wide Service Events.** The Director and Assistant Director of Service
-and the General Membership of the Committee will be able to make purchases for
+and the General Membership of the Committee are able to make purchases for
 school-wide service events within an agreed upon budget for each event decided
 by the Director and Assistant Director of Service.
 
 **Service Pursuits.** Through the Service Pursuits program, students may apply
 for transportation and supply funding for a service activity. These projects
-must be reviewed and approved by the Director and the Assistant Director of
-Service. Students may form groups in order to collectively receive more funding
-for a project. We encourage larger groups of students to work together on
-service projects to increase philanthropic spirit within the Community.
+are reviewed and approved by the Director and the Assistant Director of Service.
+Students may form groups in order to collectively receive more funding for a
+project. We encourage larger groups of students to work together on service
+projects to increase philanthropic spirit within the Community.
 
 **Service Student Groups.** While General Student Groups are funded by the
 Committee for Clubs and Organizations, Service Student Groups may be funded by
@@ -713,28 +707,27 @@ Student Activities Fee rests with the Board of Trustees.
 
 #### Section 2. Virtual Funds.
 
-Allocation Order 0 will establish and allocate money for the following virtual
+Allocation Order 0 establishes and allocates money for the following virtual
 funds:
 
-1. the Student Initiatives Fund, which will be managed and allocated by the
-   Council of Olin Representatives,
-2. the Discretionary Fund, which will be managed and allocated by the President
-   and Vice President for Finance of the Council of Olin Representatives,
+1. the Student Initiatives Fund, which is managed and allocated by the Council
+   of Olin Representatives,
+2. the Discretionary Fund, which is managed and allocated by the President and
+   Vice President for Finance of the Council of Olin Representatives,
 3. the Class Funds, consisting of an individual fund for each graduating
-   class, which will be managed and allocated by the relevant Class
-   Representative and the Vice President for Finance,
-4. the Honor Board Fund, which will be managed and allocated by the Honor
-   Board,
-5. the Student Events Fund, which will be managed and allocated by the Student
+   class, which is managed and allocated by the relevant Class Representative
+   and the Vice President for Finance,
+4. the Honor Board Fund, which is managed and allocated by the Honor Board,
+5. the Student Events Fund, which is managed and allocated by the Student
    Activities Committee,
-6. the Clubs and Organizations Fund, which will be managed and allocated by the
+6. the Clubs and Organizations Fund, which is managed and allocated by the
    Committee for Clubs and Organizations,
-7. the Service Fund, which will be managed and allocated by the Committee for
+7. the Service Fund, which is managed and allocated by the Committee for
    Supporting, Encouraging, and Recognizing Volunteerism,
-8. the Sports Fund, which will be managed and allocated by the College’s Office
+8. the Sports Fund, which is managed and allocated by the College’s Office
    of Student Affairs and Resources, and
-9. the Recreational Health Organization Fund, which will be managed and
-   allocated by the College’s Office of Student Affairs and Resources.
+9. the Recreational Health Organization Fund, which is managed and allocated by
+   the College’s Office of Student Affairs and Resources.
 
 Some money from the Student Activities Fund may remain unallocated for later
 allocation as necessary.
@@ -748,10 +741,10 @@ the Student Activities Fund.
 
 #### Section 1. Meetings.
 
-Audits of the Student Government will occur twice per year in the middle of
-each semester. The Chair of the Honor Board and the President of the Student
-Government will coordinate the time of the Audit. Audit Meetings will be open
-to the Student Body.
+Audits of the Student Government occur twice per year in the middle of each
+semester. The Chair of the Honor Board and the President of the Student
+Government coordinate the time of the Audit. Audit Meetings are open to the
+Student Body.
 
 #### Section 2. Review Process.
 
@@ -771,15 +764,15 @@ in a joint report on the state of the Student Government.
 
 #### Section 3. Discrepancy Resolution.
 
-At each Review, should the Honor Board find that a portion of the Governing
-Documents are not being followed, the Honor Board will request that the
+At each Review, if the Honor Board finds that a portion of the Governing
+Documents are not being followed, the Honor Board requests that the
 person(s) responsible resolve the issue within an appropriate amount of time
 after which the person(s) responsible must send the Honor Board a report
 outlining how and when the issue was resolved. The time allowed for the
 completion of the report is up to the discretion of the Honor Board. If a
 report is not filed outlining the resolution of the infraction within the given
 timeframe, the Honor Board may file a case report about Student Government
-citing the infraction, and an abstract will be published to the community after
+citing the infraction, and an abstract is published to the community after
 investigation and resolution through the Honor Board process.
 
 ### Article 11. Election Procedures.
@@ -787,8 +780,8 @@ investigation and resolution through the Honor Board process.
 #### Section 1. Eligibility.
 
 The Honor Code defines eligibility for positions on the Honor Board. The
-following eligibility restrictions will apply to the remaining Student
-Government positions. A student may run for any combination of positions but
+following eligibility restrictions apply to the remaining Student Government
+positions. A student may run for any combination of positions but
 may only hold one voting position on the Student Government.
 
 Rising Sophomores, Juniors, and Seniors are eligible to run for:
@@ -817,55 +810,55 @@ particular class which the position represents.
 #### Section 2. The Election Monitor.
 
 At a meeting of the Student Government before the beginning of an election
-process, the Student Government will hold an internal election for the position
-of Election Monitor. The duties and responsibilities of the position are as
+process, the Student Government holds an internal election for the position of
+Election Monitor. The duties and responsibilities of the position are as
 follows:
 
-**Election Monitor.** The Election Monitor will facilitate all Student
-Government elections occurring in a particular election season or special
-election. The Election Monitor will create all necessary ballots and distribute
-candidate information as outlined in the By-Laws. The Election Monitor will
-enforce campaigning rules and guidelines defined in the By-Laws. The Election
-Monitor will count the ballots, and the results of the election are not final
-until the Election Monitor validates them.
+**Election Monitor.** The Election Monitor facilitates all Student Government
+elections occurring in a particular election season or special election. The
+Election Monitor creates all necessary ballots and distributes candidate
+information as outlined in the By-Laws. The Election Monitor enforces
+campaigning rules and guidelines defined in the By-Laws. The Election Monitor
+counts the ballots, and the results of the election are not final until the
+Election Monitor validates them.
 
 Any member of the Student Government who does not intend to run for office may
 volunteer as a candidate for the position of Election Monitor. The Election
 Monitor is ineligible to run for any Student Government position while serving
 as Election Monitor. At the beginning of the meeting, the presiding officer
-will solicit candidates for the position. If there is only one candidate for
+solicits candidates for the position. If there is only one candidate for
 the position, the candidate in question takes the role of Election Monitor
 without further debate or voting.
 
-In the case of multiple candidates, each candidate shall give a brief statement
-and will be asked by the President to leave the room. The remaining members of
+In the case of multiple candidates, each candidate gives a brief statement
+and is asked by the President to leave the room. The remaining members of
 the Student Government may deliberate and vote by excellence voting. The
 candidate with the most votes becomes Election Monitor. In the case of no
-candidates, the Dean of Student Life will perform the duties of the Election
+candidates, the Dean of Student Life performs the duties of the Election
 Monitor.
 
 In the case of a Special Election, where calling a meeting of the Student
 Government only to elect an Election Monitor would be inexpedient, the
-presiding officer of the Council will appoint an Election Monitor from the
+presiding officer of the Council appoints an Election Monitor from the
 membership of the Student Government.
 
 #### Section 3. Spring Elections.
 
-Elections in the spring will be held in two two-week cycles to avoid too many
+Elections in the spring are held in two two-week cycles to avoid too many
 positions being elected at once. In the first week of a two week cycle,
-nominations will be open for at least 48 hours during which the list of
-accepted nominations will be available to the Student Body. A presentation
-slide serves as a student’s declaration of candidacy and is required in order
-to run for office. In the second week of a two week cycle, campaigning will
-take place and, at the end of the week, the polls will be open for at least 24
-hours. If there are no candidates for a position or none of the candidates for
-a position garner at least 50% of the vote, the position will be elected in the
-next scheduled election cycle. (e.g. if the candidates for a Group A position
-do not receive enough votes, the position will be re-run in the Group B cycle.)
-If there is no upcoming cycle, the position will be filled in a special
-election at the discretion of the presiding officer.
+nominations are open for at least 48 hours during which the list of accepted
+nominations is available to the Student Body. A presentation slide serves as a
+student’s declaration of candidacy and is required in order to run for office.
+In the second week of a two week cycle, campaigning takes place and, at the end
+of the week, the polls are open for at least 24 hours. If there are no
+candidates for a position or none of the candidates for a position garner at
+least 50% of the vote, the position is elected in the next scheduled election
+cycle. (e.g. if the candidates for a Group A position do not receive enough
+votes, the position is re-run in the Group B cycle.) If there is no upcoming
+cycle, the position is filled in a special election at the discretion of the
+presiding officer.
 
-The following positions will be elected in the first cycle:
+The following positions are elected in the first cycle:
 
 1. President
 2. Vice President for Communications
@@ -876,7 +869,7 @@ The following positions will be elected in the first cycle:
 7. All Honor Board positions slated to be elected in the spring as defined in
    the Honor Code.
 
-The following positions will be elected in the second cycle:
+The following positions are elected in the second cycle:
 
 1. Assistant Director of Student Activities
 2. Assistant Director of Clubs and Organizations
@@ -893,37 +886,37 @@ The following positions will be elected in the second cycle:
 11. Sophomore Class Representative
 12. Senior Class Affairs Representative
 
-Students elected to office during Spring Elections will take office as soon as
-is reasonable after April 1st as agreed upon by the incoming and outgoing
+Students elected to office during Spring Elections take office as soon as is
+reasonable after April 1st as agreed upon by the incoming and outgoing
 Presidents.
 
 #### Section 4. Fall Elections.
 
-Elections in the fall will be held in one two-week cycle. In the first week of
-a two week cycle, nominations will be open for at least 48 hours during which
-the list of accepted nominations will be available to the Student Body. A
+Elections in the fall are held in one two-week cycle. In the first week of
+a two week cycle, nominations are open for at least 48 hours during which
+the list of accepted nominations is available to the Student Body. A
 presentation slide serves as a student’s declaration of candidacy and is
-required in order to run for office.  In the second week of a two week cycle,
-campaigning will take place and, at the end of the week, the polls will be open
+required in order to run for office. In the second week of a two week cycle,
+campaigning takes place and, at the end of the week, the polls will be open
 for at least 24 hours.
 
 Two First Year Class Representatives and any positions not filled during the
-spring elections will be elected during the fall elections.
+spring elections are elected during the fall elections.
 
-Students elected to office during Fall Elections will take office immediately
-upon election.
+Students elected to office during Fall Elections take office immediately upon
+election.
 
 #### Section 5. Campaigning.
 
 During the second week of an election cycle, between the close of nominations
 and the beginning of voting, candidates may campaign in a respectful and
-appropriate manner. The Election Monitor will investigate allegations of
-inappropriate campaigning and will decide upon what actions to take ranging
-from a warning to disqualification.
+appropriate manner. The Election Monitor investigates allegations of
+inappropriate campaigning and decides upon what actions to take ranging from a
+warning to disqualification.
 
 To preserve an intellectual atmosphere and guarantee equal opportunities of
 election, campaigning outside of the following rules is prohibited, and
-infractions to the following rules will be addressed by the Election Monitor.
+infractions to the following rules are addressed by the Election Monitor.
 Candidates may not:
 
 1. campaign in the Academic Center or Milas Hall except when authorized by the
@@ -938,19 +931,19 @@ Candidates may not:
 Candidates are responsible for removing their campaign materials as soon as
 possible after the election.
 
-To organize campaigning, the Election Monitor will email to the Student Body
-the required presentation slides submitted by candidates. The Election Monitor
-may also organize election-wide campaigning events at which all candidates may
+To organize campaigning, the Election Monitor email to the Student Body the
+required presentation slides submitted by candidates. The Election Monitor may
+also organize election-wide campaigning events at which all candidates may
 participate.
 
 #### Section 6. Voting.
 
-At the end of the second week of an election cycle, students will vote on the
-positions up for election. Members of the Student Government will be elected by
+At the end of the second week of an election cycle, students vote on the
+positions up for election. Members of the Student Government are elected by
 excellence voting. This means that a student may vote for as many of the
 candidates as they feel would excel in, and are qualified for, the position.
-Votes will be cast by secret ballot. The ballots will be prepared and
-distributed by the Election Monitor.
+Votes are cast by secret ballot. The ballots are prepared and distributed by the
+Election Monitor.
 
 The Honor Code specifies who is eligible to vote for Honor Board positions, but
 for other Student Government positions, seniors and other students not
@@ -958,19 +951,19 @@ matriculating at Olin in the following academic year may not vote in spring
 elections. Class Representative positions may only be voted for by students in
 the particular graduating class which the position represents. Students that
 consider themselves members of multiple graduating classes may choose which
-Class Representative position they will vote for, providing they only vote for
-one Class Representative position.
+Class Representative position they vote for, providing they only vote for one
+Class Representative position.
 
-For each position, the winner will be the student with the most excellence
-votes and who has garnered at least 50% of the votes. That is to say the winner
-must be considered qualified by at least 50% of voters. If no candidate meets
-these conditions, the election for that position will occur in the next
-scheduled election cycle. If a position is not filled during the first spring
-election cycle, the election for the position will occur again during the
-second spring election cycle. If a position is not filled during the second
-spring election cycle, the election for the position will occur again during
-the fall election cycle. If a position is not filled during the fall election
-cycle, a special election for the position will be held.
+For each position, the winner is the student with the most excellence votes and
+who has garnered at least 50% of the votes. That is to say the winner must be
+considered qualified by at least 50% of voters. If no candidate meets these
+conditions, the election for that position occurs in the next scheduled election
+cycle. If a position is not filled during the first spring election cycle, the
+election for the position occurs again during the second spring election cycle.
+If a position is not filled during the second spring election cycle, the
+election for the position occurs again during the fall election cycle. If a
+position is not filled during the fall election cycle, a special election for
+the position is held.
 
 #### Section 7. Impeachment.
 
@@ -984,28 +977,27 @@ time. Impeachable offenses include:
 To begin impeachment proceedings against a Student Government officer not on
 the Honor Board, a student may submit a request for impeachment, including
 specific charge(s), to the Chair of the Honor Board. The Chair of the Honor
-Board will convene a meeting of the Student Government no more than five
-business days from the day the request is submitted and notify members of the
+Board convenes a meeting of the Student Government no more than five business
+days from the day the request is submitted and notifies members of the
 Student Government of the time and location of the meeting within one business
 day of the receipt of the request.
 
 All members of the Student Government not under investigation will be
 considered the quorum for Student Government impeachment hearings. Impeachment
-hearings will be moderated by the Chair of the Honor Board.
+hearings are moderated by the Chair of the Honor Board.
 
-The reporter and reported will have the chance to present their argument and
-call witnesses. Each are responsible for their respective witnesses.
+The reporter and reported have the chance to present their argument and call
+witnesses. Each are responsible for their respective witnesses.
 
 At the end of the meeting, all members of the Student Government not currently
-under investigation will vote on the removal of the student(s) in question.  A
-vote of 75% of the eligible membership is required to remove a student from
-office.
+under investigation vote on the removal of the student(s) in question. A vote of
+75% of the eligible membership is required to remove a student from office.
 
-Impeachment proceedings against members of the Honor Board will occur according
-the to the procedures specified in the Honor Code. If a request for impeachment
-has been submitted against the Chair of the Honor Board, proceedings will be
-presided over by another member of the Honor Board, as elected by the Vice
-Chair and General Members.
+Impeachment proceedings against members of the Honor Board occur according to
+the procedures specified in the Honor Code. If a request for impeachment has
+been submitted against the Chair of the Honor Board, proceedings are presided
+over by another member of the Honor Board, as elected by the Vice Chair and
+General Members.
 
 #### Section 8. Resignation.
 
@@ -1016,36 +1008,36 @@ the case of a President's resignation, the Vice President for Communications.
 #### Section 9. Vacancies.
 
 A vacancy in the one of the three Executive positions of the Student Government
-will be filled by an internal election within the Council of Olin
-Representatives where any Council member is eligible. The vote will be done by
-excellence voting while the candidates are out of the room.
+is filled by an internal election within the Council of Olin Representatives
+where any Council member is eligible. The vote is done by excellence voting
+while the candidates are out of the room.
 
 A vacancy in the one of the three Committee Director positions of the Student
-Government will be filled by their respective assistant director.
+Government is filled by their respective assistant director.
 
-A vacancy in any Honor Board position will be filled through the vacancy
-procedures specified in the Honor Code.
+A vacancy in any Honor Board position is filled through the vacancy procedures
+specified in the Honor Code.
 
-Any other vacancy will be filled by a special election.
+Any other vacancy is filled by a special election.
 
 #### Section 10. Special Elections.
 
 Given the importance of all Student Government positions being filled, Special
-Elections will occur over an abbreviated timeline compared to normal elections
-and will therefore occur over one week. Nominations will be open for at least
-48 hours. Normal campaigning will occur during Special Elections. A the end of
-the week, the polls will be open for 24 hours and follow the same voting
-procedures as normal elections. Students elected to a position through a
-Special Election will take office immediately upon election.
+Elections occur over an abbreviated timeline compared to normal elections
+and therefore occur over one week. Nominations are open for at least 48 hours.
+Normal campaigning occurs during Special Elections. A the end of the week, the
+polls are open for 24 hours and follow the same voting procedures as normal
+elections. Students elected to a position through a Special Election take office
+immediately upon election.
 
 #### Section 11. Transition.
 
 In order to maintain institutional memory, each elected member of the Student
-Government will keep a transition document which they will continually update
-during their time in office. Each official’s transition document will be kept
-in a central location which can be accessed by the current members of the
-Student Government. Each elected official must meet with their successor to
-discuss their respective transition document upon leaving office.
+Government keeps a transition document which they continually update during
+their time in office. Each official’s transition document is kept in a central
+location which can be accessed by the current members of the Student Government.
+Each elected official must meet with their successor to discuss their respective
+transition document upon leaving office.
 
 ### Article 12. Amendment Procedures.
 
@@ -1054,16 +1046,15 @@ discuss their respective transition document upon leaving office.
 Any member of the Student Body may propose an amendment to the Student
 Government Constitution by presenting the amendment in written form to the
 President of the Student Government. The Student Government reviews the
-amendment at its next meeting and decide whether to call a Town Meeting.
+amendment at its next meeting and decides whether to call a Town Meeting.
 
-If the amendment passes review, the President will call a Town Meeting within
-three school weeks. The Vice President for Communications will send an
-announcement containing the finalized amendment to the entire Student Body at
-least one week in advance of the Town Meeting. The Student Body will decide at
-a Town Meeting to decide whether or not to approve the amendment. The Vice
-President for Communications will send an announcement describing the outcome
-of the meeting to the entire Student Body within 24 hours of the close of the
-meeting.
+If the amendment passes review, the President calls a Town Meeting within three
+school weeks. The Vice President for Communications sends an announcement
+containing the finalized amendment to the entire Student Body at least one week
+in advance of the Town Meeting. The Student Body decides at a Town Meeting 
+whether or not to approve the amendment. The Vice President for Communications
+sends an announcement describing the outcome of the meeting to the entire
+Student Body within 24 hours of the close of the meeting.
 
 #### Section 2. Amending the By-Laws.
 
@@ -1072,20 +1063,20 @@ presenting the amendment in written form to the President of the Student
 Government at least one week in advance of the meeting of the Student
 Government at which the author would like the amendment to be addressed.
 
-The Vice President for Communications will send an announcement to the Student
+The Vice President for Communications sends an announcement to the Student
 Body about the amendment at least three days in advance of the next Student
 Government meeting to allow for a three day reading period. During the meeting
-at which the amendment will be addressed, the Student Government will hear
-testimony from every student who wishes to speak and will engage in open
-discussion about the amendment. The amendment may be amended by a simple
-majority of the Student Government during the meeting.
+at which the amendment is addressed, the Student Government hears testimony from
+every student who wishes to speak and engages in open discussion about the
+amendment. The amendment may be amended by a simple majority of the Student
+Government during the meeting.
 
-When discussion has concluded, the President will call for a vote on the
-amendment. Per the Student Government Constitution, approval of 75% of the
-voting members of the Student Government will be required to pass the
-amendment. The Vice President for Communications will send an announcement
-detailing any changes to the By-Laws and describing the outcome of the meeting
-to the entire Student Body within 24 hours of the close of the meeting.
+When discussion has concluded, the President calls for a vote on the amendment.
+Per the Student Government Constitution, approval of 75% of the voting members
+of the Student Government is required to pass the amendment. The Vice President
+for Communications sends an announcement detailing any changes to the By-Laws
+and describing the outcome of the meeting to the entire Student Body within 24
+hours of the close of the meeting.
 
 #### Section 3. Referendum.
 
@@ -1096,10 +1087,10 @@ the Student Government the amendment in written form accompanied by the
 supporting signatures of at least 10% of the Student Body.
 
 The President must call a Town Meeting within three school weeks. The Vice
-President for Communications will send an announcement containing the finalized
+President for Communications sends an announcement containing the finalized
 amendment to the entire Student Body at least one week in advance of the Town
-Meeting. The Student Body will decide at a Town Meeting whether or not to
-approve the amendment.
+Meeting. The Student Body decides at the Town Meeting whether or not to approve
+the amendment.
 
 #### Section 4. Town Meetings.
 
@@ -1109,75 +1100,72 @@ Student Government or the Administration, to vote on an amendment to the
 Constitution, or, in the case of Referendum, to vote on an amendment to the
 By-Laws.
 
-Town Meetings where a vote will be held to amend a Governing Document will
-require quorum of one half of the Student Body. Amendments may not be changed
-during Town Meetings with the exception that typos may be corrected. An open
-discussion and a question and answer session must precede a vote to amend a
-Governing Document.
+Town Meetings where a vote is held to amend a Governing Document require quorum
+of one half of the Student Body. Amendments may not be changed during Town
+Meetings with the exception that typos may be corrected. An open discussion and
+a question and answer session must precede a vote to amend a Governing Document.
 
-At the close of the Town Meeting, all present students will vote by secret
-ballot, once per amendment with the option to either accept or reject the
-amendment. If quorum is reached and an amendment receives more than 50% of the
-votes of those present, the amendment passes and the Governing Document is
-changed accordingly. Otherwise, the Governing Document remains unchanged. The
-Vice President for Communications will send an announcement describing the
-outcome of the meeting to the entire Student Body within 24 hours of the close
-of the meeting.
+At the close of the Town Meeting, all present students vote by secret ballot,
+once per amendment with the option to either accept or reject the amendment. If
+quorum is reached and an amendment receives more than 50% of the votes of those
+present, the amendment passes and the Governing Document is changed accordingly.
+Otherwise, the Governing Document remains unchanged. The Vice President for
+Communications sends an announcement describing the outcome of the meeting to
+the entire Student Body within 24 hours of the close of the meeting.
 
 ### Article 13. Transparency.
 
 #### Section 1. Purpose.
 
 To make the Student Government well-organized and accessible to the Student
-Body, the Student Government and its Committees will strive to effectively
+Body, the Student Government and its Committees strive to effectively
 communicate with the Student Body through use of email, school-administered
 file shares, and physical documents.
 
 #### Section 2. Transparency Documents.
 
-The Student Government will maintain a number of running documents describing
-the actions of the Student Government for the duration of its existence. The
-purpose of these documents is to gather information about the Student
-Government in an easily-read way. These Transparency Documents will be
-continuously updated by the members of the Student Government, and will be as
-follows:
+The Student Government maintains a number of running documents describing the
+actions of the Student Government for the duration of its existence. The purpose
+of these documents is to gather information about the Student Government in an
+easily-read way. These Transparency Documents are continuously updated by the
+members of the Student Government, and are as follows:
 
 **The List of Official Actions.** This document is to record every Official
 Action of the Student Government and the Council of Olin Representatives, which
 are described in [Article 1, Section
 4](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-4-official-actions)
 and [Article 2, Section 8](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-8-official-actions)
-respectively. The document will be in reverse-chronological order (with the
-most recent Official Action at the top), and contain the full text of every
-Official Action, as well as a brief summary of the action if necessary.
+respectively. The document is in reverse-chronological order (with the most
+recent Official Action at the top), and contains the full text of every Official
+Action, as well as a brief summary of the action if necessary.
 
 **The Report on the Student Activities Fund.** As described in [Article 2,
 Section 2](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-2-executives),
-The Vice President for Finance will create a State of the Student Activities
-Fund report once per semester. A copy of this semesterly report will be added
-to an ongoing Report on the Student Activities Fund, which will be in
-reverse-chronological order (with the most recent report at the top).
+The Vice President for Finance creates a State of the Student Activities Fund
+report once per semester. A copy of this semesterly report is added to an
+ongoing Report on the Student Activities Fund, which is in reverse-chronological
+order (with the most recent report at the top).
 
 **The Meeting Minutes.** Each meeting of the Student Government and its
-Committees, including Town Meetings, will have minutes detailing the topics
-discussed in the meeting and actions that were taken. Copies of these minutes
-will be kept in a central location Meetings which the presiding officer of the
-meeting deem private and inappropriate for general knowledge, such as Honor
-Board hearings, are exempted.
+Committees, including Town Meetings, have minutes detailing the topics discussed
+in the meeting and actions that were taken. Copies of these minutes are kept in
+a central location Meetings which the presiding officer of the meeting deem
+private and inappropriate for general knowledge, such as Honor Board hearings,
+are exempted.
 
 **The Governing Documents History.** All past versions of the Governing
-Documents will be kept in a central location. Minor changes, such as changes to
+Documents are kept in a central location. Minor changes, such as changes to
 grammar, spelling, references, or names of people, digital, or physical
 locations, are not required to have a unique version.
 
-Additionally, each Transparency Document must contain the name of a current
+Additionally, each Transparency Document contains the name of a current
 member of the Student Government, specifically identified as the contact for
 questions or comments regarding the Transparency Document.
 
 #### Section 3. Call to Action.
 
-An annual Call to Action will be sent to the Student Body in the first two
-weeks of classes each school year. This Call to Action will inform the Student
-Body of the core-discussion mailing list, of the locations of the Transparency
-Documents, of the elected members of the Student Government, and of the planned
-open meeting times of the Student Government and its Committees.
+An annual Call to Action is sent to the Student Body in the first two weeks of
+classes each school year. This Call to Action informs the Student Body of the
+core-discussion mailing list, of the locations of the Transparency Documents, of
+the elected members of the Student Government, and of the planned open meeting
+times of the Student Government and its Committees.
