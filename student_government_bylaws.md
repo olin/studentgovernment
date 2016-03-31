@@ -398,7 +398,7 @@ Week activities.
 
 #### Section 1. Function.
 
-The composition, purpose, operation, and powers of the Honor Board are detailed
+The z, purpose, operation, and powers of the Honor Board are detailed
 in the Honor Code. Additional powers may be allotted to them in the
 Constitution and Bylaws of the Student Government.
 
@@ -779,30 +779,32 @@ investigation and resolution through the Honor Board process.
 
 #### Section 1. Eligibility.
 
-The Honor Code defines eligibility for positions on the Honor Board. The
-following eligibility restrictions apply to the remaining Student Government
-positions. A student may run for any combination of positions but
-may only hold one voting position on the Student Government.
+The following eligibility restrictions apply to candidates for positions in the
+Student Government. A student may run for any combination of positions but may
+only hold one voting position on the Student Government.
 
 Rising Sophomores, Juniors, and Seniors are eligible to run for:
-1. President,
-2. Vice President for Communications,
-3. Director of Student Activities,
-4. Director of Clubs and Organizations,
-5. Director of Service, and
-6. any of the Specialized Representative positions.
+1. President
+2. Vice President for Communications
+3. Specialized Representative
+4. Director of Student Activities
+5. Director of Clubs and Organizations
+6. Director of Service
+7. Chair of the Honor Board
+8. Vice Chair of the Honor Board
+9. Honor Board General Member
 
 Rising Sophomores and Juniors are eligible to run for:
-1. Vice President for Finance,
-2. Assistant Director of Student Activities,
-3. Assistant Director of Clubs and Organizations, and
-4. Assistant Director of Service.
+1. Vice President for Finance
+2. Assistant Director of Student Activities
+3. Assistant Director of Clubs and Organizations
+4. Assistant Director of Service
 
 If a Rising Senior was not elected as Director of their respective Committee,
 Rising Seniors are also eligible to run for:
-1. Assistant Director of Student Activities,
-2. Assistant Director of Clubs and Organizations, and
-3. Assistant Director of Service.
+1. Assistant Director of Student Activities
+2. Assistant Director of Clubs and Organizations
+3. Assistant Director of Service
 
 The Class Representative positions are only open to students from the
 particular class which the position represents.
@@ -866,8 +868,8 @@ The following positions are elected in the first cycle:
 4. Director of Student Activities
 5. Director of Clubs and Organizations
 6. Director of Service
-7. All Honor Board positions slated to be elected in the spring as defined in
-   the Honor Code.
+7. Chair of the Honor Board
+8. Vice Chair of the Honor Board
 
 The following positions are elected in the second cycle:
 
@@ -885,6 +887,7 @@ The following positions are elected in the second cycle:
 10. Junior Class Representative
 11. Sophomore Class Representative
 12. Senior Class Affairs Representative
+13. Four Honor Board General Members
 
 Students elected to office during Spring Elections take office as soon as is
 reasonable after April 1st as agreed upon by the incoming and outgoing
@@ -900,11 +903,12 @@ required in order to run for office. In the second week of a two week cycle,
 campaigning takes place and, at the end of the week, the polls will be open
 for at least 24 hours.
 
-Two First Year Class Representatives and any positions not filled during the
-spring elections are elected during the fall elections.
+Two First Year Class Representatives, two Honor Board General Members (of whom,
+at least one must be a First Year student), and any positions not filled during
+the spring elections are elected during the fall elections.
 
-Students elected to office during Fall Elections take office immediately upon
-election.
+Students elected to office during Fall Elections take office immediately
+upon election.
 
 #### Section 5. Campaigning.
 
@@ -945,25 +949,34 @@ candidates as they feel would excel in, and are qualified for, the position.
 Votes are cast by secret ballot. The ballots are prepared and distributed by the
 Election Monitor.
 
-The Honor Code specifies who is eligible to vote for Honor Board positions, but
-for other Student Government positions, seniors and other students not
-matriculating at Olin in the following academic year may not vote in spring
-elections. Class Representative positions may only be voted for by students in
-the particular graduating class which the position represents. Students that
-consider themselves members of multiple graduating classes may choose which
-Class Representative position they vote for, providing they only vote for one
-Class Representative position.
+Seniors and other students not matriculating at Olin in the following academic
+year may not vote in spring elections. Class Representative positions may only
+be voted for by students in the particular graduating class which the position
+represents. Students that consider themselves members of multiple graduating
+classes may choose which Class Representative position they vote for, providing
+they only vote for one Class Representative position.
 
-For each position, the winner is the student with the most excellence votes and
+For each position except for Honor Board General Members and Vice Chair of the
+Honor Board, the winner is the student with the most excellence votes and
 who has garnered at least 50% of the votes. That is to say the winner must be
-considered qualified by at least 50% of voters. If no candidate meets these
-conditions, the election for that position occurs in the next scheduled election
-cycle. If a position is not filled during the first spring election cycle, the
-election for the position occurs again during the second spring election cycle.
-If a position is not filled during the second spring election cycle, the
-election for the position occurs again during the fall election cycle. If a
-position is not filled during the fall election cycle, a special election for
-the position is held.
+considered qualified by at least 50% of voters.
+
+For the position of Vice Chair of the Honor Board, the winner is the student who
+is not in the same class as the newly elected chair who has the most excellence
+votes and who has garnered at least 50% of the votes.
+
+For Honor Board General Members, the winners are the students with the most
+excellence votes and who have garnered at least 50% of the votes, given that at
+the end of  Fall Elections, there is at least one student from each class on the
+Honor Board.
+
+If no candidate meets these conditions, the election for that position occurs in
+the next scheduled election cycle. If a position is not filled during the first
+spring election cycle, the election for the position occurs again during the
+second spring election cycle. If a position is not filled during the second
+spring election cycle, the election for the position occurs again during the
+fall election cycle. If a position is not filled during the fall election cycle,
+a special election for the position is held.
 
 #### Section 7. Impeachment.
 
@@ -993,17 +1006,29 @@ At the end of the meeting, all members of the Student Government not currently
 under investigation vote on the removal of the student(s) in question. A vote of
 75% of the eligible membership is required to remove a student from office.
 
-Impeachment proceedings against members of the Honor Board occur according to
-the procedures specified in the Honor Code. If a request for impeachment has
-been submitted against the Chair of the Honor Board, proceedings are presided
-over by another member of the Honor Board, as elected by the Vice Chair and
-General Members.
+If a request for impeachment is submitted against an Honor Board member, the
+impeachment proceedings proceed the same as above with following exceptions.
+
+In the impeachment procedure for a member of the Honor Board, the Office of
+Student Affairs and Resources replaces the Chair of the Honor Board as the party
+responsible for calling a hearing. The Associate Dean of Student Affairs for
+Programs moderates the hearing but does not have voting power.
+
+All members of the Honor Board not under investigation are considered quorum for
+the meeting and vote on the removal of the student(s) in question. The decision
+of the Honor Board is subject to approval by the Dean of Student Affairs. 
 
 #### Section 8. Resignation.
 
-A member of the Student Government may resign from office by submitting a
-writen letter of resignation to the President of the Student Government or, in
-the case of a President's resignation, the Vice President for Communications.
+A member of the Student Government not on the Honor Board may resign from office
+by submitting a written letter of resignation to the President of the Student
+Government or, in the case of a President's resignation, the Vice President for
+Communications.
+
+Honor Board members may resign from office by submitting a written letter of
+resignation to the Chair of the Honor Board. The Chair of the Honor Board may
+resign from office by submitting a written letter of resignation to the
+President of the Student Government.
 
 #### Section 9. Vacancies.
 
@@ -1015,10 +1040,26 @@ while the candidates are out of the room.
 A vacancy in the one of the three Committee Director positions of the Student
 Government is filled by their respective assistant director.
 
-A vacancy in any Honor Board position is filled through the vacancy procedures
-specified in the Honor Code.
+A vacancy in the position of Chair of the Honor Board is temporarily filled by
+the Vice Chair of the Honor Board. A vacancy in the position Vice Chair of the
+Honor Board is temporarily filled by a current member of the Honor Board, to be
+determined by an internal election run by the Chair. If the positions of both
+Chair and Vice Chair become vacant simultaneously, the Honor Board must meet as
+soon as possible to elect a temporary Chair and Vice Chair from its current
+members. The temporary Chair and Vice Chair are responsible for the proceedings
+of the Honor Board until a Special Election is held to fill those vacancies.
+Upon close of the Special Election, all Honor Board members still in temporary
+positions return to their originally elected positions and the newly elected
+members will begin their term.
 
-Any other vacancy is filled by a special election.
+In the event that a Special Election of a new Chair or Vice Chair of the Honor
+Board results in a graduating class not having a representative on the Honor
+Board, a second Special Election is held electing another member to the Board.
+This Special Election is open to candidates from the unrepresented class. If no
+one runs, or no candidate receives 50% of the vote, then no one is elected and
+the Honor Board's composition remains unchanged.
+
+Any other vacancy is filled by a Special Election.
 
 #### Section 10. Special Elections.
 
