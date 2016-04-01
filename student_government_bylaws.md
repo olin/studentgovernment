@@ -844,7 +844,6 @@ The following positions are elected in the first spring election cycle:
 6. Director of Service
 7. Chair of the Honor Board
 8. Vice Chair of the Honor Board
-9. Four Honor Board General Members
 
 The following positions are elected in the second spring election cycle:
 
@@ -862,6 +861,7 @@ The following positions are elected in the second spring election cycle:
 10. Junior Class Representative
 11. Sophomore Class Representative
 12. Senior Class Activities Representative
+13. Four Honor Board General Members
 
 The following positions are elected in the only fall election cycle:
 
