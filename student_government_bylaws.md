@@ -1022,13 +1022,9 @@ Any other vacancy is filled by a Special Election.
 
 #### Section 9. Special Elections.
 
-Given the importance of all Student Government positions being filled, Special
-Elections occur over an abbreviated timeline compared to normal elections
-and therefore occur over one week. Nominations are open for at least 48 hours.
-Normal campaigning occurs during Special Elections. A the end of the week, the
-polls are open for 24 hours and follow the same voting procedures as normal
-elections. Students elected to a position through a Special Election take office
-immediately upon election.
+Special Elections are held using the same week-long format as Regular Elections
+except they only occur as necessary and students elected to a position through a
+Special Election take office immediately upon election.
 
 #### Section 10. Transition.
 
