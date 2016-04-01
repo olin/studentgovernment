@@ -1011,12 +1011,12 @@ impeachment proceedings proceed the same as above with following exceptions.
 
 In the impeachment procedure for a member of the Honor Board, the Office of
 Student Affairs and Resources replaces the Chair of the Honor Board as the party
-responsible for calling a hearing. The Associate Dean of Student Affairs for
+responsible for calling a hearing. The Associate Dean of Student Life for
 Programs moderates the hearing but does not have voting power.
 
 All members of the Honor Board not under investigation are considered quorum for
 the meeting and vote on the removal of the student(s) in question. The decision
-of the Honor Board is subject to approval by the Dean of Student Affairs. 
+of the Honor Board is subject to approval by the Dean of Student Life. 
 
 #### Section 8. Resignation.
 
@@ -1028,7 +1028,7 @@ Communications.
 Honor Board members may resign from office by submitting a written letter of
 resignation to the Chair of the Honor Board. The Chair of the Honor Board may
 resign from office by submitting a written letter of resignation to the
-President of the Student Government.
+Dean of Student Life.
 
 #### Section 9. Vacancies.
 
