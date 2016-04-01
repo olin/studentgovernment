@@ -821,21 +821,36 @@ membership of the Student Government.
 
 #### Section 3. Regular Elections.
 
-Elections in the spring and fall are held over the course of two weeks. In the
-first week, nominations are open for at least 48 hours during which the list of
-accepted nominations is available to the Student Body. A presentation slide
-serves as a student’s declaration of candidacy and is required in order to run
-for office. In the second week, campaigning takes place, and, at the end of the
-week, the polls are open for at least 24 hours. If there are no candidates for a
-position or none of the candidates for a position garner at least 50% of the
-vote, an election for the position is held again as part of the next scheduled
-election or as part of a special election, if appropriate.
+A Regular Election takes one week to complete. To stagger the large number of
+positions being elected in the spring, the spring elections occur over two of
+these week-long election cycles. The fall elections need only one cycle. At the
+beginning of a week-long election, nominations are open for at least 48 hours
+during which a real-time list of nominations accepted by the Election Monitor is
+available to the Student Body. A presentation slide serves as a student’s
+declaration of candidacy and is required in order to run for office. At the end
+of the week, the polls are open for at least 24 hours. In between the close of
+nominations and the opening of the polls, campaigning takes place. If there are
+no candidates for a position or none of the candidates for a position garner at
+least 50% of the vote, an election for the position is held again as part of the
+next scheduled election or as part of a special election, if appropriate.
 
-The following positions are elected in the spring:
+The following positions are elected in the first spring election cycle:
 
 1. President
 2. Vice President for Communications
 3. Vice President for Finance
+4. Director of Student Activities
+5. Director of Clubs and Organizations
+6. Director of Service
+7. Chair of the Honor Board
+8. Vice Chair of the Honor Board
+9. Four Honor Board General Members
+
+The following positions are elected in the second spring election cycle:
+
+1. Assistant Director of Student Activities
+2. Assistant Director of Clubs and Organizations
+3. Assistant Director of Service
 4. Representative to Operations
 5. Representative to Marketing and Communications, and Development, Family, and
    Alumni Relations
@@ -847,17 +862,9 @@ The following positions are elected in the spring:
 10. Junior Class Representative
 11. Sophomore Class Representative
 12. Senior Class Activities Representative
-13. Director of Student Activities
-14. Assistant Director of Student Activities
-15. Director of Clubs and Organizations
-16. Assistant Director of Clubs and Organizations
-17. Director of Service
-18. Assistant Director of Service
-19. Chair of the Honor Board
-20. Vice Chair of the Honor Board
-21. Four Honor Board General Members
 
-The following positions are elected in the fall:
+The following positions are elected in the only fall election cycle:
+
 1. Two First Year Class Representatives
 2. Two Honor Board General Members (at least one of whom must be a First Year)
 3. Any positions not filled during the spring elections
