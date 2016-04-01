@@ -373,7 +373,7 @@ Week activities.
 
 #### Section 1. Function.
 
-The z, purpose, operation, and powers of the Honor Board are detailed
+The composition, purpose, operation, and powers of the Honor Board are detailed
 in the Honor Code. Additional powers may be allotted to them in the
 Constitution and Bylaws of the Student Government.
 
