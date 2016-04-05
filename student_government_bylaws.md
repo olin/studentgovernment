@@ -110,7 +110,7 @@ representatives include:
 
 #### Section 2. Executives.
 
-There are three executives who lead the Student Government and the Council:
+Three executives lead the Student Government and the Council:
 
 **President.** The President serves as the Student Body President and
 represents the Student Government to the Administration and Board of Trustees.
@@ -164,59 +164,35 @@ The Student Body elects the following five Specialized Representatives:
 
 **Representative to Operations.** The Representative to Operations liaises
 with the College’s Vice President for Operations and Chief Information Officer
-and keeps themselves informed of any actions or initiatives related to student
-dining, facilities, or information technology at the College. Additionally, the
-Representative solicits volunteers for operational committees and, after the
-completion of the committee appointment process, notifies volunteers of whether
-or not they have been appointed. The Representative keeps an open dialog with
-each operational committee appointee in order to stay informed of the activities
-of each committee and invites each appointee to at least one Council meeting per
-semester. The Representative keeps a list of operational committees and makes
-that list available to the Student Body.
+and follows all actions and initiatives related to student dining, facilities,
+or information technology at the College.
 
 **Representative to Marketing and Communications and Development, Family, and
 Alumni Relations.** The Representative to Marketing and Communications, and
 Development, Family, and Alumni Relations liaises with the College’s Chief
 Marketing Officer and Vice President of Development, Family, and Alumni
-Relations and keeps themselves informed of any actions or initiatives happening
-in their relevant departments.
+Relations and follows all actions and initiatives happening in their respective
+departments.
 
 **Representative to Admissions and the Office of Student Affairs and
 Resources.** The Representative to Admissions and the Office of Student Affairs
 and Resources liaises with the Dean of Student Life and the Dean of Admissions
-and keeps themselves informed of any actions or initiatives happening in their
-relevant departments.
+and follows all actions and initiatives happening in their respective
+departments.
 
 **Representative for Curriculum and Faculty.** The Representative for
 Curriculum and Faculty liaises with the Associate Dean of Curriculum, the
 Associate Dean for Faculty Affairs and Development, and the Provost and Dean of
-Faculty and keeps themselves informed of any actions or initiatives related
-to curriculum and faculty. Additionally, the Representative solicits volunteers
-for faculty committees and, after the completion of the committee appointment
-process, notifies volunteers of whether or not they have been appointed. The
-Representative keeps an open dialog with each faculty committee appointee in
-order to stay informed of the activities of each committee and invites each
-appointee to at least one Council meeting per semester. The Representative keeps
-a list of operational committees and makes that list available to the Student
-Body.
+Faculty and follows all actions and initiatives related to curriculum and
+faculty.
 
 **Representative for Intercollegiate Affairs.** The Representative for
 Intercollegiate Affairs liaises with the Director of the Collaboratory and
-the Administrative Assistant to the Babson/Olin/Wellesley Three College
-Collaboration and serves as the Student Body’s Ambassador to
-Babson/Olin/Wellesley Three College Collaboration and keeps themselves
-informed of any actions or initiatives related to these groups. The
-Representative serves as Olin’s Ambassador to the Babson/Olin/Wellesley
-Student Council which advises the administrators of the Collaboration on issues
-of interest to the students of the three colleges. The Representative keeps the
-student body informed as to what relations the College is developing with
-other institutions and how students can be involved in these relations.
-
-As the definition, function, and communication pathways of the Specialized
-Representatives are to be discovered during the first year of this document’s
-existence (2015-2016 school year), [Article 2, Section
-3](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-3-specialized-representatives)
-must be amended before the Spring Elections of 2016.
+the administrators of the Babson/Olin/Wellesley Three College Collaboration and
+follows all actions and initiatives related to the Collaboratory and the
+Collaboration. The Representative serves as Olin’s Ambassador to the
+Babson/Olin/Wellesley Student Council which advises the administrators of the
+Collaboration on issues of interest to the students of the three colleges.
 
 #### Section 4. Class Representatives.
 
@@ -384,9 +360,8 @@ candidate.
 The Student Government establishes the following non-voting ad hoc
 representatives of the Council:
 
-**The Senior Class Activities Representative.** The Senior Class Activities
-Representative is elected by the rising senior class following normal spring
-election procedures. The Senior Class Activities Representative ensures the
+**The Senior Class Activities Representative.** Elected by the Rising Senior
+Class in the spring, the Senior Class Activities Representative ensures the
 completion of senior class obligations such as ordering class rings, organizing
 the class gift, fundraising, serving on the Commencement Steering Committee, and
 supporting the class representative in organizing class activities and Senior
@@ -779,30 +754,32 @@ investigation and resolution through the Honor Board process.
 
 #### Section 1. Eligibility.
 
-The Honor Code defines eligibility for positions on the Honor Board. The
-following eligibility restrictions apply to the remaining Student Government
-positions. A student may run for any combination of positions but
-may only hold one voting position on the Student Government.
+The following eligibility restrictions apply to candidates for positions in the
+Student Government. A student may run for any combination of positions but may
+only hold one voting position on the Student Government.
 
 Rising Sophomores, Juniors, and Seniors are eligible to run for:
-1. President,
-2. Vice President for Communications,
-3. Director of Student Activities,
-4. Director of Clubs and Organizations,
-5. Director of Service, and
-6. any of the Specialized Representative positions.
+1. President
+2. Vice President for Communications
+3. Specialized Representative
+4. Director of Student Activities
+5. Director of Clubs and Organizations
+6. Director of Service
+7. Chair of the Honor Board
+8. Vice Chair of the Honor Board
+9. Honor Board General Member
 
 Rising Sophomores and Juniors are eligible to run for:
-1. Vice President for Finance,
-2. Assistant Director of Student Activities,
-3. Assistant Director of Clubs and Organizations, and
-4. Assistant Director of Service.
+1. Vice President for Finance
+2. Assistant Director of Student Activities
+3. Assistant Director of Clubs and Organizations
+4. Assistant Director of Service
 
 If a Rising Senior was not elected as Director of their respective Committee,
 Rising Seniors are also eligible to run for:
-1. Assistant Director of Student Activities,
-2. Assistant Director of Clubs and Organizations, and
-3. Assistant Director of Service.
+1. Assistant Director of Student Activities
+2. Assistant Director of Clubs and Organizations
+3. Assistant Director of Service
 
 The Class Representative positions are only open to students from the
 particular class which the position represents.
@@ -842,23 +819,22 @@ Government only to elect an Election Monitor would be inexpedient, the
 presiding officer of the Council appoints an Election Monitor from the
 membership of the Student Government.
 
-#### Section 3. Spring Elections.
+#### Section 3. Regular Elections.
 
-Elections in the spring are held in two two-week cycles to avoid too many
-positions being elected at once. In the first week of a two week cycle,
-nominations are open for at least 48 hours during which the list of accepted
-nominations is available to the Student Body. A presentation slide serves as a
-student’s declaration of candidacy and is required in order to run for office.
-In the second week of a two week cycle, campaigning takes place and, at the end
-of the week, the polls are open for at least 24 hours. If there are no
-candidates for a position or none of the candidates for a position garner at
-least 50% of the vote, the position is elected in the next scheduled election
-cycle. (e.g. if the candidates for a Group A position do not receive enough
-votes, the position is re-run in the Group B cycle.) If there is no upcoming
-cycle, the position is filled in a special election at the discretion of the
-presiding officer.
+A Regular Election takes one week to complete. To stagger the large number of
+positions being elected in the spring, the spring elections occur over two of
+these week-long election cycles. The fall elections need only one cycle. At the
+beginning of a week-long election, nominations are open for at least 48 hours
+during which a real-time list of nominations accepted by the Election Monitor is
+available to the Student Body. A presentation slide serves as a student’s
+declaration of candidacy and is required in order to run for office. At the end
+of the week, the polls are open for at least 24 hours. In between the close of
+nominations and the opening of the polls, campaigning takes place. If there are
+no candidates for a position or none of the candidates for a position garner at
+least 50% of the vote, an election for the position is held again as part of the
+next scheduled election or as part of a special election, if appropriate.
 
-The following positions are elected in the first cycle:
+The following positions are elected in the first spring election cycle:
 
 1. President
 2. Vice President for Communications
@@ -866,10 +842,10 @@ The following positions are elected in the first cycle:
 4. Director of Student Activities
 5. Director of Clubs and Organizations
 6. Director of Service
-7. All Honor Board positions slated to be elected in the spring as defined in
-   the Honor Code.
+7. Chair of the Honor Board
+8. Vice Chair of the Honor Board
 
-The following positions are elected in the second cycle:
+The following positions are elected in the second spring election cycle:
 
 1. Assistant Director of Student Activities
 2. Assistant Director of Clubs and Organizations
@@ -884,35 +860,28 @@ The following positions are elected in the second cycle:
 9. Senior Class Representative
 10. Junior Class Representative
 11. Sophomore Class Representative
-12. Senior Class Affairs Representative
+12. Senior Class Activities Representative
+13. Four Honor Board General Members
+
+The following positions are elected in the only fall election cycle:
+
+1. Two First Year Class Representatives
+2. Two Honor Board General Members (at least one of whom must be a First Year)
+3. Any positions not filled during the spring elections
 
 Students elected to office during Spring Elections take office as soon as is
 reasonable after April 1st as agreed upon by the incoming and outgoing
 Presidents.
 
-#### Section 4. Fall Elections.
+Students elected to office during Fall Elections take office immediately
+upon election.
 
-Elections in the fall are held in one two-week cycle. In the first week of
-a two week cycle, nominations are open for at least 48 hours during which
-the list of accepted nominations is available to the Student Body. A
-presentation slide serves as a student’s declaration of candidacy and is
-required in order to run for office. In the second week of a two week cycle,
-campaigning takes place and, at the end of the week, the polls will be open
-for at least 24 hours.
+#### Section 4. Campaigning.
 
-Two First Year Class Representatives and any positions not filled during the
-spring elections are elected during the fall elections.
-
-Students elected to office during Fall Elections take office immediately upon
-election.
-
-#### Section 5. Campaigning.
-
-During the second week of an election cycle, between the close of nominations
-and the beginning of voting, candidates may campaign in a respectful and
-appropriate manner. The Election Monitor investigates allegations of
-inappropriate campaigning and decides upon what actions to take ranging from a
-warning to disqualification.
+During an election, between the close of nominations and the beginning of
+voting, candidates may campaign in a respectful and appropriate manner. The
+Election Monitor investigates allegations of inappropriate campaigning and
+decides upon what actions to take ranging from a warning to disqualification.
 
 To preserve an intellectual atmosphere and guarantee equal opportunities of
 election, campaigning outside of the following rules is prohibited, and
@@ -936,36 +905,39 @@ required presentation slides submitted by candidates. The Election Monitor may
 also organize election-wide campaigning events at which all candidates may
 participate.
 
-#### Section 6. Voting.
+#### Section 5. Voting.
 
-At the end of the second week of an election cycle, students vote on the
-positions up for election. Members of the Student Government are elected by
-excellence voting. This means that a student may vote for as many of the
-candidates as they feel would excel in, and are qualified for, the position.
-Votes are cast by secret ballot. The ballots are prepared and distributed by the
-Election Monitor.
+At the end of an election, students vote on the positions up for election.
+Members of the Student Government are elected by excellence voting - a student
+may vote for as many of the candidates as they feel would excel in, and are
+qualified for, the position. Votes are cast by secret ballot. The ballots are
+prepared and distributed by the Election Monitor.
 
-The Honor Code specifies who is eligible to vote for Honor Board positions, but
-for other Student Government positions, seniors and other students not
-matriculating at Olin in the following academic year may not vote in spring
-elections. Class Representative positions may only be voted for by students in
-the particular graduating class which the position represents. Students that
-consider themselves members of multiple graduating classes may choose which
-Class Representative position they vote for, providing they only vote for one
-Class Representative position.
+Seniors and other students not matriculating at Olin in the following academic
+year may not vote in spring elections. Class Representative positions may only
+be voted for by students in the particular graduating class which the position
+represents. Students that consider themselves members of multiple graduating
+classes may choose which Class Representative position they vote for, providing
+they only vote for one Class Representative position.
 
-For each position, the winner is the student with the most excellence votes and
+For each position except for Honor Board General Members and Vice Chair of the
+Honor Board, the winner is the student with the most excellence votes and
 who has garnered at least 50% of the votes. That is to say the winner must be
-considered qualified by at least 50% of voters. If no candidate meets these
-conditions, the election for that position occurs in the next scheduled election
-cycle. If a position is not filled during the first spring election cycle, the
-election for the position occurs again during the second spring election cycle.
-If a position is not filled during the second spring election cycle, the
-election for the position occurs again during the fall election cycle. If a
-position is not filled during the fall election cycle, a special election for
-the position is held.
+considered qualified by at least 50% of voters.
 
-#### Section 7. Impeachment.
+For the position of Vice Chair of the Honor Board, the winner is the student who
+is not in the same class as the newly elected chair who has the most excellence
+votes and who has garnered at least 50% of the votes.
+
+For Honor Board General Members, the winners are the students with the most
+excellence votes and who have garnered at least 50% of the votes, given that at
+the end of  Fall Elections, there is at least one student from each class on the
+Honor Board.
+
+If no candidate meets these conditions, the election for that position occurs in
+the next scheduled election or as part of a special election, if appropriate.
+
+#### Section 6. Impeachment.
 
 Any student may initiate Student Government impeachment proceedings at any
 time. Impeachable offenses include:
@@ -993,19 +965,31 @@ At the end of the meeting, all members of the Student Government not currently
 under investigation vote on the removal of the student(s) in question. A vote of
 75% of the eligible membership is required to remove a student from office.
 
-Impeachment proceedings against members of the Honor Board occur according to
-the procedures specified in the Honor Code. If a request for impeachment has
-been submitted against the Chair of the Honor Board, proceedings are presided
-over by another member of the Honor Board, as elected by the Vice Chair and
-General Members.
+If a request for impeachment is submitted against an Honor Board member, the
+impeachment proceedings proceed the same as above with following exceptions.
 
-#### Section 8. Resignation.
+In the impeachment procedure for a member of the Honor Board, the Office of
+Student Affairs and Resources replaces the Chair of the Honor Board as the party
+responsible for calling a hearing. The Associate Dean of Student Life for
+Programs moderates the hearing but does not have voting power.
 
-A member of the Student Government may resign from office by submitting a
-writen letter of resignation to the President of the Student Government or, in
-the case of a President's resignation, the Vice President for Communications.
+All members of the Honor Board not under investigation are considered quorum for
+the meeting and vote on the removal of the student(s) in question. The decision
+of the Honor Board is subject to approval by the Dean of Student Life. 
 
-#### Section 9. Vacancies.
+#### Section 7. Resignation.
+
+A member of the Student Government not on the Honor Board may resign from office
+by submitting a written letter of resignation to the President of the Student
+Government or, in the case of a President's resignation, the Vice President for
+Communications.
+
+Honor Board members may resign from office by submitting a written letter of
+resignation to the Chair of the Honor Board. The Chair of the Honor Board may
+resign from office by submitting a written letter of resignation to the
+Dean of Student Life.
+
+#### Section 8. Vacancies.
 
 A vacancy in the one of the three Executive positions of the Student Government
 is filled by an internal election within the Council of Olin Representatives
@@ -1015,22 +999,34 @@ while the candidates are out of the room.
 A vacancy in the one of the three Committee Director positions of the Student
 Government is filled by their respective assistant director.
 
-A vacancy in any Honor Board position is filled through the vacancy procedures
-specified in the Honor Code.
+A vacancy in the position of Chair of the Honor Board is temporarily filled by
+the Vice Chair of the Honor Board. A vacancy in the position Vice Chair of the
+Honor Board is temporarily filled by a current member of the Honor Board, to be
+determined by an internal election run by the Chair. If the positions of both
+Chair and Vice Chair become vacant simultaneously, the Honor Board must meet as
+soon as possible to elect a temporary Chair and Vice Chair from its current
+members. The temporary Chair and Vice Chair are responsible for the proceedings
+of the Honor Board until a Special Election is held to fill those vacancies.
+Upon close of the Special Election, all Honor Board members still in temporary
+positions return to their originally elected positions and the newly elected
+members will begin their term.
 
-Any other vacancy is filled by a special election.
+In the event that a Special Election of a new Chair or Vice Chair of the Honor
+Board results in a graduating class not having a representative on the Honor
+Board, a second Special Election is held electing another member to the Board.
+This Special Election is open to candidates from the unrepresented class. If no
+one runs, or no candidate receives 50% of the vote, then no one is elected and
+the Honor Board's composition remains unchanged.
 
-#### Section 10. Special Elections.
+Any other vacancy is filled by a Special Election.
 
-Given the importance of all Student Government positions being filled, Special
-Elections occur over an abbreviated timeline compared to normal elections
-and therefore occur over one week. Nominations are open for at least 48 hours.
-Normal campaigning occurs during Special Elections. A the end of the week, the
-polls are open for 24 hours and follow the same voting procedures as normal
-elections. Students elected to a position through a Special Election take office
-immediately upon election.
+#### Section 9. Special Elections.
 
-#### Section 11. Transition.
+Special Elections are held using the same week-long format as Regular Elections
+except they only occur as necessary and students elected to a position through a
+Special Election take office immediately upon election.
+
+#### Section 10. Transition.
 
 In order to maintain institutional memory, each elected member of the Student
 Government keeps a transition document which they continually update during
@@ -1130,14 +1126,18 @@ of these documents is to gather information about the Student Government in an
 easily-read way. These Transparency Documents are continuously updated by the
 members of the Student Government, and are as follows:
 
-**The List of Official Actions.** This document is to record every Official
-Action of the Student Government and the Council of Olin Representatives, which
-are described in [Article 1, Section
+**The List of Official Actions.** This document contains a record of every
+Official Action of the Student Government and the Council of Olin
+Representatives, which are described in [Article 1, Section
 4](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-4-official-actions)
 and [Article 2, Section 8](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-8-official-actions)
-respectively. The document is in reverse-chronological order (with the most
-recent Official Action at the top), and contains the full text of every Official
+respectively. The list is in reverse-chronological order (with the most recent
+Official Action at the top), and contains the full text of every Official
 Action, as well as a brief summary of the action if necessary.
+
+**The List of Committees and Appointees.** This document contains a list of the
+College's Faculty and Operational Committees along with their descriptions and
+the student volunteers appointed to each committee.
 
 **The Report on the Student Activities Fund.** As described in [Article 2,
 Section 2](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-2-executives),
