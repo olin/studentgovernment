@@ -714,11 +714,10 @@ the Student Activities Fund.
 
 #### Section 4. Event Scheduling Guidelines.
 
-Wherever possible, to respect the religious diversity of the student body, the
-Council and the four Student Government Committees avoids scheduling events
-directed at the entire student body on major religious obligations such that
-attending the event would impede students from participating in their religions'
-traditions.
+To respect the religious diversity of the student body, the Council and the four
+Student Government Committees does not schedule events directed at the entire
+student body on major religious obligations such that attending the event would
+impede students from participating in their religions' traditions.
 
 The Student Government explicitly recognizes the religious obligations listed in
 Table 1. Table 1 is not exhaustive but covers important religious obligations
