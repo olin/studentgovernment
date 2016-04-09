@@ -712,6 +712,38 @@ allocation as necessary.
 The Student Government currently has no all-encompasing funding guidelines for
 the Student Activities Fund.
 
+#### Section 4. Event Scheduling Guidelines.
+
+Wherever possible, to respect the religious diversity of the student body, the
+Council and the four Student Government Committees avoids scheduling events
+directed at the entire student body on major religious obligations such that
+attending the event would impede students from participating in their religions'
+traditions.
+
+The Student Government explicitly recognizes the religious obligations listed in
+Table 1. Table 1 is not exhaustive but covers important religious obligations
+when classes are in session that students have expressly asked the Student
+Government to respect.
+
+The Student Government also refers to the list of Religious Observances in
+Massachusetts (http://www.doe.mass.edu/resources/holidays.html).
+
+At the beginning of every academic year, the Student Government sends a survey
+to the student body asking if there are any other religious obligations which
+should be added to Table 1.
+
+| Holiday       | Impact                                                                                                      | Time of Year                | 2016               | 2017              | 2018               | 2019                  | 2020               |
+|---------------|-------------------------------------------------------------------------------------------------------------|-----------------------------|--------------------|-------------------|--------------------|-----------------------|--------------------|
+| Ash Wednesday | A couple hours to attend church, frequently at lunch time or the end of a work day.                         | Mid February - Early March  |                    | Mar 1             | Feb 14             | Mar 6                 | Feb 26             |
+| Holy Thursday | Church, generally from 7-9                                                                                  | End of March - Mid April    |                    | Apr 13            | Mar 29             | Apr 18                | Apr 9              |
+| Good Friday   | Many take 12-3pm as a time of remembrance followed by church at 3 or 7                                      | End of March - Mid April    |                    | Apr 14            | Mar 30             | Apr 19                | Apr 10             |
+| Easter        | All Day                                                                                                     | End of March - Mid April    |                    | Apr 16            | Apr 1              | Apr 21                | Apr 12             |
+| Rosh Hashana  | Evening services on night before and two days of services/family observance                                 | September - Early October   | Sundown Oct 2 -4   | Sundown,Sep 20-22 | Sundown Sep 9 - 11 | Sundown Sep 29- Oct 1 | Sundown Sep 18- 20 |
+| Yom Kippur    | Fasting from night before through next evening. All day in services                                         | Mid September - Mid October | Sundown Oct 11 -12 | Sundown Sep 29-30 | Sundown Sep 18-19  | Sundown Oct 8-9       | Sundown Sep 28-29  |
+| Passover      | religious dinners on first two nights, no levened bread or anything with wheat, corn or rice for eight days | End of March - April        | Sundown Apr 22-23  | Sundown Apr 10-11 | Sundown Mar 30-31  | Sundown Apr 19-20     | Sundown Apr 8-9    |
+
+*Table 1. Explicitly recognized religious obligations.*
+
 ### Article 10. Student Government Audits.
 
 #### Section 1. Meetings.
