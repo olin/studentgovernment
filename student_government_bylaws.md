@@ -286,7 +286,7 @@ Council and treated as an Official Action.
 #### Section 12. Class Funds.
 
 There is one Class Fund for each of the four graduating classes. The relevant
-Class Representative may issue Allocation Orders to allocate and spend their 
+Class Representative may issue Allocation Orders to allocate and spend their
 Class Fund with the consent of the Vice President for Finance. Events and
 activities paid for using a Class Fund should be directed towards the graduating
 class corresponding to the fund from which the money was allocated. For the
@@ -715,9 +715,13 @@ the Student Activities Fund.
 #### Section 4. Event Scheduling Guidelines.
 
 To respect the religious diversity of the student body, the Council and the four
-Student Government Committees does not schedule events directed at the entire
+Student Government Committees do not schedule events directed at the entire
 student body on major religious obligations such that attending the event would
-impede students from participating in their religions' traditions.
+impede students from participating in their religions' traditions. Events hosted
+by other organizations but funded by the Council are also prohibited from being
+scheduled on major religious obligations. While we hope that student groups
+funded by the Committee for Clubs and Organizations are considerate of their
+members' obligations, this restiction does not apply to clubs and organizations.
 
 The Student Government explicitly recognizes the religious obligations listed in
 Table 1. Table 1 is not exhaustive but covers important religious obligations
@@ -728,8 +732,13 @@ The Student Government also refers to the list of Religious Observances in
 Massachusetts (http://www.doe.mass.edu/resources/holidays.html).
 
 At the beginning of every academic year, the Student Government sends a survey
-to the student body asking if there are any other religious obligations which
-should be added to Table 1.
+to the student body asking if the Student Government should continue to avoid
+scheduling on each obligation in Table 1 and if there are any other religious
+obligations which should be added to Table 1. Any obligation which no student
+has asked to be renewed is marked inactive and the Student Government may
+again schedule on that date if necessary. The Student Government may reactivate
+an obligation later if an Oliner would like the obligation respected in the
+scheduling of events.
 
 | Holiday       | Impact                                                                                                      | Time of Year                | 2016               | 2017              | 2018               | 2019                  | 2020               |
 |---------------|-------------------------------------------------------------------------------------------------------------|-----------------------------|--------------------|-------------------|--------------------|-----------------------|--------------------|
@@ -1006,7 +1015,7 @@ Programs moderates the hearing but does not have voting power.
 
 All members of the Honor Board not under investigation are considered quorum for
 the meeting and vote on the removal of the student(s) in question. The decision
-of the Honor Board is subject to approval by the Dean of Student Life. 
+of the Honor Board is subject to approval by the Dean of Student Life.
 
 #### Section 7. Resignation.
 
@@ -1078,7 +1087,7 @@ amendment at its next meeting and decides whether to call a Town Meeting.
 If the amendment passes review, the President calls a Town Meeting within three
 school weeks. The Vice President for Communications sends an announcement
 containing the finalized amendment to the entire Student Body at least one week
-in advance of the Town Meeting. The Student Body decides at a Town Meeting 
+in advance of the Town Meeting. The Student Body decides at a Town Meeting
 whether or not to approve the amendment. The Vice President for Communications
 sends an announcement describing the outcome of the meeting to the entire
 Student Body within 24 hours of the close of the meeting.
