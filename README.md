@@ -13,7 +13,7 @@ Not yet amended.
 ## Student Government By-Laws
 Originally passed at a meeting of the Student Government on May 1st, 2015.
 ### Passed Amendments
-- 2016-10-05 BA-1516-014: Replaced "Representative to Operations" with "Representative for Student Services"
+- 2016-10-05 BA-1617-001: Replaced "Representative to Operations" with "Representative for Student Services"
 - 2016-04-04 BA-1516-012: Moved the Honor Board election procedures into the By-Laws, adjusted CORe role descriptions, shortened the spring elections, and changed how we report students on faculty and operational committees
 - 2016-03-07 BA-1516-011: Changed the By-Laws to present tense
 - 2016-03-07 BA-1516-010: Changed class events funds to class funds and aligned class rep role descriptions to practice
