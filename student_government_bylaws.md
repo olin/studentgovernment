@@ -92,7 +92,7 @@ Five of the ten representatives are Specialized Representatives who each meet
 directly with senior administrators of the College on a regular basis. These
 representatives include:
 
-1. a Representative to Operations
+1. a Representative for Student Services
 2. a Representative to Marketing and Communications and Development, Family,
    and Alumni Relations
 3. a Representative to Admissions and the Office of Student Affairs and
@@ -162,10 +162,10 @@ Specialized Representative:
 
 The Student Body elects the following five Specialized Representatives:
 
-**Representative to Operations.** The Representative to Operations liaises
-with the College’s Vice President for Operations and Chief Information Officer
-and follows all actions and initiatives related to student dining, facilities,
-or information technology at the College.
+**Representative for Student Services.** The Representative for Student Services
+liaises with the College’s Vice President for Operations and Chief Information
+Officer and follows all actions and initiatives related to student dining,
+facilities, or information technology at the College.
 
 **Representative to Marketing and Communications and Development, Family, and
 Alumni Relations.** The Representative to Marketing and Communications, and
@@ -286,7 +286,7 @@ Council and treated as an Official Action.
 #### Section 12. Class Funds.
 
 There is one Class Fund for each of the four graduating classes. The relevant
-Class Representative may issue Allocation Orders to allocate and spend their 
+Class Representative may issue Allocation Orders to allocate and spend their
 Class Fund with the consent of the Vice President for Finance. Events and
 activities paid for using a Class Fund should be directed towards the graduating
 class corresponding to the fund from which the money was allocated. For the
@@ -850,7 +850,7 @@ The following positions are elected in the second spring election cycle:
 1. Assistant Director of Student Activities
 2. Assistant Director of Clubs and Organizations
 3. Assistant Director of Service
-4. Representative to Operations
+4. Representative for Student Services
 5. Representative to Marketing and Communications, and Development, Family, and
    Alumni Relations
 6. Representative to the Office of Student Affairs and Resources, and
@@ -975,7 +975,7 @@ Programs moderates the hearing but does not have voting power.
 
 All members of the Honor Board not under investigation are considered quorum for
 the meeting and vote on the removal of the student(s) in question. The decision
-of the Honor Board is subject to approval by the Dean of Student Life. 
+of the Honor Board is subject to approval by the Dean of Student Life.
 
 #### Section 7. Resignation.
 
@@ -1047,7 +1047,7 @@ amendment at its next meeting and decides whether to call a Town Meeting.
 If the amendment passes review, the President calls a Town Meeting within three
 school weeks. The Vice President for Communications sends an announcement
 containing the finalized amendment to the entire Student Body at least one week
-in advance of the Town Meeting. The Student Body decides at a Town Meeting 
+in advance of the Town Meeting. The Student Body decides at a Town Meeting
 whether or not to approve the amendment. The Vice President for Communications
 sends an announcement describing the outcome of the meeting to the entire
 Student Body within 24 hours of the close of the meeting.
