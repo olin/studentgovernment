@@ -460,10 +460,11 @@ runs meetings of the Committee and generally oversees the Committee’s
 activities. The Director approves the creation of Student Groups, classifies
 them as Clubs or Organizations, and generally helps them meet their goals. The
 Director sends a summary of spendings to the Vice President for Finance once per
-week broken down by Student Group. The Director attends meetings of the Student
-Government prepared to report the activities and spending of the Committee. With
-the agreement of the Assistant Director, the Director may appropriate money from
-the CCO Budget.
+week broken down by Student Group. The Director populates and maintains the
+List of Student Groups and Administration Committees as described in [Article 13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
+The Director attends meetings of the Student Government prepared to report the
+activities and spending of the Committee. With the agreement of the Assistant
+Director, the Director may appropriate money from the CCO Budget.
 
 **Assistant Director of Clubs and Organizations.** The Assistant Director of
 Clubs and Organizations assists the Director in the operations of the Committee.
@@ -1129,9 +1130,11 @@ respectively. The list is in reverse-chronological order (with the most recent
 Official Action at the top), and contains the full text of every Official
 Action, as well as a brief summary of the action if necessary.
 
-**The List of Committees and Appointees.** This document contains a list of the
-College's Faculty and Operational Committees along with their descriptions and
-the student volunteers appointed to each committee.
+**The List of Student Groups and Administration Committees.** This document
+contains the names, descriptions, and officers or appointees of all recognized
+and unrecognized student clubs and organizations, branches of the student
+government, Council Projects, project teams, and Faculty and Operational
+Committees established by the Administration of the College.
 
 **The Report on the Student Activities Fund.** As described in [Article 2,
 Section 2](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-2-executives),
