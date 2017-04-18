@@ -90,7 +90,7 @@ Five of the ten representatives are Specialized Representatives who each meet
 directly with senior administrators of the College on a regular basis. These
 representatives include:
 
-1. a Representative to Operations
+1. a Representative for Campus Services
 2. a Representative to Marketing and Communications and Development, Family,
    and Alumni Relations
 3. a Representative to Admissions and the Office of Student Affairs and
@@ -159,9 +159,10 @@ Specialized Representative:
 
 The Student Body elects the following five Specialized Representatives:
 
-**Representative to Operations.** The Representative to Operations liaises
-with the College’s Chief Information Officer, Director of Facilities, and Dining
-Services Manager, and follows all actions and initiatives related to student dining, facilities, or information technology at the College.
+**Representative for Campus Services.** The Representative for Campus Services
+liaises with the College’s Vice President for Operations and Chief Information
+Officer and follows all actions and initiatives related to student dining,
+facilities, or information technology at the College.
 
 **Representative to Marketing and Communications and Development, Family, and
 Alumni Relations.** The Representative to Marketing and Communications, and
@@ -845,7 +846,7 @@ The following positions are elected in the second spring election cycle:
 1. Assistant Director of Student Activities
 2. Assistant Director of Clubs and Organizations
 3. Assistant Director of Service
-4. Representative to Operations
+4. Representative for Campus Services
 5. Representative to Marketing and Communications, and Development, Family, and
    Alumni Relations
 6. Representative to the Office of Student Affairs and Resources, and
