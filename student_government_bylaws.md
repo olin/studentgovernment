@@ -46,10 +46,8 @@ of the Committee Leaders is considered a quorum of the Student Government.
 Official Actions of the Student Government include issuing Allocation Orders,
 amending the By-Laws, and reviewing amendments to the Constitution. All Official
 Actions of the Student Government may be passed with approval of a majority of
-the voting members present. In order for a vote to be taken on an Official
-Action, a motion to its effect must be recognized by the presiding officer and
-seconded by another voting member. All Official Actions are recorded
-separately and numbered.
+the voting members present. All Official Actions are recorded with a unique
+identifier.
 
 #### Section 5. Allocation Orders.
 
@@ -128,8 +126,7 @@ to the Student Body, as specified in [Article
 13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
 The Vice President for Communications advertises Student Government and Council
 related events, organizes the publishing of the monthly report, and actively
-encourages Student Body participation in the improvement of the Student
-Government and Olin culture.
+encourages Student Body participation in the Student Government.
 
 **Vice President for Finance.** The Vice President for Finance keeps the
 official records of the Student Activities Fund and informs the Student Body on
@@ -199,8 +196,8 @@ Collaboration on issues of interest to the students of the three colleges.
 There are five Class Representatives who represent their respective graduating
 classes. Each Class Representative:
 
-1. holds weekly office hours to communicate with their class and listen to
-   their concerns,
+1. regularly organizes opportunities to communicate with their class and listen
+   to their concerns,
 2. conveys the Council's function and activities to their class, and
 3. actively improves student life by championing or contributing to Council
    Projects, allocating their Class Fund, and organizing class events.
@@ -257,22 +254,21 @@ Appointments, holding Internal Elections, and arbitrating Disagreement
 Resolutions. All Official Actions of the Council may be passed with the approval
 of a majority of the voting members present with the exception of Committee
 Appointments which are completed using approval voting and Allocation Orders of
-the Discretionary Fund or the Class Events Funds which may be approved by a
-smaller subsection of the Council as defined in [Article 2, Sections 11](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-11-discretionary-fund)
+the Discretionary Fund or the Class Funds which may be approved by a smaller
+subsection of the Council as defined in [Article 2, Sections 11](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-11-discretionary-fund)
 [and 12](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-12-class-events-funds)
-respectively. All Official Actions of the Council are recorded separately and
-numbered.
+respectively. All Official Actions of the Council are recorded with a unique
+identifier.
 
 #### Section 9. Allocation Orders.
 
-The Council issues Allocation Orders appropriating the Student Initiatives
-Fund. The Council may only vote on Allocation Orders at in-person meetings of
-the Council.
+The Council issues Allocation Orders appropriating the CORe Budget. The Council
+may only vote on Allocation Orders at in-person meetings of the Council.
 
-#### Section 10. Student Initiatives Fund.
+#### Section 10. CORe Budget.
 
-By Allocation Order, the Council may allocate and spend the Student Initiatives
-Fund for purposes not covered by the other virtual funds.
+By Allocation Order, the Council may allocate and spend the CORe Budget for
+purposes not covered by the other virtual funds.
 
 #### Section 11. Discretionary Fund.
 
@@ -377,9 +373,9 @@ The composition, purpose, operation, and powers of the Honor Board are detailed
 in the Honor Code. Additional powers may be allotted to them in the
 Constitution and Bylaws of the Student Government.
 
-#### Section 2. Honor Board Fund.
+#### Section 2. Honor Board Budget.
 
-The Chair and Vice Chair of the Honor Board may allocate the Honor Board Fund
+The Chair and Vice Chair of the Honor Board may allocate the Honor Board Budget
 with joint approval.
 
 ### Article 4. The Student Activities Committee.
@@ -403,7 +399,7 @@ Director attends meetings of the Student Government prepared to report the
 activities and spending of the Committee. The Director sends a summary of
 spendings to the Vice President for Finance once a week broken down by event.
 With the agreement of the Assistant Director, the Director may appropriate money
-from the Student Events Fund.
+from the SAC Budget.
 
 **Assistant Director of Student Activities.** The Assistant Director of Student
 Activities assists the Director in the operations of the Committee. The
@@ -411,7 +407,7 @@ Assistant Director keeps the financial records, meeting minutes, and membership
 list of the Committee. In the absence of the Director, the Assistant Director
 performs the duties of the Director and attends meetings of the Student
 Government. With the agreement of the Director, the Assistant Director may
-appropriate money from the Student Events Fund.
+appropriate money from the SAC Budget.
 
 #### Section 3. General Membership.
 
@@ -428,23 +424,23 @@ the Committee will include the Officers and the General Membership.
 Announcements of meetings times and agendas is sent to the SAC mailing list
 prior to meetings.
 
-#### Section 5. Student Events Fund.
+#### Section 5. SAC Budget.
 
-The Student Events Fund is allocated jointly by the Director and Assistant
-Director of Student Activities for the purpose of fulfilling the Mission and
-Function of the Committee. Events and activities paid for using the Student
-Events Fund should be open to the entire Student Body.
+The SAC Budget is allocated jointly by the Director and Assistant Director of
+Student Activities for the purpose of fulfilling the Mission and Function of the
+Committee. Events and activities paid for using the SAC Budget should be open to
+the entire Student Body.
 
 #### Section 6. Funding Procedures.
 
-Any member of the Student Body may request funding from the Student Events Fund
-for an activity consistent with the Function of the Committee by submitting a
-request to the Director of Student Activities. So that one person cannot
-allocate large amounts of money alone, both the Director and Assistant Director
-must approve allocations. The Director serves as the point of contact for
-students who are requesting funds from the Committee, but any request must be
-approved by both Officers. The Director sends a summary of expenditures to the
-Vice President for Finance once per week broken down by event.
+Any member of the Student Body may request funding from the SAC Budget for an
+activity consistent with the Function of the Committee by submitting a request
+to the Director of Student Activities. So that one person cannot allocate large
+amounts of money alone, both the Director and Assistant Director must approve
+allocations. The Director serves as the point of contact for students who are
+requesting funds from the Committee, but any request must be approved by both
+Officers. The Director sends a summary of expenditures to the Vice President for
+Finance once per week broken down by event.
 
 ### Article 5. The Committee for Clubs and Organizations.
 
@@ -465,18 +461,18 @@ runs meetings of the Committee and generally oversees the Committee’s
 activities. The Director approves the creation of Student Groups, classifies
 them as Clubs or Organizations, and generally helps them meet their goals. The
 Director sends a summary of spendings to the Vice President for Finance once per
-week broken down by Student Group. The Director attends meetings of the Student
-Government prepared to report the activities and spending of the Committee. With
-the agreement of the Assistant Director, the Director may appropriate money from
-the Clubs and Organizations Fund.
+week broken down by Student Group. The Director populates and maintains the
+List of Student Groups and Administration Committees as described in [Article 13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
+The Director attends meetings of the Student Government prepared to report the
+activities and spending of the Committee. With the agreement of the Assistant
+Director, the Director may appropriate money from the CCO Budget.
 
 **Assistant Director of Clubs and Organizations.** The Assistant Director of
 Clubs and Organizations assists the Director in the operations of the Committee.
 The Assistant Director keeps financial records of the Committee. In the absence
 of the Director, the Assistant Director performs the duties of the Director and
 attends meetings of the Student Government. With the agreement of the Director,
-the Assistant Director may appropriate money from the Clubs and Organizations
-Fund.
+the Assistant Director may appropriate money from the CCO Budget.
 
 #### Section 3. General Membership.
 
@@ -515,11 +511,11 @@ additional funds as needed from the Committee. Maintaining Organization status
 is contingent on an Organization keeping accurate financial records which can be
 produced upon request. Organization status is granted for one year at a time.
 
-#### Section 6. Clubs and Organizations Fund.
+#### Section 6. CCO Budget.
 
-The Clubs and Organizations Fund is allocated jointly by the Director and
-Assistant Director of Clubs and Organizations for the purpose of fulfilling the
-Mission and Function of the Committee.
+The CCO Budget is allocated jointly by the Director and Assistant Director of
+Clubs and Organizations for the purpose of fulfilling the Mission and Function
+of the Committee.
 
 #### Section 7. Funding Procedure.
 
@@ -612,7 +608,7 @@ and generally oversees the Committee’s activities. The Director acts as the
 voice of the Committee and thereby markets and advertises on behalf of the
 Committee. The Director attends meetings of the Student Government prepared to
 report the activities and spending of the Committee. With the agreement of the
-Assistant Director, the Director may appropriate money from the Service Fund.
+Assistant Director, the Director may appropriate money from the SERV Budget.
 
 **Assistant Director of Service.** The Assistant Director of Service assists the
 Director in the operations of the Committee. The Assistant Director keeps the
@@ -620,7 +616,7 @@ financial records, meeting minutes, service activity records, and membership
 list of the Committee. In the absence of the Director, the Assistant Director
 performs the duties of the Director and attends meetings of the Student
 Government. With the agreement of the Director, the Assistant Director may
-appropriate money from the Service Fund.
+appropriate money from the SERV Budget.
 
 #### Section 3. General Membership.
 
@@ -643,15 +639,15 @@ to date and find opportunities to involve the entire Olin community in
 maintaining a spirit of service and volunteerism. Announcements of meetings
 times and agendas are sent to the SERV mailing list prior to meetings.
 
-#### Section 5. Service Fund.
+#### Section 5. SERV Budget.
 
-The Service Fund is allocated jointly by the Director and Assistant Director of
+The SERV Budget is allocated jointly by the Director and Assistant Director of
 Service for the purpose of fulfilling the Mission and Function of the Committee.
 
 #### Section 6. Funding Procedures.
 
 The Committee for Supporting, Encouraging, and Recognizing Volunteerism
-allocates the Service Fund as follows.
+allocates the SERV Budget as follows.
 
 **School-wide Service Events.** The Director and Assistant Director of Service
 and the General Membership of the Committee are able to make purchases for
@@ -685,19 +681,19 @@ Student Activities Fee rests with the Board of Trustees.
 Allocation Order 0 establishes and allocates money for the following virtual
 funds:
 
-1. the Student Initiatives Fund, which is managed and allocated by the Council
-   of Olin Representatives,
+1. the CORe Budget, which is managed and allocated by the Council of Olin
+   Representatives,
 2. the Discretionary Fund, which is managed and allocated by the President and
    Vice President for Finance of the Council of Olin Representatives,
 3. the Class Funds, consisting of an individual fund for each graduating
    class, which is managed and allocated by the relevant Class Representative
    and the Vice President for Finance,
-4. the Honor Board Fund, which is managed and allocated by the Honor Board,
-5. the Student Events Fund, which is managed and allocated by the Student
-   Activities Committee,
-6. the Clubs and Organizations Fund, which is managed and allocated by the
-   Committee for Clubs and Organizations,
-7. the Service Fund, which is managed and allocated by the Committee for
+4. the Honor Board Budget, which is managed and allocated by the Honor Board,
+5. the SAC Budget, which is managed and allocated by the Student Activities
+   Committee,
+6. the CCO Budget, which is managed and allocated by the Committee for Clubs and
+   Organizations,
+7. the SERV Budget, which is managed and allocated by the Committee for
    Supporting, Encouraging, and Recognizing Volunteerism,
 8. the Sports Fund, which is managed and allocated by the College’s Office
    of Student Affairs and Resources, and
@@ -1135,9 +1131,11 @@ respectively. The list is in reverse-chronological order (with the most recent
 Official Action at the top), and contains the full text of every Official
 Action, as well as a brief summary of the action if necessary.
 
-**The List of Committees and Appointees.** This document contains a list of the
-College's Faculty and Operational Committees along with their descriptions and
-the student volunteers appointed to each committee.
+**The List of Student Groups and Administration Committees.** This document
+contains the names, descriptions, and officers or appointees of all recognized
+and unrecognized student clubs and organizations, branches of the student
+government, Council Projects, project teams, and Faculty and Operational
+Committees established by the Administration of the College.
 
 **The Report on the Student Activities Fund.** As described in [Article 2,
 Section 2](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-2-executives),
