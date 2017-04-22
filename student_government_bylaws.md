@@ -712,10 +712,11 @@ the Student Activities Fund.
 
 #### Section 1. Meetings.
 
-Audits of the Student Government occur twice per year in the middle of each
-semester. The Chair of the Honor Board and the President of the Student
-Government coordinate the time of the Audit. Audit Meetings are open to the
-Student Body.
+The annual audit of the Student Government consists of two meetings - one
+meeting at the end of the fall semester and a follow-up meeting at the end of
+the spring semester. The Chair of the Honor Board and the President of the
+Student Government coordinate the time of the Audit. Audit Meetings are open to
+the Student Body.
 
 #### Section 2. Review Process.
 
@@ -735,16 +736,13 @@ in a joint report on the state of the Student Government.
 
 #### Section 3. Discrepancy Resolution.
 
-At each Review, if the Honor Board finds that a portion of the Governing
-Documents are not being followed, the Honor Board requests that the
-person(s) responsible resolve the issue within an appropriate amount of time
-after which the person(s) responsible must send the Honor Board a report
-outlining how and when the issue was resolved. The time allowed for the
-completion of the report is up to the discretion of the Honor Board. If a
-report is not filed outlining the resolution of the infraction within the given
-timeframe, the Honor Board may file a case report about Student Government
-citing the infraction, and an abstract is published to the community after
-investigation and resolution through the Honor Board process.
+At the fall semester review, if the Honor Board finds that a portion of the
+Governing Documents are not being followed, the Honor Board requests that the
+person(s) responsible resolve the issue before the spring semester follow-up
+meeting. If the responsible official(s) do not resolve the infraction before the
+follow-up meeting, the Honor Board may file a case report about Student
+Government citing the infraction, and an abstract is published to the community
+after investigation and resolution through the Honor Board process.
 
 ### Article 11. Election Procedures.
 
