@@ -725,13 +725,14 @@ respective organizations in order to evaluate each organization's compliance
 with the Governing Documents:
 
 1. the Executives of the Council of Olin Representatives
-2. the Chair and Vice Chair of the Honor Board
-3. the Director and Assistant Director of Student Activities
-4. the Director and Assistant Director of Clubs and Organizations
-5. the Director and Assistant Director of Service
+2. the Director and Assistant Director of Student Activities
+3. the Director and Assistant Director of Clubs and Organizations
+4. the Director and Assistant Director of Service
 
-Following the review, the Honor Board representatives summarize their findings
-in a joint report on the state of the Student Government.
+The Chair and Vice Chair of the Honor Board meet separately to conduct an audit
+of the Honor Board's operations. Following the review, the Honor Board
+representatives summarize their findings in a joint report on the state of the
+Student Government.
 
 #### Section 3. Discrepancy Resolution.
 
