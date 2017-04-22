@@ -712,7 +712,7 @@ the Student Activities Fund.
 
 #### Section 1. Meetings.
 
-Audits of the Student Government occur twice per year in the middle of each
+Audits of the Student Government occur twice per year at the end of each
 semester. The Chair of the Honor Board and the President of the Student
 Government coordinate the time of the Audit. Audit Meetings are open to the
 Student Body.
