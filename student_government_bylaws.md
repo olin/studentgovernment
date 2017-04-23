@@ -1,5 +1,4 @@
 # Olin College Student Government By-Laws
-*As agreed upon by the Student Government on May 1, 2015.*
 
 ## Part I. Relative to the Student Government.
 
@@ -752,33 +751,17 @@ investigation and resolution through the Honor Board process.
 
 The following eligibility restrictions apply to candidates for positions in the
 Student Government. A student may run for any combination of positions but may
-only hold one voting position on the Student Government.
+only hold one position on the Student Government.
 
-Rising Sophomores, Juniors, and Seniors are eligible to run for:
-1. President
-2. Vice President for Communications
-3. Specialized Representative
-4. Director of Student Activities
-5. Director of Clubs and Organizations
-6. Director of Service
-7. Chair of the Honor Board
-8. Vice Chair of the Honor Board
-9. Honor Board General Member
-
-Rising Sophomores and Juniors are eligible to run for:
-1. Vice President for Finance
-2. Assistant Director of Student Activities
-3. Assistant Director of Clubs and Organizations
-4. Assistant Director of Service
-
-If a Rising Senior was not elected as Director of their respective Committee,
-Rising Seniors are also eligible to run for:
-1. Assistant Director of Student Activities
-2. Assistant Director of Clubs and Organizations
-3. Assistant Director of Service
-
-The Class Representative positions are only open to students from the
-particular class which the position represents.
+Any student matriculating at Olin in the following year may run for any position
+in the student government, as long as the following restrictions are met at all
+times:
+1. A Senior cannot be the Vice President for Finance.
+2. A Senior cannot be the Assistant Director of a committee if the Director of
+that committee is a Senior.
+3. The Chair and Vice Chair of the Honor Board cannot be in the same graduating
+class.
+4. Class Representatives must be a member of the class that they represent.
 
 #### Section 2. The Election Monitor.
 
@@ -791,9 +774,10 @@ follows:
 elections occurring in a particular election season or special election. The
 Election Monitor creates all necessary ballots and distributes candidate
 information as outlined in the By-Laws. The Election Monitor enforces
-campaigning rules and guidelines defined in the By-Laws. The Election Monitor
-counts the ballots, and the results of the election are not final until the
-Election Monitor validates them.
+campaigning rules and guidelines defined in the By-Laws, and serves as the final
+authority on campaigning restrictions. The Election Monitor counts the ballots,
+and the results of the election are not final until the Election Monitor
+validates them.
 
 Any member of the Student Government who does not intend to run for office may
 volunteer as a candidate for the position of Election Monitor. The Election
@@ -807,13 +791,13 @@ In the case of multiple candidates, each candidate gives a brief statement
 and is asked by the President to leave the room. The remaining members of
 the Student Government may deliberate and vote by excellence voting. The
 candidate with the most votes becomes Election Monitor. In the case of no
-candidates, the Dean of Student Life performs the duties of the Election
+candidates, the Senior Class Representative performs the duties of the Election
 Monitor.
 
 In the case of a Special Election, where calling a meeting of the Student
 Government only to elect an Election Monitor would be inexpedient, the
-presiding officer of the Council appoints an Election Monitor from the
-membership of the Student Government.
+President of the Council appoints an Election Monitor from the membership of the
+Student Government.
 
 #### Section 3. Regular Elections.
 
@@ -875,14 +859,15 @@ upon election.
 #### Section 4. Campaigning.
 
 During an election, between the close of nominations and the beginning of
-voting, candidates may campaign in a respectful and appropriate manner. The
+voting, candidates must campaign in a respectful and appropriate manner, as
+defined by the Honor Code and the rules laid out by the Election Monitor. The
 Election Monitor investigates allegations of inappropriate campaigning and
 decides upon what actions to take ranging from a warning to disqualification.
 
 To preserve an intellectual atmosphere and guarantee equal opportunities of
-election, campaigning outside of the following rules is prohibited, and
-infractions to the following rules are addressed by the Election Monitor.
-Candidates may not:
+election, campaigning outside of the following rules and additional guidelines
+laid out by the Election Monitor is prohibited, and infractions to the following
+rules are addressed by the Election Monitor. Candidates may not:
 
 1. campaign in the Academic Center or Milas Hall except when authorized by the
    Election Monitor,
@@ -892,6 +877,12 @@ Candidates may not:
 4. spend their own money to purchase campaign paraphernalia,
 5. send emails to the Student Body regarding their campaign, or
 6. disrespect other candidates.
+
+Additionally:
+
+1. Third parties may not campaign for other students without that candidate's
+explicit permission.
+2. Campaign materials cannot contain inappropriate or offensive content.
 
 Candidates are responsible for removing their campaign materials as soon as
 possible after the election.
