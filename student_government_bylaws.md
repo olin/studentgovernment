@@ -459,9 +459,9 @@ Clubs and Organizations.
 **Director of Clubs and Organizations.** The Director of Clubs and Organizations
 runs meetings of the Committee and generally oversees the Committee’s
 activities. The Director approves the creation of Student Groups, classifies
-them as Clubs or Organizations, and generally helps them meet their goals. The
-Director sends a summary of spendings to the Vice President for Finance once per
-week broken down by Student Group. The Director populates and maintains the
+them as Clubs or Organizations, and generally helps them meet their goals. The 
+Director will ensure that the Vice President of Finance has access to up-to-date 
+Student Group spendings at all times. The Director populates and maintains the
 List of Student Groups and Administration Committees as described in [Article 13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
 The Director attends meetings of the Student Government prepared to report the
 activities and spending of the Committee. With the agreement of the Assistant
@@ -477,7 +477,7 @@ the Assistant Director may appropriate money from the CCO Budget.
 #### Section 3. General Membership.
 
 The General Membership of the Committee includes the leadership of every student
-club and organization.
+group.
 
 #### Section 4. Meetings.
 
@@ -523,28 +523,28 @@ The Director of Clubs and Organizations defines the system for requesting club
 funding every year. A description of this system is made available to the
 Student Body. The following rules apply to club funding requests:
 
-1. Every request must come in at least 72 hours before the event. Any purchases
-   from amazon.com require a 2-week requesting period. Requests not meeting
+1. Every request must come in at least 72 hours before the event. Any online 
+   purchases require a 2-week requesting period. Requests not meeting
    these deadlines are not guaranteed a response in time for the event.
 2. Funding should be requested and approved before the event is advertised if
    the event is contingent on funding.
 3. Every request must be approved before the items are purchased. Anything
    purchased before the request is approved will not be reimbursed.
-4. If a club does not properly fulfill the club funding request and
+4. If an individual does not properly fulfill the club funding request and
    reimbursement process once, they receive a short warning.
-5. If a club does not properly fulfill the club funding request and
+5. If an individual does not properly fulfill the club funding request and
    reimbursement process twice, the Director of Clubs and Organizations may
-   withhold club funding for 2 months.
-6. If a club does not properly fulfill the club funding request and
+   may impose a spending ban on the individual for up to 2 months.
+6. If an individual does not properly fulfill the club funding request and
    reimbursement process another time after the 2 month penalty, the Director
-   of Clubs and Organizations may withhold club funding for the remainder of
-   the year.
-7. If a club fails to turn in a receipt within 7 days of the purchase the club
-   will either be given a warning or a one month spending ban, at the
-   discretion of the Vice President for Finance.
-8. Failure to turn in two receipts in the course of one academic year may
-   result in a spending ban for the remainder of the semester, at the
-   discretion of the Vice President for Finance.
+   of Clubs and Organizations may impose a spending ban on the individual 
+   for the remainder of the year.
+7. If an individual fails to turn in a receipt within 7 days of the purchase 
+   the individual will either be given a warning or a one month spending ban, 
+   at the discretion of the Vice President for Finance.
+8. If an individual fails to turn in two receipts in the course of one academic
+   year may result in a spending ban on that individual for the remainder of 
+   the semester, at the discretion of the Vice President for Finance.
 
 #### Section 8. Spending Limits and Rules.
 
