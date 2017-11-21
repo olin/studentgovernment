@@ -460,9 +460,10 @@ Clubs and Organizations.
 runs meetings of the Committee and generally oversees the Committee’s
 activities. The Director approves the creation of Student Groups, classifies
 them as Clubs or Organizations, and generally helps them meet their goals. The
-Director sends a summary of spendings to the Vice President for Finance once per
-week broken down by Student Group. The Director populates and maintains the
-List of Student Groups and Administration Committees as described in [Article 13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
+Director sends or otherwise makes accessible a summary of spendings to the 
+Vice President for Finance, once per week, broken down by Student Group. 
+The Director populates and maintains the List of Student Groups and Administration 
+Committees as described in [Article 13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
 The Director attends meetings of the Student Government prepared to report the
 activities and spending of the Committee. With the agreement of the Assistant
 Director, the Director may appropriate money from the CCO Budget.
@@ -523,8 +524,8 @@ The Director of Clubs and Organizations defines the system for requesting club
 funding every year. A description of this system is made available to the
 Student Body. The following rules apply to club funding requests:
 
-1. Every request must come in at least 72 hours before the event. Any purchases
-   from amazon.com require a 2-week requesting period. Requests not meeting
+1. Every request must come in at least 72 hours before the event. Any online purchases
+   require a 2-week requesting period. Requests not meeting
    these deadlines are not guaranteed a response in time for the event.
 2. Funding should be requested and approved before the event is advertised if
    the event is contingent on funding.
