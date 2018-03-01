@@ -472,12 +472,12 @@ Clubs and Organizations assists the Director in the operations of the Committee.
 The Assistant Director keeps financial records of the Committee. In the absence
 of the Director, the Assistant Director performs the duties of the Director and
 attends meetings of the Student Government. With the agreement of the Director,
-the Assistant Director may appropriate money from the CCO Budget.
+the Assistant Director may allocate money from the CCO Budget.
 
 #### Section 3. General Membership.
 
 The General Membership of the Committee includes the leadership of every student
-group.
+club and organization.
 
 #### Section 4. Meetings.
 
@@ -523,28 +523,29 @@ The Director of Clubs and Organizations defines the system for requesting club
 funding every year. A description of this system is made available to the
 Student Body. The following rules apply to club funding requests:
 
-1. Every request must come in at least 72 hours before the event. Any online 
+1. Any individual hoping to spend club money must attend a Club Spending Training. 
+   These events are held by the VP of Finance and Director and Assistant Director 
+   of Clubs and Organizations at the beginning of every semester, and upon request.
+2. Every request must come in at least 72 hours before the event. Any online 
    purchases require a 2-week requesting period. Requests not meeting
    these deadlines are not guaranteed a response in time for the event.
-2. Funding should be requested and approved before the event is advertised if
+3. Funding should be requested and approved before the event is advertised if
    the event is contingent on funding.
-3. Every request must be approved before the items are purchased. Anything
+4. Every request must be approved before the items are purchased. Anything
    purchased before the request is approved will not be reimbursed.
-4. If an individual does not properly fulfill the club funding request and
-   reimbursement process once, they receive a short warning.
-5. If an individual does not properly fulfill the club funding request and
-   reimbursement process twice, the Director of Clubs and Organizations may
-   may impose a spending ban on the individual for up to 2 months.
-6. If an individual does not properly fulfill the club funding request and
-   reimbursement process another time after the 2 month penalty, the Director
-   of Clubs and Organizations may impose a spending ban on the individual 
-   for the remainder of the year.
-7. If an individual fails to turn in a receipt within 7 days of the purchase 
-   the individual will either be given a warning or a one month spending ban, 
-   at the discretion of the Vice President for Finance.
-8. If an individual fails to turn in two receipts in the course of one academic
-   year may result in a spending ban on that individual for the remainder of 
-   the semester, at the discretion of the Vice President for Finance.
+5. Receipts for all purchases, and reimbursement forms if applicable, must 
+   be submitted to the VP of Finance within 7 days of the purchase, or 
+   before the end of the calendar month (whichever occurs first).
+
+If an individual fails to fulfill the club funding process properly and 
+within the appropriate amount of time (outlined in the above three bullets 
+and in Club Spending Trainings), the Director of Clubs and Organizations 
+and the VP of Finance may:
+1. Upon first offence: give the individual and group a short warning.
+2. Upon second offence: give the individual and/or group a spending ban 
+   for up to two months.
+3. Upon third offence: give the individual and/or group a spending ban 
+   for the remainder of the semester or year.
 
 #### Section 8. Spending Limits and Rules.
 
