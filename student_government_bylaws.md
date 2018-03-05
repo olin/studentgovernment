@@ -753,7 +753,7 @@ The following eligibility restrictions apply to candidates for positions in the
 Student Government. A student may run for any combination of positions but may
 only hold one position on the Student Government.
 
-Any student matriculating at Olin in the following year may run for any position
+Any student at Olin in the following year may run for any position
 in the student government, as long as the following restrictions are met at all
 times:
 1. A Senior cannot be the Vice President for Finance.
