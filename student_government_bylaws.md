@@ -729,10 +729,10 @@ with the Governing Documents:
 3. the Director and Assistant Director of Clubs and Organizations
 4. the Director and Assistant Director of Service
 
-The Chair and Vice Chair of the Honor Board meet separately to conduct an audit
-of the Honor Board's operations. Following the review, the Honor Board
-representatives summarize their findings in a joint report on the state of the
-Student Government.
+The Chair and Vice Chair of the Honor Board, along with a designee approved
+by CORe, meet separately to conduct an audit of the Honor Board's operations.
+Following the review, the Honor Board representatives summarize their findings
+in a joint report on the state of the Student Government.
 
 #### Section 3. Discrepancy Resolution.
 
