@@ -796,7 +796,7 @@ Monitor.
 
 In the case of a Special Election, where calling a meeting of the Student
 Government only to elect an Election Monitor would be inexpedient, the
-presiding officer of the Council appoints an Election Monitor from the 
+presiding officer of the Council appoints an Election Monitor from the
 membership of the Student Government.
 
 #### Section 3. Regular Elections.
