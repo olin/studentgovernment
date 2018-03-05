@@ -791,13 +791,13 @@ In the case of multiple candidates, each candidate gives a brief statement
 and is asked by the President to leave the room. The remaining members of
 the Student Government may deliberate and vote by excellence voting. The
 candidate with the most votes becomes Election Monitor. In the case of no
-candidates, the Senior Class Representative performs the duties of the Election
+candidates, the Dean of Student Life performs the duties of the Election
 Monitor.
 
 In the case of a Special Election, where calling a meeting of the Student
 Government only to elect an Election Monitor would be inexpedient, the
-President of the Council appoints an Election Monitor from the membership of the
-Student Government.
+presiding officer of the Council appoints an Election Monitor from the 
+membership of the Student Government.
 
 #### Section 3. Regular Elections.
 
@@ -882,7 +882,6 @@ Additionally:
 
 1. Third parties may not campaign for other students without that candidate's
 explicit permission.
-2. Campaign materials cannot contain inappropriate or offensive content.
 
 Candidates are responsible for removing their campaign materials as soon as
 possible after the election.
