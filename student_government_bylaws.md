@@ -1,5 +1,4 @@
 # Olin College Student Government By-Laws
-*As agreed upon by the Student Government on May 1, 2015.*
 
 ## Part I. Relative to the Student Government.
 
@@ -459,9 +458,9 @@ Clubs and Organizations.
 **Director of Clubs and Organizations.** The Director of Clubs and Organizations
 runs meetings of the Committee and generally oversees the Committee’s
 activities. The Director approves the creation of Student Groups, classifies
-them as Clubs or Organizations, and generally helps them meet their goals. The
-Director sends a summary of spendings to the Vice President for Finance once per
-week broken down by Student Group. The Director populates and maintains the
+them as Clubs or Organizations, and generally helps them meet their goals. The 
+Director will ensure that the Vice President for Finance has access to up-to-date 
+Student Group spendings at all times. The Director populates and maintains the
 List of Student Groups and Administration Committees as described in [Article 13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
 The Director attends meetings of the Student Government prepared to report the
 activities and spending of the Committee. With the agreement of the Assistant
@@ -472,7 +471,7 @@ Clubs and Organizations assists the Director in the operations of the Committee.
 The Assistant Director keeps financial records of the Committee. In the absence
 of the Director, the Assistant Director performs the duties of the Director and
 attends meetings of the Student Government. With the agreement of the Director,
-the Assistant Director may appropriate money from the CCO Budget.
+the Assistant Director may allocate money from the CCO Budget.
 
 #### Section 3. General Membership.
 
@@ -523,28 +522,30 @@ The Director of Clubs and Organizations defines the system for requesting club
 funding every year. A description of this system is made available to the
 Student Body. The following rules apply to club funding requests:
 
-1. Every request must come in at least 72 hours before the event. Any purchases
-   from amazon.com require a 2-week requesting period. Requests not meeting
+1. Any individual hoping to spend club money must attend a Club Spending Training. 
+   These events are held by the Vice President for Finance and Director and Assistant
+   Director of Clubs and Organizations at the beginning of every semester, and upon
+   request.
+2. Every request must come in at least 72 hours before the event. Any online 
+   purchases require a 2-week requesting period. Requests not meeting
    these deadlines are not guaranteed a response in time for the event.
-2. Funding should be requested and approved before the event is advertised if
+3. Funding should be requested and approved before the event is advertised if
    the event is contingent on funding.
-3. Every request must be approved before the items are purchased. Anything
+4. Every request must be approved before the items are purchased. Anything
    purchased before the request is approved will not be reimbursed.
-4. If a club does not properly fulfill the club funding request and
-   reimbursement process once, they receive a short warning.
-5. If a club does not properly fulfill the club funding request and
-   reimbursement process twice, the Director of Clubs and Organizations may
-   withhold club funding for 2 months.
-6. If a club does not properly fulfill the club funding request and
-   reimbursement process another time after the 2 month penalty, the Director
-   of Clubs and Organizations may withhold club funding for the remainder of
-   the year.
-7. If a club fails to turn in a receipt within 7 days of the purchase the club
-   will either be given a warning or a one month spending ban, at the
-   discretion of the Vice President for Finance.
-8. Failure to turn in two receipts in the course of one academic year may
-   result in a spending ban for the remainder of the semester, at the
-   discretion of the Vice President for Finance.
+5. Receipts for all purchases, and reimbursement forms if applicable, must 
+   be submitted to the Vice President for Finance within 7 days of the purchase, or 
+   before the end of the calendar month (whichever occurs first).
+
+If an individual fails to fulfill the club funding process properly and 
+within the appropriate amount of time (outlined in the above three bullets 
+and in Club Spending Trainings), the Director of Clubs and Organizations 
+and the Vice President for Finance may:
+1. Upon first offence: give the individual and group a short warning.
+2. Upon second offence: give the individual and/or group a spending ban 
+   for up to two months.
+3. Upon third offence: give the individual and/or group a spending ban 
+   for the remainder of the semester or year.
 
 #### Section 8. Spending Limits and Rules.
 
@@ -725,11 +726,12 @@ respective organizations in order to evaluate each organization's compliance
 with the Governing Documents:
 
 1. the Executives of the Council of Olin Representatives
-2. the Chair and Vice Chair of the Honor Board
-3. the Director and Assistant Director of Student Activities
-4. the Director and Assistant Director of Clubs and Organizations
-5. the Director and Assistant Director of Service
+2. the Director and Assistant Director of Student Activities
+3. the Director and Assistant Director of Clubs and Organizations
+4. the Director and Assistant Director of Service
 
+The Chair and Vice Chair of the Honor Board, along with a designee approved
+by CORe, meet separately to conduct an audit of the Honor Board's operations.
 Following the review, the Honor Board representatives summarize their findings
 in a joint report on the state of the Student Government.
 
@@ -752,33 +754,17 @@ investigation and resolution through the Honor Board process.
 
 The following eligibility restrictions apply to candidates for positions in the
 Student Government. A student may run for any combination of positions but may
-only hold one voting position on the Student Government.
+only hold one position on the Student Government.
 
-Rising Sophomores, Juniors, and Seniors are eligible to run for:
-1. President
-2. Vice President for Communications
-3. Specialized Representative
-4. Director of Student Activities
-5. Director of Clubs and Organizations
-6. Director of Service
-7. Chair of the Honor Board
-8. Vice Chair of the Honor Board
-9. Honor Board General Member
-
-Rising Sophomores and Juniors are eligible to run for:
-1. Vice President for Finance
-2. Assistant Director of Student Activities
-3. Assistant Director of Clubs and Organizations
-4. Assistant Director of Service
-
-If a Rising Senior was not elected as Director of their respective Committee,
-Rising Seniors are also eligible to run for:
-1. Assistant Director of Student Activities
-2. Assistant Director of Clubs and Organizations
-3. Assistant Director of Service
-
-The Class Representative positions are only open to students from the
-particular class which the position represents.
+Any student at Olin in the following year may run for any position
+in the student government, as long as the following restrictions are met at all
+times:
+1. A Senior cannot be the Vice President for Finance.
+2. A Senior cannot be the Assistant Director of a committee if the Director of
+that committee is a Senior.
+3. The Chair and Vice Chair of the Honor Board cannot be in the same graduating
+class.
+4. Class Representatives must be a member of the class that they represent.
 
 #### Section 2. The Election Monitor.
 
@@ -791,9 +777,10 @@ follows:
 elections occurring in a particular election season or special election. The
 Election Monitor creates all necessary ballots and distributes candidate
 information as outlined in the By-Laws. The Election Monitor enforces
-campaigning rules and guidelines defined in the By-Laws. The Election Monitor
-counts the ballots, and the results of the election are not final until the
-Election Monitor validates them.
+campaigning rules and guidelines defined in the By-Laws, and serves as the final
+authority on campaigning restrictions. The Election Monitor counts the ballots,
+and the results of the election are not final until the Election Monitor
+validates them.
 
 Any member of the Student Government who does not intend to run for office may
 volunteer as a candidate for the position of Election Monitor. The Election
@@ -875,14 +862,15 @@ upon election.
 #### Section 4. Campaigning.
 
 During an election, between the close of nominations and the beginning of
-voting, candidates may campaign in a respectful and appropriate manner. The
+voting, candidates must campaign in a respectful and appropriate manner, as
+defined by the Honor Code and the rules laid out by the Election Monitor. The
 Election Monitor investigates allegations of inappropriate campaigning and
 decides upon what actions to take ranging from a warning to disqualification.
 
 To preserve an intellectual atmosphere and guarantee equal opportunities of
-election, campaigning outside of the following rules is prohibited, and
-infractions to the following rules are addressed by the Election Monitor.
-Candidates may not:
+election, campaigning outside of the following rules and additional guidelines
+laid out by the Election Monitor is prohibited, and infractions to the following
+rules are addressed by the Election Monitor. Candidates may not:
 
 1. campaign in the Academic Center or Milas Hall except when authorized by the
    Election Monitor,
@@ -892,6 +880,11 @@ Candidates may not:
 4. spend their own money to purchase campaign paraphernalia,
 5. send emails to the Student Body regarding their campaign, or
 6. disrespect other candidates.
+
+Additionally:
+
+1. Third parties may not campaign for other students without that candidate's
+explicit permission.
 
 Candidates are responsible for removing their campaign materials as soon as
 possible after the election.
