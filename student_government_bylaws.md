@@ -7,10 +7,10 @@
 #### Section 1. Constituency.
 
 The Student Government serves and acts as the voice of the Student Body of the
-College. The Student Body is defined as all currently enrolled students of the
-College who plan to graduate from Olin College. At times when the Student
-Government, its members, or its Committees must communicate to the entire
-Student Body, they email the Student Government Announcements mailing list.
+College. The Student Body is defined as all currently enrolled students of Olin
+College. At times when the Student Government, its members, or its Committees
+must communicate to the entire Student Body, they email the Student Government
+Announcements mailing list.
 
 #### Section 2. Meetings.
 
