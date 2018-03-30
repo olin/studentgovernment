@@ -13,6 +13,7 @@ Not yet amended.
 ## Student Government By-Laws
 Originally passed at a meeting of the Student Government on May 1st, 2015.
 ### Passed Amendments
+- 2018-04-04 BA-1718-002: Changed the definition of the Student Body to "all currently enrolled students of Olin College."
 - 2017-04-26 BA-1617-006: Changed the audit process such that the Chair and the Vice Chair of the Honor Board can conduct the audit of the Honor Board themselves
 - 2017-04-26 BA-1617-007: Clarified the election process
 - 2017-02-01 BA-1617-003: Removed obsolete wording
