@@ -460,7 +460,7 @@ Clubs and Organizations.
 runs meetings of the Committee and generally oversees the Committee’s
 activities. The Director approves the creation of Student Groups, classifies
 them as Clubs or Organizations, and generally helps them meet their goals. The 
-Director will ensure that the Vice President of Finance has access to up-to-date 
+Director will ensure that the Vice President for Finance has access to up-to-date 
 Student Group spendings at all times. The Director populates and maintains the
 List of Student Groups and Administration Committees as described in [Article 13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
 The Director attends meetings of the Student Government prepared to report the
@@ -524,8 +524,9 @@ funding every year. A description of this system is made available to the
 Student Body. The following rules apply to club funding requests:
 
 1. Any individual hoping to spend club money must attend a Club Spending Training. 
-   These events are held by the VP of Finance and Director and Assistant Director 
-   of Clubs and Organizations at the beginning of every semester, and upon request.
+   These events are held by the Vice President for Finance and Director and Assistant
+   Director of Clubs and Organizations at the beginning of every semester, and upon
+   request.
 2. Every request must come in at least 72 hours before the event. Any online 
    purchases require a 2-week requesting period. Requests not meeting
    these deadlines are not guaranteed a response in time for the event.
@@ -534,13 +535,13 @@ Student Body. The following rules apply to club funding requests:
 4. Every request must be approved before the items are purchased. Anything
    purchased before the request is approved will not be reimbursed.
 5. Receipts for all purchases, and reimbursement forms if applicable, must 
-   be submitted to the VP of Finance within 7 days of the purchase, or 
+   be submitted to the Vice President for Finance within 7 days of the purchase, or 
    before the end of the calendar month (whichever occurs first).
 
 If an individual fails to fulfill the club funding process properly and 
 within the appropriate amount of time (outlined in the above three bullets 
 and in Club Spending Trainings), the Director of Clubs and Organizations 
-and the VP of Finance may:
+and the Vice President for Finance may:
 1. Upon first offence: give the individual and group a short warning.
 2. Upon second offence: give the individual and/or group a spending ban 
    for up to two months.
