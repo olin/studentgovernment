@@ -86,7 +86,7 @@ The Student Government may amend the Student Government By-Laws using the
 procedure described in [Article
 12](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#article-12-amendment-procedures).
 
-#### Section 8. Ad-hoc Representatives.
+#### Section 8. Ad Hoc Representatives.
 
 The Student Government may establish in the Student Government By-Laws elected
 or appointed non-voting ad hoc representatives of the Council.
