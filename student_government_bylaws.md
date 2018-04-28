@@ -1022,6 +1022,10 @@ location which can be accessed by the current members of the Student Government.
 Each elected official must meet with their successor to discuss their respective
 transition document upon leaving office.
 
+All newly elected officials must read the Student Government Constitution prior
+to taking office. Outgoing officials must ensure that their successor has read the
+Constitution as part of the transition process.
+
 ### Article 12. Amendment Procedures.
 
 #### Section 1. Amending the Constitution.
