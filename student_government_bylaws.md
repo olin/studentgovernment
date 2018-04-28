@@ -7,10 +7,10 @@
 #### Section 1. Constituency.
 
 The Student Government serves and acts as the voice of the Student Body of the
-College. The Student Body is defined as all currently enrolled students of the
-College who plan to graduate from Olin College. At times when the Student
-Government, its members, or its Committees must communicate to the entire
-Student Body, they email the Student Government Announcements mailing list.
+College. The Student Body is defined as all currently enrolled students of Olin
+College. At times when the Student Government, its members, or its Committees
+must communicate to the entire Student Body, they email the Student Government
+Announcements mailing list.
 
 #### Section 2. Meetings.
 
@@ -458,9 +458,9 @@ Clubs and Organizations.
 **Director of Clubs and Organizations.** The Director of Clubs and Organizations
 runs meetings of the Committee and generally oversees the Committee’s
 activities. The Director approves the creation of Student Groups, classifies
-them as Clubs or Organizations, and generally helps them meet their goals. The
-Director sends a summary of spendings to the Vice President for Finance once per
-week broken down by Student Group. The Director populates and maintains the
+them as Clubs or Organizations, and generally helps them meet their goals. The 
+Director will ensure that the Vice President for Finance has access to up-to-date 
+Student Group spendings at all times. The Director populates and maintains the
 List of Student Groups and Administration Committees as described in [Article 13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
 The Director attends meetings of the Student Government prepared to report the
 activities and spending of the Committee. With the agreement of the Assistant
@@ -471,7 +471,7 @@ Clubs and Organizations assists the Director in the operations of the Committee.
 The Assistant Director keeps financial records of the Committee. In the absence
 of the Director, the Assistant Director performs the duties of the Director and
 attends meetings of the Student Government. With the agreement of the Director,
-the Assistant Director may appropriate money from the CCO Budget.
+the Assistant Director may allocate money from the CCO Budget.
 
 #### Section 3. General Membership.
 
@@ -522,28 +522,30 @@ The Director of Clubs and Organizations defines the system for requesting club
 funding every year. A description of this system is made available to the
 Student Body. The following rules apply to club funding requests:
 
-1. Every request must come in at least 72 hours before the event. Any purchases
-   from amazon.com require a 2-week requesting period. Requests not meeting
+1. Any individual hoping to spend club money must attend a Club Spending Training. 
+   These events are held by the Vice President for Finance and Director and Assistant
+   Director of Clubs and Organizations at the beginning of every semester, and upon
+   request.
+2. Every request must come in at least 72 hours before the event. Any online 
+   purchases require a 2-week requesting period. Requests not meeting
    these deadlines are not guaranteed a response in time for the event.
-2. Funding should be requested and approved before the event is advertised if
+3. Funding should be requested and approved before the event is advertised if
    the event is contingent on funding.
-3. Every request must be approved before the items are purchased. Anything
+4. Every request must be approved before the items are purchased. Anything
    purchased before the request is approved will not be reimbursed.
-4. If a club does not properly fulfill the club funding request and
-   reimbursement process once, they receive a short warning.
-5. If a club does not properly fulfill the club funding request and
-   reimbursement process twice, the Director of Clubs and Organizations may
-   withhold club funding for 2 months.
-6. If a club does not properly fulfill the club funding request and
-   reimbursement process another time after the 2 month penalty, the Director
-   of Clubs and Organizations may withhold club funding for the remainder of
-   the year.
-7. If a club fails to turn in a receipt within 7 days of the purchase the club
-   will either be given a warning or a one month spending ban, at the
-   discretion of the Vice President for Finance.
-8. Failure to turn in two receipts in the course of one academic year may
-   result in a spending ban for the remainder of the semester, at the
-   discretion of the Vice President for Finance.
+5. Receipts for all purchases, and reimbursement forms if applicable, must 
+   be submitted to the Vice President for Finance within 7 days of the purchase, or 
+   before the end of the calendar month (whichever occurs first).
+
+If an individual fails to fulfill the club funding process properly and 
+within the appropriate amount of time (outlined in the above three bullets 
+and in Club Spending Trainings), the Director of Clubs and Organizations 
+and the Vice President for Finance may:
+1. Upon first offence: give the individual and group a short warning.
+2. Upon second offence: give the individual and/or group a spending ban 
+   for up to two months.
+3. Upon third offence: give the individual and/or group a spending ban 
+   for the remainder of the semester or year.
 
 #### Section 8. Spending Limits and Rules.
 
@@ -711,10 +713,11 @@ the Student Activities Fund.
 
 #### Section 1. Meetings.
 
-Audits of the Student Government occur twice per year in the middle of each
-semester. The Chair of the Honor Board and the President of the Student
-Government coordinate the time of the Audit. Audit Meetings are open to the
-Student Body.
+The annual audit of the Student Government consists of two meetings - one
+meeting at the end of the fall semester and a follow-up meeting at the end of
+the spring semester. The Chair of the Honor Board and the President of the
+Student Government coordinate the time of the Audit. Audit Meetings are open to
+the Student Body.
 
 #### Section 2. Review Process.
 
@@ -735,16 +738,13 @@ in a joint report on the state of the Student Government.
 
 #### Section 3. Discrepancy Resolution.
 
-At each Review, if the Honor Board finds that a portion of the Governing
-Documents are not being followed, the Honor Board requests that the
-person(s) responsible resolve the issue within an appropriate amount of time
-after which the person(s) responsible must send the Honor Board a report
-outlining how and when the issue was resolved. The time allowed for the
-completion of the report is up to the discretion of the Honor Board. If a
-report is not filed outlining the resolution of the infraction within the given
-timeframe, the Honor Board may file a case report about Student Government
-citing the infraction, and an abstract is published to the community after
-investigation and resolution through the Honor Board process.
+At the fall semester review, if the Honor Board finds that a portion of the
+Governing Documents are not being followed, the Honor Board requests that the
+person(s) responsible resolve the issue before the spring semester follow-up
+meeting. If the responsible official(s) do not resolve the infraction before the
+follow-up meeting, the Honor Board may file a case report about Student
+Government citing the infraction, and an abstract is published to the community
+after investigation and resolution through the Honor Board process.
 
 ### Article 11. Election Procedures.
 
