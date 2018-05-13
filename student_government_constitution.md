@@ -134,10 +134,11 @@ of resolving the issue.
 
 #### Section 7. Committee Appointments.
 
-If a Faculty and Operational Committee requests student representative(s), the
-Council may solicit volunteers from the Student Body to fill the representative
-positions on that committee. If there are more volunteers than available
-positions, the Council will appoint students by excellence voting.
+If a committee or working group of faculty and/or staff requests student
+representative(s), the Council may solicit volunteers from the Student Body to
+fill the representative positions on that committee. If there are more
+volunteers than available positions, the Council will appoint students by
+excellence voting.
 
 #### Section 8. Appellate Authority.
 
