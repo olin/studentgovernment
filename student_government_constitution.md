@@ -299,9 +299,10 @@ through the Honor Board process.
 
 #### Section 1. Election Monitor.
 
-The all school elections will be facilitated by a member of the Student
+The all-school elections will be facilitated by a member of the Student
 Government not running for re-election. In the case that no member is eligible,
-the elections will be facilitated by the Dean of Student Life.
+a substitute will be selected to perform the duties of the Election Monitor as
+specified in the By-Laws.
 
 #### Section 2. Campaigning.
 
