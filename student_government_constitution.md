@@ -212,8 +212,8 @@ of the Student Government Constitution.
 
 #### Section 1. Mission.
 
-The Student Activities Committee will maintain and expand a continuous and
-diverse set of social opportunities for the Student Body.
+The Student Activities Committee will maintain and expand a continuous,
+diverse, and accessible set of social opportunities for the entire Student Body.
 
 #### Section 2. Structure.
 
