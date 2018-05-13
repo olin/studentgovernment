@@ -205,7 +205,8 @@ procedures.
 
 The Honor Board will periodically review the actions of the Student Government
 to ensure that the elected Student Leadership is abiding by the Governing
-Documents.
+Documents. This process will be conducted as described in [Part 3, Article 9](https://github.com/olin/studentgovernment/blob/ca-working/student_government_constitution.md#article-9-student-government-audits)
+of the Student Government Constitution.
 
 ### Article 6. The Student Activities Committee.
 
