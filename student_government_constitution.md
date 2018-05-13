@@ -307,7 +307,7 @@ specified in the By-Laws.
 #### Section 2. Campaigning.
 
 To preserve an intellectual atmosphere and guarantee equal opportunities of
-election, campaigning is not allowed at the College outside of published
+election, campaigning is only allowed at the College within published
 guidelines specified in the Student Government By-Laws. The Election Monitor
 presiding over the election, and as needed, the Honor Board, will jointly
 investigate allegations of campaigning and decide upon potential resolutions -
