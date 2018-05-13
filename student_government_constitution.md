@@ -315,7 +315,8 @@ up to and including removal from the ballot.
 
 #### Section 3. Voting.
 
-Voting for all positions will occur by excellence voting and by secret ballot.
+Voting for all positions will occur by excellence (approval) voting and by
+secret ballot.
 
 ### Article 11. Governing Documents and their Precedence.
 
