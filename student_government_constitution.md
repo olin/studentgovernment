@@ -232,9 +232,10 @@ by the Student Government.
 
 #### Section 1. Mission.
 
-The Committee for Clubs and Organizations’ principal responsibility is ensuring
-that the funds allocated by the Student Government for Clubs and Organizations
-are fairly distributed.
+The Committee for Clubs and Organizations will enable students to pursue their
+interests, facilitate the formation of diverse communities, and promote the
+continuation of a rich and healthy club culture at the College by financially
+subsidizing and encouraging the growth of student groups.
 
 #### Section 2. Structure.
 
