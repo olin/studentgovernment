@@ -1,7 +1,7 @@
 # Olin College Student Government Constitution
 
-*Agreed upon by the Students of Olin College, in Town Hall Meeting, on March 5,
-2015.*
+*Agreed upon by the Students of Olin College, in Town Hall Meeting, on April 13,
+2018. This Constitution will sunset on March 1, 2020.*
 
 ## Preamble
 
@@ -372,7 +372,9 @@ Representatives and the Students of the College at a Town Hall Meeting.
 #### Section 2. Review and Sunset.
 
 This Student Government Constitution will be reviewed by the Student Government
-in three year’s time. In order to enforce the review, this Constitution will
-sunset three years from its date of ratification, on the 5th of March, 2018. If
-this Constitution is still appropriate, relevant, and effective at that time,
-the Student Body may choose to amend this section to renew this Constitution.
+in two year’s time. In order to enforce the review, this Constitution will
+sunset on the 1st of March, 2020. If this Constitution is still appropriate,
+relevant, and effective at that time, the Student Body may choose to amend this
+section to renew this Constitution. In the event that this section is not
+amended by that time, the Student Body must ratify a new Constitution as
+described in [Article 13, Section 1](https://github.com/olin/studentgovernment/blob/ca-working/student_government_constitution.md#section-1-ratification).
