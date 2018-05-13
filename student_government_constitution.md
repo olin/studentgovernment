@@ -351,15 +351,15 @@ The Honor Code may be amended by procedures specified in the Honor Code.
 
 #### Section 2. Amendments to the Student Government Constitution.
 
-The Student Government Constitution may be amended by a majority vote of the
-Students present at a Town Hall Meeting where a quorum of one half of the
+The Student Government Constitution may be amended by a simple majority vote of
+the Students present at a Town Hall Meeting where a quorum of one half of the
 Student Body is present.
 
 #### Section 3. Amendments to the Student Government By-Laws.
 
 In order to keep the Student Government adaptable to change, the Student
 Government By-Laws may be amended by the Student Government with the approval
-of 75% of its voting members.
+of three-fourths of its voting members.
 
 ### Article 13. Ratification and Review
 
