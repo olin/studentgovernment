@@ -73,12 +73,12 @@ recommend changes to the Student Activities Fee to the Board of Trustees.
 
 #### Section 6. Student Activities Fund.
 
-The Student Activities Fund is funded through the Student Activities Fee,
-collected from each student. The Student Government has ultimate authority over
-the allocation of the Student Activities Fund. The Student Government has the
-power to divide the Student Activities Fund into virtual funds to be used by
-the Council of Olin Representatives, Student Government Committees, and other
-purposes defined in the Student Government By-Laws.
+The Student Activities Fund is funded through the Student Activities Fee. The
+Student Government has ultimate authority over the allocation of the Student
+Activities Fund. The Student Government has the power to divide the Student
+Activities Fund into virtual funds to be used by the Council of Olin
+Representatives, by Student Government Committees, and for other purposes
+defined in the Student Government By-Laws.
 
 #### Section 7. Amending the By-Laws.
 
