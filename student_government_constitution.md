@@ -55,10 +55,10 @@ develop initiatives which improve the lives of students at Olin College.
 
 The Student Government will consist of the elected members of the Council of
 Olin Representatives and the Leaders of the Student Government Committees. In
-the event of the absence, acknowledged by the presiding officer of the Student
-Government, of a Leader of a Student Government Committee, the Assistant Leader
-of the Student Government Committee may stand in for the Committee Leader and
-may carry the full voting power of the absent Leader.
+the event of the absence of a Leader of a Student Government Committee,
+acknowledged by the presiding officer of the Student Government, the Assistant
+Leader of the Student Government Committee may stand in for the Committee
+Leader and may carry the full voting power of the absent Leader.
 
 #### Section 4. Source of Authority.
 
