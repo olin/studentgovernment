@@ -365,9 +365,9 @@ of 75% of its voting members.
 
 #### Section 1. Ratification.
 
-For this Student Government Constitution to go into effect, it must be accepted
-as an amendment to the Olin Student Constitution by the Council of Olin
-Representatives and the Students of the College at a Town Hall Meeting.
+For this Student Government Constitution to go into effect, it must be ratified
+by a simple majority vote of the Students present at a Town Hall Meeting where
+a quorum of one half of the Student Body is present.
 
 #### Section 2. Review and Sunset.
 
