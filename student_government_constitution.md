@@ -372,7 +372,7 @@ of three-fourths of its voting members.
 
 For this Student Government Constitution to go into effect, it must be ratified
 by a simple majority vote of the Students present at a Town Hall Meeting where
-a quorum of one half of the Student Body is present.
+quorum is one half of the Student Body, including proxy voters.
 
 #### Section 2. Review and Sunset.
 
