@@ -19,7 +19,7 @@ The elected Student Leadership - Executives, Representatives, and Committee
 Leaders - together form the Student Government which will have sole authority
 to allocate the Student Activities Fund and amend the Student Government
 By-Laws. This group will also have several functions, as described in [Article
-2](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#article-2-the-student-government).
+2](#article-2-the-student-government).
 A smaller subsection of the Student Government - the Executives and the
 Representatives - will comprise the Council of Olin Representatives which alone
 may not allocate the Student Activities Fund or amend the Student Government
@@ -27,7 +27,7 @@ By-Laws. However, this group may make recommendations to the College
 Administration and Board of Trustees on behalf of the Student Government, and
 will work to compile Action Items and prioritize their execution, as described
 in [Article
-3](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#article-3-the-council-of-olin-representatives).
+3](#article-3-the-council-of-olin-representatives).
 
 Structuring the Council as a subsection of Student Government enables the
 Council to continually represent the Student Body and frees the Committee
@@ -84,7 +84,7 @@ defined in the Student Government By-Laws.
 
 The Student Government may amend the Student Government By-Laws using the
 procedure described in [Article
-12](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#article-12-amendment-procedures).
+12](#article-12-amendment-procedures).
 
 #### Section 8. Ad Hoc Representatives.
 
@@ -171,7 +171,7 @@ initiatives, and the administration of the Honor Code.
 Each Committee has a Chair or Director (Leader) and a Vice Chair or Assistant
 Director (Assistant). The Leader sits on Student Government, and can be
 substituted in the event of absence, as outlined in [Article 2, Section
-3](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#section-3-structure).
+3](#section-3-structure).
 The Committees may have additional members to fulfill their respective
 missions.
 
@@ -205,7 +205,7 @@ procedures.
 
 The Honor Board will periodically review the actions of the Student Government
 to ensure that the elected Student Leadership is abiding by the Governing
-Documents. This process will be conducted as described in [Part 3, Article 9](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#article-9-student-government-audits)
+Documents. This process will be conducted as described in [Part 3, Article 9](#article-9-student-government-audits)
 of the Student Government Constitution.
 
 ### Article 6. The Student Activities Committee.
@@ -382,4 +382,4 @@ sunset on the 1st of March, 2020. If this Constitution is still appropriate,
 relevant, and effective at that time, the Student Body may choose to amend this
 section to renew this Constitution. In the event that this section is not
 amended by that time, the Student Body must ratify a new Constitution as
-described in [Article 13, Section 1](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#section-1-ratification).
+described in [Article 13, Section 1](#section-1-ratification).
