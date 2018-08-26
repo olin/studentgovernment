@@ -1,0 +1,23 @@
+language: node_js
+node_js: 8.11.4
+git:
+  depth: 1
+install: npm install -g remark-cli
+script: remark .
+before_deploy:
+- sudo apt update
+- sudo apt install texlive -y
+- wget https://github.com/jgm/pandoc/releases/download/2.2.3.2/pandoc-2.2.3.2-1-amd64.deb
+- sudo dpkg -i pandoc-2.2.3.2-1-amd64.deb
+- make build-tagged
+deploy:
+  skip_cleanup: true
+  provider: releases
+  api_key:
+    secure: J/4R3EFBonjlxxXyHSZjswP8e8QQeTC9OWxauR6SSS23Os/0lJplhZbK3n+tk3+SZl/6+ErGUYiZialZ+aZ+txm/6yIkDj46vpnuMBhcjszyOUItGHFSKQSFy3ijtwY2N7C7PkA6F6fu6h1GV3jGLKc9xrOyFsM6nWau/CDWRXFbPPRAdJD4/7M8KcnRC+9TLIRa1pz6WmHSx+uTxi0/XhrUfcBWLlgSWlAqWjNxMT93+LIQlVuX/KOhvIylrEu1MUtOZ3hQ0/C8QQNLQ1W8alhrr9KC1iWHfNfI6E9no4TeOWaSHpuHgcY/boCofmYaOv+3f0iRCUBEILbFvlyJPg7Q90ErFroVNOfDGNT7idrwlIOrNT08AMU1Qh4DXDpi7aFxHl9u6/6aZ8i90Hv1uXIjXToyznXDsLSb9WMkDQckQxyDmKTb6bY6zXz3Naf7vfjmmzgNdtE8ImE9ZxNR4CbpuzdBOeJ/VFdAedeRDKDeyi8FpIy0khMMF8xjtz5V3N59m0kyPlfx8gKBOPzR03XrbyceC4hqC4RmB6InZlAvfhRE8Bc+HExLFmKdRDOo3pzDibI1c5Odw6l1nvsegBIQ5qMjqCYt8J7js45MykH9ZxOWUO+7tAfGxlemRnJy6ditg4q6RfAbfzAOggPqWwM/4tEY8PlYFJFpku5tZ7o=
+  file_glob: true
+  file: "*.pdf"
+  on:
+    repo: olin/studentgovernment
+    tags: true
+    branch: make-makefile-file
