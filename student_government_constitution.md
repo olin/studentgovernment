@@ -1,7 +1,7 @@
 # Olin College Student Government Constitution
 
-*Agreed upon by the Students of Olin College, in Town Hall Meeting, on March 5,
-2015.*
+*Agreed upon by the Students of Olin College, in Town Hall Meeting, on April 13,
+2018. This Constitution will sunset on March 1, 2020.*
 
 ## Preamble
 
@@ -55,10 +55,10 @@ develop initiatives which improve the lives of students at Olin College.
 
 The Student Government will consist of the elected members of the Council of
 Olin Representatives and the Leaders of the Student Government Committees. In
-the event of the absence, acknowledged by the presiding officer of the Student
-Government, of a Leader of a Student Government Committee, the Assistant Leader
-of the Student Government Committee may stand in for the Committee Leader and
-may carry the full voting power of the absent Leader.
+the event of the absence of a Leader of a Student Government Committee,
+acknowledged by the presiding officer of the Student Government, the Assistant
+Leader of the Student Government Committee may stand in for the Committee
+Leader and may carry the full voting power of the absent Leader.
 
 #### Section 4. Source of Authority.
 
@@ -73,12 +73,12 @@ recommend changes to the Student Activities Fee to the Board of Trustees.
 
 #### Section 6. Student Activities Fund.
 
-The Student Activities Fund is funded through the Student Activities Fee,
-collected from each student. The Student Government has ultimate authority over
-the allocation of the Student Activities Fund. The Student Government has the
-power to divide the Student Activities Fund into virtual funds to be used by
-the Council of Olin Representatives, Student Government Committees, and other
-purposes defined in the Student Government By-Laws.
+The Student Activities Fund is funded through the Student Activities Fee. The
+Student Government has ultimate authority over the allocation of the Student
+Activities Fund. The Student Government has the power to divide the Student
+Activities Fund into virtual funds to be used by the Council of Olin
+Representatives, by Student Government Committees, and for other purposes
+defined in the Student Government By-Laws.
 
 #### Section 7. Amending the By-Laws.
 
@@ -86,7 +86,7 @@ The Student Government may amend the Student Government By-Laws using the
 procedure described in [Article
 12](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#article-12-amendment-procedures).
 
-#### Section 8. Ad-hoc Representatives.
+#### Section 8. Ad Hoc Representatives.
 
 The Student Government may establish in the Student Government By-Laws elected
 or appointed non-voting ad hoc representatives of the Council.
@@ -134,10 +134,11 @@ of resolving the issue.
 
 #### Section 7. Committee Appointments.
 
-If a Faculty and Operational Committee requests student representative(s), the
-Council may solicit volunteers from the Student Body to fill the representative
-positions on that committee. If there are more volunteers than available
-positions, the Council will appoint students by excellence voting.
+If a committee or working group of faculty and/or staff requests student
+representative(s), the Council may solicit volunteers from the Student Body to
+fill the representative positions on that committee. If there are more
+volunteers than available positions, the Council will appoint students by
+excellence voting.
 
 #### Section 8. Appellate Authority.
 
@@ -204,14 +205,15 @@ procedures.
 
 The Honor Board will periodically review the actions of the Student Government
 to ensure that the elected Student Leadership is abiding by the Governing
-Documents.
+Documents. This process will be conducted as described in [Part 3, Article 9](https://github.com/olin/studentgovernment/blob/ca-working/student_government_constitution.md#article-9-student-government-audits)
+of the Student Government Constitution.
 
 ### Article 6. The Student Activities Committee.
 
 #### Section 1. Mission.
 
-The Student Activities Committee will maintain and expand a continuous and
-diverse set of social opportunities for the Student Body.
+The Student Activities Committee will maintain and expand a continuous,
+diverse, and accessible set of social opportunities for the entire Student Body.
 
 #### Section 2. Structure.
 
@@ -230,9 +232,10 @@ by the Student Government.
 
 #### Section 1. Mission.
 
-The Committee for Clubs and Organizations’ principal responsibility is ensuring
-that the funds allocated by the Student Government for Clubs and Organizations
-are fairly distributed.
+The Committee for Clubs and Organizations will enable students to pursue their
+interests, facilitate the formation of diverse communities, and promote the
+continuation of a rich and healthy club culture at the College by financially
+subsidizing and encouraging the growth of student groups.
 
 #### Section 2. Structure.
 
@@ -296,14 +299,15 @@ through the Honor Board process.
 
 #### Section 1. Election Monitor.
 
-The all school elections will be facilitated by a member of the Student
+The all-school elections will be facilitated by a member of the Student
 Government not running for re-election. In the case that no member is eligible,
-the elections will be facilitated by the Dean of Student Life.
+a substitute will be selected to perform the duties of the Election Monitor as
+specified in the By-Laws.
 
 #### Section 2. Campaigning.
 
 To preserve an intellectual atmosphere and guarantee equal opportunities of
-election, campaigning is not allowed at the College outside of published
+election, campaigning is only allowed at the College within published
 guidelines specified in the Student Government By-Laws. The Election Monitor
 presiding over the election, and as needed, the Honor Board, will jointly
 investigate allegations of campaigning and decide upon potential resolutions -
@@ -311,7 +315,8 @@ up to and including removal from the ballot.
 
 #### Section 3. Voting.
 
-Voting for all positions will occur by excellence voting and by secret ballot.
+Voting for all positions will occur by excellence (approval) voting and by
+secret ballot.
 
 ### Article 11. Governing Documents and their Precedence.
 
@@ -351,28 +356,30 @@ The Honor Code may be amended by procedures specified in the Honor Code.
 
 #### Section 2. Amendments to the Student Government Constitution.
 
-The Student Government Constitution may be amended by a majority vote of the
-Students present at a Town Hall Meeting where a quorum of one half of the
+The Student Government Constitution may be amended by a simple majority vote of
+the Students present at a Town Hall Meeting where a quorum of one half of the
 Student Body is present.
 
 #### Section 3. Amendments to the Student Government By-Laws.
 
 In order to keep the Student Government adaptable to change, the Student
 Government By-Laws may be amended by the Student Government with the approval
-of 75% of its voting members.
+of three-fourths of its voting members.
 
 ### Article 13. Ratification and Review
 
 #### Section 1. Ratification.
 
-For this Student Government Constitution to go into effect, it must be accepted
-as an amendment to the Olin Student Constitution by the Council of Olin
-Representatives and the Students of the College at a Town Hall Meeting.
+For this Student Government Constitution to go into effect, it must be ratified
+by a simple majority vote of the Students present at a Town Hall Meeting where
+quorum is one half of the Student Body, including proxy voters.
 
 #### Section 2. Review and Sunset.
 
 This Student Government Constitution will be reviewed by the Student Government
-in three year’s time. In order to enforce the review, this Constitution will
-sunset three years from its date of ratification, on the 5th of March, 2018. If
-this Constitution is still appropriate, relevant, and effective at that time,
-the Student Body may choose to amend this section to renew this Constitution.
+in two year’s time. In order to enforce the review, this Constitution will
+sunset on the 1st of March, 2020. If this Constitution is still appropriate,
+relevant, and effective at that time, the Student Body may choose to amend this
+section to renew this Constitution. In the event that this section is not
+amended by that time, the Student Body must ratify a new Constitution as
+described in [Article 13, Section 1](https://github.com/olin/studentgovernment/blob/ca-working/student_government_constitution.md#section-1-ratification).

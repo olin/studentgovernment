@@ -6,7 +6,8 @@ time.
 
 ## Student Government Constitution
 Ratified at a Town Meeting on March 5th, 2015.
-Not yet amended.
+### Passed Amendments
+- [2018-04-13 CA-1718-001: Resurrect the constitution](https://github.com/olin/studentgovernment/pull/37)
 
 [Read it online](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md).
 
