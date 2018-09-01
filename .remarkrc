@@ -1,0 +1,9 @@
+{
+    "plugins": [
+      "remark-lint-list-item-content-indent",
+      ["remark-lint-list-item-indent", "space"],
+      "remark-lint-linebreak-style",
+      "remark-lint-maximum-line-length",
+      "remark-validate-links"
+    ]
+}
