@@ -6,13 +6,17 @@ time.
 
 ## Student Government Constitution
 Ratified at a Town Meeting on March 5th, 2015.
-### Passed Amendments
-- [2018-04-13 CA-1718-001: Resurrect the constitution](https://github.com/olin/studentgovernment/pull/37)
 
 [Read it online](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md).
 
+### Passed Amendments
+- [2018-04-13 CA-1718-001: Resurrect the constitution](https://github.com/olin/studentgovernment/pull/37)
+
 ## Student Government By-Laws
 Originally passed at a meeting of the Student Government on May 1st, 2015.
+
+[Read it online](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md).
+
 ### Passed Amendments
 - 2018-04-04 BA-1718-003: Added reading the Student Government Constitution to
   the onboarding process for all officials
@@ -51,5 +55,3 @@ Originally passed at a meeting of the Student Government on May 1st, 2015.
 - 2015-11-06 BA-1516-003: reduce restrictions on classifying student groups as
   organizations
 - 2015-09-03 BA-1516-002: add a resignation procedure
-
-[Read it online](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md).
