@@ -2,8 +2,8 @@ language: node_js
 node_js: 8.11.4
 git:
   depth: 1
-install: npm install -g remark-cli
-script: remark .
+install: npm install
+script: npm run lint
 before_deploy:
 - sudo apt update
 - sudo apt install texlive -y

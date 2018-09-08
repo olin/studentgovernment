@@ -1,0 +1,27 @@
+{
+  "name": "studentgovernment",
+  "version": "3.0.1",
+  "description": "The governing documents of Olin College Student Government.",
+  "scripts": {
+    "lint": "remark ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olin/studentgovernment.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olin/studentgovernment/issues"
+  },
+  "homepage": "https://github.com/olin/studentgovernment#readme",
+  "devDependencies": {
+    "remark": "^9.0.0",
+    "remark-cli": "^5.0.0",
+    "remark-lint": "^6.0.2",
+    "remark-lint-linebreak-style": "^1.0.2",
+    "remark-lint-list-item-content-indent": "^1.0.2",
+    "remark-lint-list-item-indent": "^1.0.2",
+    "remark-lint-maximum-line-length": "^1.1.0",
+    "remark-validate-links": "^7.1.0"
+  }
+}
