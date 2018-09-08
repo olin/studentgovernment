@@ -205,7 +205,7 @@ procedures.
 
 The Honor Board will periodically review the actions of the Student Government
 to ensure that the elected Student Leadership is abiding by the Governing
-Documents. This process will be conducted as described in [Part 3, Article 9](https://github.com/olin/studentgovernment/blob/ca-working/student_government_constitution.md#article-9-student-government-audits)
+Documents. This process will be conducted as described in [Part 3, Article 9](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#article-9-student-government-audits)
 of the Student Government Constitution.
 
 ### Article 6. The Student Activities Committee.
@@ -382,4 +382,4 @@ sunset on the 1st of March, 2020. If this Constitution is still appropriate,
 relevant, and effective at that time, the Student Body may choose to amend this
 section to renew this Constitution. In the event that this section is not
 amended by that time, the Student Body must ratify a new Constitution as
-described in [Article 13, Section 1](https://github.com/olin/studentgovernment/blob/ca-working/student_government_constitution.md#section-1-ratification).
+described in [Article 13, Section 1](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#section-1-ratification).
