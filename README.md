@@ -4,20 +4,40 @@ Olin Representatives (CORe) re-established this GitHub repository in order to
 keep track of Student Government Governing Documents and their amendments over
 time.
 
+The documents here on the `master` branch represent what is currently being used
+by student government. PDF editions and previous versions can be viewed at
+the [releases](https://github.com/olin/studentgovernment/releases) section of
+the repo.
+
+List of previous significant versions:
+- [v2.0.0](https://github.com/olin/studentgovernment/releases/tag/v2.0.0):
+  governing documents after the 2015 Restructuring
+- [v1.0.1](https://github.com/olin/studentgovernment/releases/tag/v1.0.1): the
+  initial version uploaded to the repo circa 2013
+
+Amendments to the Constitution and Bylaws are listed below and can also be
+viewed as [Pull Requests with the `amendment` label](https://github.com/olin/studentgovernment/pulls?utf8=%E2%9C%93&q=is%3Apr+label%3Aamendment+)
+
 ## Student Government Constitution
+
 Ratified at a Town Meeting on March 5th, 2015.
+
+Re-ratified at a Town Meeting on April 13th, 2018.
 
 [Read it online](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md).
 
 ### Passed Amendments
+
 - [2018-04-13 CA-1718-001: Resurrect the constitution](https://github.com/olin/studentgovernment/pull/37)
 
 ## Student Government By-Laws
+
 Originally passed at a meeting of the Student Government on May 1st, 2015.
 
 [Read it online](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md).
 
 ### Passed Amendments
+
 - 2018-04-04 BA-1718-003: Added reading the Student Government Constitution to
   the onboarding process for all officials
 - 2018-04-04 BA-1718-002: Changed the definition of the Student Body to "all
