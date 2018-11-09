@@ -65,7 +65,7 @@ of a full year in office. The outgoing Student Government passes their draft to
 the incoming Student Government who, within a month after Transition Day, amends
 or approves Allocation Order 0 to establish a budget for their session of
 Student Government. Allocation Order 0 appropriates money for the virtual funds
-defined in [Article 9, Section 2](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-2-virtual-funds).
+defined in [Article 9, Section 2](#section-2-virtual-funds).
 
 #### Section 7. A Service to the Community.
 
@@ -122,7 +122,7 @@ Council. The Vice President for Communications serves as the secretary
 of the Student Government and the Council and, as such, keeps meeting minutes
 and records of Official Actions and ensure that such documents are accessible
 to the Student Body, as specified in [Article
-13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
+13](#article-13-transparency).
 The Vice President for Communications advertises Student Government and Council
 related events, organizes the publishing of the monthly report, and actively
 encourages Student Body participation in the Student Government.
@@ -240,7 +240,7 @@ member of the Olin community may be present and participate in discussion. When
 the Council is in Closed Session, only members of the Council and people whose
 attendance is declared appropriate by the President may be present and
 participate. Minutes and relevant documentation taken during closed session are
-kept confidential, as described in [Article 13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
+kept confidential, as described in [Article 13](#article-13-transparency).
 The President may declare the Council in Closed Session during discussions and
 votes regarding Allocation Orders, Committee Appointments, Disagreement
 Resolutions, or unforeseeable sensitive issues.
@@ -254,8 +254,8 @@ Resolutions. All Official Actions of the Council may be passed with the approval
 of a majority of the voting members present with the exception of Committee
 Appointments which are completed using approval voting and Allocation Orders of
 the Discretionary Fund or the Class Funds which may be approved by a smaller
-subsection of the Council as defined in [Article 2, Sections 11](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-11-discretionary-fund)
-[and 12](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-12-class-events-funds)
+subsection of the Council as defined in [Article 2, Sections 11](#section-11-discretionary-fund)
+[and 12](#section-12-class-funds)
 respectively. All Official Actions of the Council are recorded with a unique
 identifier.
 
@@ -381,8 +381,7 @@ with joint approval.
 
 #### Section 1. Function.
 
-Pursuant to its mission, as defined in the Constitution ([Article 6, Section
-1](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#section-1-mission-1)),
+Pursuant to its mission, as defined in the Constitution ([Article 6, Section 1](student_government_constitution.md#section-1-mission-1)),
 the Student Activities Committee plans and executes campus-wide events,
 facilitates club events as requested, and maintains a public calendar of events.
 The Committee holds events of interest to the Student Body.
@@ -445,8 +444,7 @@ Finance once per week broken down by event.
 
 #### Section 1. Function.
 
-Pursuant to its mission, as defined in the Constitution ([Article 7, Section
-1](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#section-1-mission-2)),
+Pursuant to its mission, as defined in the Constitution ([Article 7, Section 1](student_government_constitution.md#section-1-mission-2)),
 the Committee for Clubs and Organizations allocates organization budgets
 annually and allocates funds to clubs upon request.
 
@@ -458,13 +456,14 @@ Clubs and Organizations.
 **Director of Clubs and Organizations.** The Director of Clubs and Organizations
 runs meetings of the Committee and generally oversees the Committee’s
 activities. The Director approves the creation of Student Groups, classifies
-them as Clubs or Organizations, and generally helps them meet their goals. The 
-Director will ensure that the Vice President for Finance has access to up-to-date 
-Student Group spendings at all times. The Director populates and maintains the
-List of Student Groups and Administration Committees as described in [Article 13](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#article-13-transparency).
-The Director attends meetings of the Student Government prepared to report the
-activities and spending of the Committee. With the agreement of the Assistant
-Director, the Director may appropriate money from the CCO Budget.
+them as Clubs or Organizations, and generally helps them meet their goals. The
+Director will ensure that the Vice President for Finance has access to
+up-to-date Student Group spendings at all times. The Director populates and
+maintains the List of Student Groups and Administration Committees as described
+in [Article 13](#article-13-transparency). The Director attends meetings of the
+Student Government prepared to report the activities and spending of the
+Committee. With the agreement of the Assistant Director, the Director may
+appropriate money from the CCO Budget.
 
 **Assistant Director of Clubs and Organizations.** The Assistant Director of
 Clubs and Organizations assists the Director in the operations of the Committee.
@@ -522,30 +521,31 @@ The Director of Clubs and Organizations defines the system for requesting club
 funding every year. A description of this system is made available to the
 Student Body. The following rules apply to club funding requests:
 
-1. Any individual hoping to spend club money must attend a Club Spending Training. 
-   These events are held by the Vice President for Finance and Director and Assistant
-   Director of Clubs and Organizations at the beginning of every semester, and upon
-   request.
-2. Every request must come in at least 72 hours before the event. Any online 
-   purchases require a 2-week requesting period. Requests not meeting
-   these deadlines are not guaranteed a response in time for the event.
+1. Any individual hoping to spend club money must attend a Club Spending
+   Training. These events are held by the Vice President for Finance and
+   Director and Assistant Director of Clubs and Organizations at the beginning
+   of every semester, and upon request.
+2. Every request must come in at least 72 hours before the event. Any online
+   purchases require a 2-week requesting period. Requests not meeting these
+   deadlines are not guaranteed a response in time for the event.
 3. Funding should be requested and approved before the event is advertised if
    the event is contingent on funding.
 4. Every request must be approved before the items are purchased. Anything
    purchased before the request is approved will not be reimbursed.
-5. Receipts for all purchases, and reimbursement forms if applicable, must 
-   be submitted to the Vice President for Finance within 7 days of the purchase, or 
-   before the end of the calendar month (whichever occurs first).
+5. Receipts for all purchases, and reimbursement forms if applicable, must
+   be submitted to the Vice President for Finance within 7 days of the purchase,
+   or before the end of the calendar month (whichever occurs first).
 
-If an individual fails to fulfill the club funding process properly and 
-within the appropriate amount of time (outlined in the above three bullets 
-and in Club Spending Trainings), the Director of Clubs and Organizations 
+If an individual fails to fulfill the club funding process properly and
+within the appropriate amount of time (outlined in the above three bullets
+and in Club Spending Trainings), the Director of Clubs and Organizations
 and the Vice President for Finance may:
+
 1. Upon first offence: give the individual and group a short warning.
-2. Upon second offence: give the individual and/or group a spending ban 
-   for up to two months.
-3. Upon third offence: give the individual and/or group a spending ban 
-   for the remainder of the semester or year.
+2. Upon second offence: give the individual and/or group a spending ban for up
+   to two months.
+3. Upon third offence: give the individual and/or group a spending ban for the
+   remainder of the semester or year.
 
 #### Section 8. Spending Limits and Rules.
 
@@ -590,8 +590,7 @@ Committees.
 
 #### Section 1. Function.
 
-Pursuant to its mission, as defined in the Constitution ([Article 8, Section
-1](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md#section-1-mission-3)),
+Pursuant to its mission, as defined in the Constitution ([Article 8, Section 1](student_government_constitution.md#section-1-mission-3)),
 the Committee for Supporting, Encouraging, and Recognizing Volunteerism oversees
 the direction, continuity, and ongoing health of community service at the
 College. The Committee allocates service related organization budgets annually
@@ -759,9 +758,9 @@ in the student government, as long as the following restrictions are met at all
 times:
 1. A Senior cannot be the Vice President for Finance.
 2. A Senior cannot be the Assistant Director of a committee if the Director of
-that committee is a Senior.
+   that committee is a Senior.
 3. The Chair and Vice Chair of the Honor Board cannot be in the same graduating
-class.
+   class.
 4. Class Representatives must be a member of the class that they represent.
 
 #### Section 2. The Election Monitor.
@@ -1023,8 +1022,8 @@ Each elected official must meet with their successor to discuss their respective
 transition document upon leaving office.
 
 All newly elected officials must read the Student Government Constitution prior
-to taking office. Outgoing officials must ensure that their successor has read the
-Constitution as part of the transition process.
+to taking office. Outgoing officials must ensure that their successor has read
+the Constitution as part of the transition process.
 
 ### Article 12. Amendment Procedures.
 
@@ -1119,12 +1118,11 @@ members of the Student Government, and are as follows:
 
 **The List of Official Actions.** This document contains a record of every
 Official Action of the Student Government and the Council of Olin
-Representatives, which are described in [Article 1, Section
-4](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-4-official-actions)
-and [Article 2, Section 8](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-8-official-actions)
-respectively. The list is in reverse-chronological order (with the most recent
-Official Action at the top), and contains the full text of every Official
-Action, as well as a brief summary of the action if necessary.
+Representatives, which are described in [Article 1, Section 4](#section-4-official-actions)
+and [Article 2, Section 8](#section-8-official-actions) respectively. The list
+is in reverse-chronological order (with the most recent Official Action at the
+top), and contains the full text of every Official Action, as well as a brief
+summary of the action if necessary.
 
 **The List of Student Groups and Administration Committees.** This document
 contains the names, descriptions, and officers or appointees of all recognized
@@ -1132,8 +1130,7 @@ and unrecognized student clubs and organizations, branches of the student
 government, Council Projects, project teams, and Faculty and Operational
 Committees established by the Administration of the College.
 
-**The Report on the Student Activities Fund.** As described in [Article 2,
-Section 2](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-2-executives),
+**The Report on the Student Activities Fund.** As described in [Article 2, Section 2](#section-2-executives),
 The Vice President for Finance creates a State of the Student Activities Fund
 report once per semester. A copy of this semesterly report is added to an
 ongoing Report on the Student Activities Fund, which is in reverse-chronological
