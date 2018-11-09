@@ -20,4 +20,4 @@ deploy:
   on:
     repo: olin/studentgovernment
     tags: true
-    branch: make-makefile-file
+    branch: master
