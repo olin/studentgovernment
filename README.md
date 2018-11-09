@@ -1,4 +1,5 @@
 # Olin College Student Government Repository
+
 Originally established after the COReDesign of 2010, the 2015-2016 Council of
 Olin Representatives (CORe) re-established this GitHub repository in order to
 keep track of Student Government Governing Documents and their amendments over
