@@ -4,7 +4,7 @@ build : constitution.pdf bylaws.pdf
 
 build-tagged : constitution-$(version).pdf bylaws-$(version).pdf
 
-%.pdf %-$(version).pdf : student_government_%.md
+%.pdf %-$(version).pdf : %.md
 	pandoc -f gfm $< -t latex -o $@ --toc
 
 clean:
