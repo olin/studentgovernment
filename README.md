@@ -25,7 +25,7 @@ Ratified at a Town Meeting on March 5th, 2015.
 
 Re-ratified at a Town Meeting on April 13th, 2018.
 
-[Read it online](https://github.com/olin/studentgovernment/blob/master/student_government_constitution.md).
+[Read it online](https://github.com/olin/studentgovernment/blob/master/constitution.md).
 
 ### Passed Amendments
 
@@ -35,7 +35,7 @@ Re-ratified at a Town Meeting on April 13th, 2018.
 
 Originally passed at a meeting of the Student Government on May 1st, 2015.
 
-[Read it online](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md).
+[Read it online](https://github.com/olin/studentgovernment/blob/master/bylaws.md).
 
 ### Passed Amendments
 

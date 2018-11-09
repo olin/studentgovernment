@@ -381,7 +381,7 @@ with joint approval.
 
 #### Section 1. Function.
 
-Pursuant to its mission, as defined in the Constitution ([Article 6, Section 1](student_government_constitution.md#section-1-mission-1)),
+Pursuant to its mission, as defined in the Constitution ([Article 6, Section 1](constitution.md#section-1-mission-1)),
 the Student Activities Committee plans and executes campus-wide events,
 facilitates club events as requested, and maintains a public calendar of events.
 The Committee holds events of interest to the Student Body.
@@ -444,7 +444,7 @@ Finance once per week broken down by event.
 
 #### Section 1. Function.
 
-Pursuant to its mission, as defined in the Constitution ([Article 7, Section 1](student_government_constitution.md#section-1-mission-2)),
+Pursuant to its mission, as defined in the Constitution ([Article 7, Section 1](constitution.md#section-1-mission-2)),
 the Committee for Clubs and Organizations allocates organization budgets
 annually and allocates funds to clubs upon request.
 
@@ -590,7 +590,7 @@ Committees.
 
 #### Section 1. Function.
 
-Pursuant to its mission, as defined in the Constitution ([Article 8, Section 1](student_government_constitution.md#section-1-mission-3)),
+Pursuant to its mission, as defined in the Constitution ([Article 8, Section 1](constitution.md#section-1-mission-3)),
 the Committee for Supporting, Encouraging, and Recognizing Volunteerism oversees
 the direction, continuity, and ongoing health of community service at the
 College. The Committee allocates service related organization budgets annually
