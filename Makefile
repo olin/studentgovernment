@@ -1,4 +1,4 @@
-version = $(shell git describe --always --dirty)
+version = $(shell git describe --always --tags --dirty)
 
 build : constitution.pdf bylaws.pdf
 
