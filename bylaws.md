@@ -370,7 +370,7 @@ Week activities.
 
 The composition, purpose, operation, and powers of the Honor Board are detailed
 in the Honor Code. Additional powers may be allotted to them in the
-Constitution and Bylaws of the Student Government.
+Constitution and By-Laws of the Student Government.
 
 #### Section 2. Honor Board Budget.
 
