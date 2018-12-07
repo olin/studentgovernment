@@ -1139,7 +1139,7 @@ order (with the most recent report at the top).
 **The Meeting Minutes.** Each meeting of the Student Government and its
 Committees, including Town Meetings, have minutes detailing the topics discussed
 in the meeting and actions that were taken. Copies of these minutes are kept in
-a central location Meetings which the presiding officer of the meeting deem
+a central location. Meetings which the presiding officer of the meeting deem
 private and inappropriate for general knowledge, such as Honor Board hearings,
 are exempted.
 
