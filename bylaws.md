@@ -692,13 +692,9 @@ funds:
 5. the SAC Budget, which is managed and allocated by the Student Activities
    Committee,
 6. the CCO Budget, which is managed and allocated by the Committee for Clubs and
-   Organizations,
+   Organizations, and
 7. the SERV Budget, which is managed and allocated by the Committee for
-   Supporting, Encouraging, and Recognizing Volunteerism,
-8. the Sports Fund, which is managed and allocated by the College’s Office
-   of Student Affairs and Resources, and
-9. the Recreational Health Organization Fund, which is managed and allocated by
-   the College’s Office of Student Affairs and Resources.
+   Supporting, Encouraging, and Recognizing Volunteerism.
 
 Some money from the Student Activities Fund may remain unallocated for later
 allocation as necessary.
