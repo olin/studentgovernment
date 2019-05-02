@@ -27,11 +27,11 @@ For example:
 - the first bylaw amendment of the 17-18 school year was about updating CCO procedures and was named:  
   `BA-1718-001: CCO by-laws update to reflect current practices`
 
-### Log Changes in README
+### Logging Changes in the README
 
 A summary of changes should be added to the [README](README.md) in the appropriate location:
-- Bylaw Amendments: [StudentGovernment By-Laws>Passed Amendments](https://github.com/olin/studentgovernment#passed-amendments)
-- Student Government Constitution: Not yet amended.
+- Bylaw Amendments: [Student Government By-Laws>Passed Amendments](https://github.com/olin/studentgovernment#passed-amendments)
+- Student Government Constitution: [Student Government Constitution Constitution>Passed Amendments](https://github.com/olin/studentgovernment#student-government-constitution).
 
 ### Referring to Positions
 
@@ -41,13 +41,18 @@ Student Government positions should be referred to as follows:
 - the Vice President for Finance
 - the Vice President of Communications
 
-## Constitution Amendments
+## Versioning the governing documents
 
-### Title Format for Constitution Amendments (Hypothetical)
+After approving amendments in a session of student government and merging the appropriate pull requests into the `master` branch, the repository should be "tagged" with a new version, and a release made on GitHub that covers the changes.
 
-## Bylaw Amendments
+> `vX.Y.Z`, where X is major overhauls of the documents, Y is modifications that
+> impact how SG operates, and Z is changes that don't impact how student
+> government operates.
 
-### Title Format for Bylaw Amendments
+More information on the history of this can be found in [issue #40](https://github.com/olin/studentgovernment/issues/40).
 
-Bylaw Amendments should follow the format of _BA-*school year*-*amendment number*_.
-For example the title of the second Bylaw amendment of the 17-18 school year is `BA-1718-002'. Amendment numbers are iterated for each proposal regardless of success
+You can read more about tagging commits and making releases at the [GitHub documentation](https://help.github.com/en/articles/creating-releases).
+
+## Testing format
+
+## Generating PDFs and more
