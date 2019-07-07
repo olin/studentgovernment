@@ -39,10 +39,13 @@ Originally passed at a meeting of the Student Government on May 1st, 2015.
 
 ### Passed Amendments
 
+- 2019-05-06 BA 1819-002: Updated virutal funds to reflect current practices.
+- 2019-05-06 BA-1819-001: Minor grammar fixes.
 - 2018-04-04 BA-1718-003: Added reading the Student Government Constitution to
   the onboarding process for all officials
 - 2018-04-04 BA-1718-002: Changed the definition of the Student Body to "all
   currently enrolled students of Olin College"
+- 2018-03-07 BA-1718-001: Updated CCO by-laws to reflect current practices
 - 2017-04-26 BA-1617-007: Clarified the election process
 - 2017-04-26 BA-1617-006: Changed the audit process such that the Chair and the
   Vice Chair of the Honor Board can conduct the audit of the Honor Board
@@ -51,7 +54,6 @@ Originally passed at a meeting of the Student Government on May 1st, 2015.
   meeting is a follow-up for the fall meeting
 - 2017-04-26 BA-1617-004: Moved the timing of the Student Government Audits to
   the end of the semester instead of mid-semester
-- 2018-03-07 BA-1718-001: Updated CCO by-laws to reflect current practices
 - 2017-02-01 BA-1617-003: Removed obsolete wording
 - 2016-10-05 BA-1617-002: Assigned CCO the responsibility of keeping a record of
   all student groups, committees, and branches of the government
