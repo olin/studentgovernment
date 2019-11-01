@@ -818,8 +818,6 @@ The following positions are elected in the first spring election cycle:
 4. Director of Student Activities
 5. Director of Clubs and Organizations
 6. Director of Service
-7. Chair of the Honor Board
-8. Vice Chair of the Honor Board
 
 The following positions are elected in the second spring election cycle:
 
@@ -843,7 +841,9 @@ The following positions are elected in the only fall election cycle:
 
 1. Two First Year Class Representatives
 2. Two Honor Board General Members (at least one of whom must be a First Year)
-3. Any positions not filled during the spring elections
+3. Chair of the Honor Board (to take position after the Honor Board Town Hall is complete)
+4. Vice Chair of the Honor Board (to take position after the Honor Board Town Hall is complete)
+5. Any positions not filled during the spring elections
 
 Students elected to office during Spring Elections take office as soon as is
 reasonable after April 1st as agreed upon by the incoming and outgoing
