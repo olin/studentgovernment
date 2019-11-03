@@ -1040,10 +1040,10 @@ Student Body within 24 hours of the close of the meeting.
 
 #### Section 2. Amending the By-Laws.
 
-Any member of the Student Body may propose an amendment to the By-Laws by
-presenting the amendment in written form to the President of the Student
-Government at least one week in advance of the meeting of the Student
-Government at which the author would like the amendment to be addressed.
+Any member of the Student Body may propose an amendment to the By-Laws by 
+presenting the amendment in written form to any voting member of the Student 
+Government at least one week in advance of the meeting of the Student 
+Government at which the author would like the amendment to be addressed. 
 
 The Vice President for Communications sends an announcement to the Student
 Body about the amendment at least three days in advance of the next Student
