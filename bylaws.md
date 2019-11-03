@@ -315,13 +315,48 @@ member of the Olin community.
 
 #### Section 15. Committee Appointments.
 
-When requested by the Administration to appoint students to faculty and
-operational committees, the Council begins the appointment process. In the
-appointment process, the Council notifies the Student Body of openings on
-committees and the position’s description, and students are allowed at
-least three days to volunteer. At a meeting following the volunteering period,
-the Council discusses the candidates and appoints students to the committees
-by excellence voting.
+When requested by the Administration to appoint students to faculty and 
+operational committees, the Council begins the formal appointment process. 
+At the first meeting of CORe following the request, the Council will create a 
+list of criteria on which to evaluate potential candidates. Following a vote to 
+approve that list, the Council will vote to elect a member of the Council to 
+notify the Student Body of the opening, of the criteria that will be used to 
+evaluate volunteers, and, if they are known, of the scheduling constraints 
+associated with the role. Volunteers will be asked to provide a written 
+submission describing their candidacy and why their personal traits and 
+experience match the criteria outlined in the notification of the opening. 
+Volunteers will be given at least three full days over which to submit their 
+paragraphs. Unless the Council votes that identifying information (such as name 
+or class year) ought to be part of the criteria used to evaluate candidates, 
+this process should be anonymized.
+
+If the Executive Board decides a request is too urgent to wait for the next CORe 
+meeting, they can instead initiate an expedited process to call for candidates. 
+In this case, a member of the executive board will send out a notification to 
+the Student Body with a description of the opening with criteria and evaluative 
+methods decided by the executive board (with the input of the rest of CORe as 
+possible, but without the need for a formal vote). Volunteers will be given at 
+least twenty-four hours over which to provide written submissions advocating for 
+their candidacy. At the next meeting of CORe, the Council will discuss the 
+criteria used in selection prior to engaging with the voting process. 
+
+After sending out the call for volunteers, member of the Council coordinating 
+this process will create an anonymized list of all of the paragraphs submitted 
+to them. At the next meeting of CORe, the Council will enter closed session to 
+view and discuss the criteria and the paragraphs. The Council will first vote on 
+whether there are sufficient candidates whose narratives align with the 
+specified criteria. If this vote does not pass, the Council will extend the call 
+for volunteers and, if deemed appropriate, discuss the nature of the opening 
+with the Administration and share more information with the Student Body. If 
+this vote passes, the candidates will then be subject to a preference vote where 
+each member of the Council will vote for the same number of candidates as there 
+are open positions. Ties will be resolved through additional preference votes. 
+The member of the Council who collected the paragraphs (and so knows the 
+identities of each of the candidates) will abstain from voting. 
+
+After the Council votes, the results of the election should be documented as an 
+Official Action, and the member of the Council who sent out the original 
+notification of the opening should announce the results. 
 
 #### Section 16. Appellate Authority.
 
