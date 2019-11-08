@@ -1099,9 +1099,9 @@ the entire Student Body within 24 hours of the close of the meeting.
 
 #### Section 1. Purpose.
 
-To make the Student Government well-organized and accessible to the Student 
-Body, the Student Government and its Committees strive to effectively 
-communicate with the Student Body through the use of email and shared digital 
+To make the Student Government well-organized and accessible to the Student
+Body, the Student Government and its Committees strive to effectively
+communicate with the Student Body through the use of email and shared digital
 and physical documents.
 
 #### Section 2. Transparency Documents.
