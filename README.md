@@ -39,7 +39,8 @@ Originally passed at a meeting of the Student Government on May 1st, 2015.
 
 ### Passed Amendments
 
-- 2019-05-06 BA 1819-002: Updated virutal funds to reflect current practices.
+- 2019-11-07 BA-1920-002: Added committee appointment process to CORe bylaws.
+- 2019-05-06 BA-1819-002: Updated virutal funds to reflect current practices.
 - 2019-05-06 BA-1819-001: Minor grammar fixes.
 - 2018-04-04 BA-1718-003: Added reading the Student Government Constitution to
   the onboarding process for all officials
