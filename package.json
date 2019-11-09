@@ -3,7 +3,7 @@
   "description": "The governing documents of Olin College Student Government.",
   "private": true,
   "scripts": {
-    "lint": "remark ."
+    "lint": "remark --frail ."
   },
   "repository": {
     "type": "git",
