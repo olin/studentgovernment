@@ -25,7 +25,7 @@ Pull request titles should follow the format:
 For example:
 
 - The first bylaw amendment of the 17-18 school year was about updating CCO procedures and was named:  
-  `BA-1718-001: CCO by-laws update to reflect current practices`
+  [`BA-1718-001: CCO by-laws update to reflect current practices`](https://github.com/olin/studentgovernment/pull/30)
 
 ### Logging Changes in the README
 
