@@ -20,7 +20,7 @@ Pull request titles should follow the format:
 **[BA/CA]**-**[school year]**-**[amendment number]**: **[Summary of changes]**
 
 - amendment numbers are iterated for each proposal regardless of success
-- amendment numbers are counted independently for the Bylaws and Constitution
+- Amendment numbers are counted independently for the [Bylaws](bylaws.md) and [Constitution](constitution.md).
 
 For example:
 
