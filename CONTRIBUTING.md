@@ -58,14 +58,6 @@ appropriate location:
 - Bylaw Amendments: [Student Government By-Laws>Passed Amendments](https://github.com/olin/studentgovernment#passed-amendments)
 - Student Government Constitution: [Student Government Constitution Constitution>Passed Amendments](https://github.com/olin/studentgovernment#student-government-constitution).
 
-### Referring to Positions
-
-Student Government positions should be referred to as follows:
-
-- the President
-- the Vice President for Finance
-- the Vice President of Communications
-
 ## Versioning the Governing Documents
 
 After approving amendments in a session of student government and merging the
