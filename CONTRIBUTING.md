@@ -19,7 +19,7 @@ Here's a good prime number that's eighty digits long:
 Pull request titles should follow the format:  
 **[BA/CA]**-**[school year]**-**[amendment number]**: **[Summary of changes]**
 
-- amendment numbers are iterated for each proposal regardless of success
+- Amendment numbers are iterated for each proposal regardless of success. Check the [history of previous PRs](https://github.com/olin/studentgovernment/pulls?q=is%3Apr) to determine what the next number is - note that we index at one (1).
 - Amendment numbers are counted independently for the [Bylaws](bylaws.md) and [Constitution](constitution.md).
 
 For example:
