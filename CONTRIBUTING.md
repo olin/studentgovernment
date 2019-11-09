@@ -3,7 +3,7 @@
 So, you've found something you'd like to change about the Student Government Bylaws or Amendments. You've come to the right place!
 
 Any questions? Unsure of how to proceed? Reach out to any members of Student Government's Executive Board (the President, Vice President for Finance, and Vice President of Communications).
-As of the 2017-2018 school year, those members are [Sam Myers](https://github.com/sammyers), [Ana Krishnan](https://github.com/askrishnan), and [Evan New-Schmidt](https://github.com/newsch).
+As of the 2019-2020 school year, those members are [Anusha Datar](mailto:anusha.datar@students.olin.edu), [Kyle Emmi](mailto:kyle.emmi@students.olin.edu), and [Sarah Deng](mailto:sarah.deng@students.olin.edu).
 
 ## General Formatting
 
