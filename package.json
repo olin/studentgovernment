@@ -1,7 +1,7 @@
 {
   "name": "studentgovernment",
-  "version": "3.0.1",
   "description": "The governing documents of Olin College Student Government.",
+  "private": true,
   "scripts": {
     "lint": "remark ."
   },
@@ -9,7 +9,6 @@
     "type": "git",
     "url": "git+https://github.com/olin/studentgovernment.git"
   },
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/olin/studentgovernment/issues"
   },
