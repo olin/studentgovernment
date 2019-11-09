@@ -1,9 +1,14 @@
 # How to Contribute
 
-So, you've found something you'd like to change about the Student Government Bylaws or Amendments. You've come to the right place!
+So, you've found something you'd like to change about the Student Government
+Bylaws or Amendments. You've come to the right place!
 
-Any questions? Unsure of how to proceed? Reach out to any members of Student Government's Executive Board (the President, Vice President for Finance, and Vice President of Communications).
-As of the 2019-2020 school year, those members are [Anusha Datar](mailto:anusha.datar@students.olin.edu), [Kyle Emmi](mailto:kyle.emmi@students.olin.edu), and [Sarah Deng](mailto:sarah.deng@students.olin.edu).
+Any questions? Unsure of how to proceed? Reach out to any members of Student
+Government's Executive Board (the President, Vice President for Finance, and
+Vice President of Communications). As of the 2019-2020 school year, those
+members are [Anusha Datar](mailto:anusha.datar@students.olin.edu),
+[Kyle Emmi](mailto:kyle.emmi@students.olin.edu),
+and [Sarah Deng](mailto:sarah.deng@students.olin.edu).
 
 ## General Formatting
 
@@ -28,25 +33,28 @@ A fair number of code/text editors can also help with checking line length:
 - [`vscode`](https://code.visualstudio.com/) has [vertical rulers](https://stackoverflow.com/questions/29968499/vertical-rulers-in-visual-studio-code)
   and shows the cursor's line and column in the lower right of the [status bar](https://code.visualstudio.com/docs/getstarted/userinterface#_basic-layout).
 
-Check out the [Linting section](#linting-the-governing-docs) for another way to
-check line length automatically.
+Check out the [Linting section](#linting-the-governing-documents) for another
+way to check line length automatically.
 
 ### Pull Request Titles
 
 Pull request titles should follow the format:  
 **[BA/CA]**-**[school year]**-**[amendment number]**: **[Summary of changes]**
 
-- Amendment numbers are iterated for each proposal regardless of success. Check the [history of previous PRs](https://github.com/olin/studentgovernment/pulls?q=is%3Apr) to determine what the next number is - note that we index at one (1).
-- Amendment numbers are counted independently for the [Bylaws](bylaws.md) and [Constitution](constitution.md).
+- Amendment numbers are iterated for each proposal regardless of success. Check
+  the [history of previous PRs](https://github.com/olin/studentgovernment/pulls?q=is%3Apr)
+  to determine what the next number is - note that we index at one (1).
+- Amendment numbers are counted independently for the [Bylaws](bylaws.md) and
+  [Constitution](constitution.md).
 
-For example:
-
-- The first bylaw amendment of the 17-18 school year was about updating CCO procedures and was named:  
-  [`BA-1718-001: CCO by-laws update to reflect current practices`](https://github.com/olin/studentgovernment/pull/30)
+For example, the first bylaw amendment of the 17-18 school year was about
+updating CCO procedures and was named
+[`BA-1718-001: CCO by-laws update to reflect current practices`](https://github.com/olin/studentgovernment/pull/30).
 
 ### Logging Changes in the README
 
-A summary of changes should be added to the [README](README.md) in the appropriate location:
+A summary of changes should be added to the [README](README.md) in the
+appropriate location:
 - Bylaw Amendments: [Student Government By-Laws>Passed Amendments](https://github.com/olin/studentgovernment#passed-amendments)
 - Student Government Constitution: [Student Government Constitution Constitution>Passed Amendments](https://github.com/olin/studentgovernment#student-government-constitution).
 
@@ -60,7 +68,10 @@ Student Government positions should be referred to as follows:
 
 ## Versioning the Governing Documents
 
-After approving amendments in a session of student government and merging the appropriate pull requests into the `master` branch, the repository should be "tagged" with a new version, and a release made on GitHub that covers the changes.
+After approving amendments in a session of student government and merging the
+appropriate pull requests into the `master` branch, the repository should be
+"tagged" with a new version, and a release made on GitHub that covers the
+changes.
 
 > `vX.Y.Z`, where X is major overhauls of the documents, Y is modifications that
 > impact how SG operates, and Z is changes that don't impact how student
