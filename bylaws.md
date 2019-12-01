@@ -1156,11 +1156,9 @@ is in reverse-chronological order (with the most recent Official Action at the
 top), and contains the full text of every Official Action, as well as a brief
 summary of the action if necessary.
 
-**The List of Student Groups and Administration Committees.** This document
-contains the names, descriptions, and officers or appointees of all recognized
-and unrecognized student clubs and organizations, branches of the student
-government, Council Projects, project teams, and Faculty and Operational
-Committees established by the Administration of the College.
+**The List of Student Groups.** This document contains the names, descriptions,
+and officers or appointees of all student clubs and organizations, branches
+of the student government, administrative committees, and project teams.
 
 **The Report on the Student Activities Fund.** As described in [Article 2, Section 2](#section-2-executives),
 The Vice President for Finance creates a State of the Student Activities Fund
