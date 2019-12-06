@@ -752,9 +752,9 @@ to the Student Body and can occur during a meeting of the Student Government.
 #### Section 2. Review Process.
 
 Prior to the Audit Meeting, at least two representatives of the Honor Board
-meet individually with the discuss and question the operations of their
-respective organizations in order to evaluate each organization's compliance
-with the Governing Documents:
+meet individually with the following groups of leaders and question the
+operations of their respective organizations in order to evaluate each
+organization's compliance with the Governing Documents:
 
 1. the Executives of the Council of Olin Representatives
 2. the Director and Assistant Director of Student Activities
