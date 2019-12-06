@@ -744,28 +744,36 @@ the Student Activities Fund.
 
 #### Section 1. Meetings.
 
-The annual audit of the Student Government consists of two meetings - one
-meeting at the end of the fall semester and a follow-up meeting at the end of
-the spring semester. The Chair of the Honor Board and the President of the
-Student Government coordinate the time of the Audit. Audit Meetings are open to
-the Student Body.
+The Student Government holds an Audit Meeting at the beginning of the final
+month of each semester. The chair of the Honor Board and the President of the
+Student Government coordinate the time of the meeting. Audit Meetings are open
+to the Student Body and can occur during a meeting of the Student Government.
 
 #### Section 2. Review Process.
 
-At least two representatives of the Honor Board meet individually with the
-following leadership teams to discuss and question the operations of their
-respective organizations in order to evaluate each organization's compliance
-with the Governing Documents:
+Prior to the Audit Meeting, at least two representatives of the Honor Board
+meet individually with the following groups of leaders and question the
+operations of their respective organizations in order to evaluate each
+organization's compliance with the Governing Documents:
 
 1. the Executives of the Council of Olin Representatives
 2. the Director and Assistant Director of Student Activities
 3. the Director and Assistant Director of Clubs and Organizations
 4. the Director and Assistant Director of Service
 
-The Chair and Vice Chair of the Honor Board, along with a designee approved
-by CORe, meet separately to conduct an audit of the Honor Board's operations.
-Following the review, the Honor Board representatives summarize their findings
-in a joint report on the state of the Student Government.
+The Chair and Vice Chair of the Honor Board, along with a designee chosen by
+the Honor Board and approved by CORe, meet separately to conduct an audit of
+the Honor Board's operations.
+
+At each of these individual meetings, the representatives of the Honor Board
+(or, in the case of the Honor Board audit, the designee present) prepare a
+short written statement that they submit to the Chair of the Honor Board and
+the President of the Student Government.
+
+At the Audit Meeting, the President of the Student Government and the Chair of
+the Honor Board should discuss the information gathered and ask for
+clarification as necessary. This meeting should occur prior to when the Honor
+Board takes steps to resolve discrepancies as outlined in Section 3.
 
 #### Section 3. Discrepancy Resolution.
 
@@ -774,7 +782,7 @@ Governing Documents are not being followed, the Honor Board requests that the
 person(s) responsible resolve the issue before the spring semester follow-up
 meeting. If the responsible official(s) do not resolve the infraction before the
 follow-up meeting, the Honor Board may file a case report about Student
-Government citing the infraction, and an abstract is published to the community
+Government citing the infraction, and publish a statement to the community
 after investigation and resolution through the Honor Board process.
 
 ### Article 11. Election Procedures.
