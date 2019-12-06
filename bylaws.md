@@ -842,19 +842,24 @@ membership of the Student Government.
 #### Section 3. Regular Elections.
 
 A Regular Election takes one week to complete. To stagger the large number of
-positions being elected in the spring, the spring elections occur over two of
-these week-long election cycles. The fall elections need only one cycle. At the
-beginning of a week-long election, nominations are open for at least 48 hours
-during which a real-time list of nominations accepted by the Election Monitor is
-available to the Student Body. A presentation slide serves as a student’s
-declaration of candidacy and is required in order to run for office. At the end
-of the week, the polls are open for at least 24 hours. In between the close of
-nominations and the opening of the polls, campaigning takes place. If there are
-no candidates for a position or none of the candidates for a position garner at
-least 50% of the vote, an election for the position is held again as part of the
-next scheduled election or as part of a special election, if appropriate.
+positions up for election in the spring, the spring elections occur over two of
+these week-long election cycles. The fall elections and the winter elections
+need only one cycle each.
 
-The following positions are elected in the first spring election cycle:
+At the beginning of an election, the Election Monitor opens nominations for at
+least 48 hours. The Election Monitor makes the real-time list of nominations
+available to the student body. Each nominated student who chooses to run sends
+the Election Monitor a single presentation slide which serves as a declaration
+of candidacy and a description of their campaign. Following the nomination
+period, the Election Monitor distributes all of the candidates' slides and
+opens polls for at least 24 hours. In between the close of nominations and
+the close of the polls, campaigning takes place. If there are no candidates
+for a position or if none of the candidates for a position garner at least 50%
+of the vote, an election for the position is held again as part of the next
+scheduled election or as part of a special election, if appropriate.
+
+The following positions are elected in the first spring election cycle, which
+occurs the beginning of the month of April.
 
 1. President
 2. Vice President for Communications
@@ -862,10 +867,9 @@ The following positions are elected in the first spring election cycle:
 4. Director of Student Activities
 5. Director of Clubs and Organizations
 6. Director of Service
-7. Chair of the Honor Board
-8. Vice Chair of the Honor Board
 
-The following positions are elected in the second spring election cycle:
+The following positions are elected in the second spring election cycle, which
+occurs immediately following the first spring election cycle:
 
 1. Assistant Director of Student Activities
 2. Assistant Director of Clubs and Organizations
@@ -883,18 +887,29 @@ The following positions are elected in the second spring election cycle:
 12. Senior Class Activities Representative
 13. Four Honor Board General Members
 
-The following positions are elected in the only fall election cycle:
+The following positions are elected in the only fall election cycle, which
+occurs at the the beginning of the month of September.
 
 1. Two First Year Class Representatives
 2. Two Honor Board General Members (at least one of whom must be a First Year)
 3. Any positions not filled during the spring elections
 
-Students elected to office during Spring Elections take office as soon as is
-reasonable after April 1st as agreed upon by the incoming and outgoing
-Presidents.
+The following positions are elected in the only winter election cycle, which
+occurs at the end of the month of January.
 
-Students elected to office during Fall Elections take office immediately
-upon election.
+1. Chair of the Honor Board
+2. Vice Chair of the Honor Board
+
+If a position becomes vacant (due to resignation, study away, etc.) an election
+to fill the vacancy occurs during the next regular election cycle or as part of
+a special election, if appropriate.
+
+Students elected to office during Spring Elections take office as soon as is
+reasonable after both election cycles as agreed upon by the incoming and
+outgoing Presidents.
+
+Students elected to office during Fall and Winter Elections take office
+immediately upon election.
 
 #### Section 4. Campaigning.
 
@@ -1164,11 +1179,9 @@ is in reverse-chronological order (with the most recent Official Action at the
 top), and contains the full text of every Official Action, as well as a brief
 summary of the action if necessary.
 
-**The List of Student Groups and Administration Committees.** This document
-contains the names, descriptions, and officers or appointees of all recognized
-and unrecognized student clubs and organizations, branches of the student
-government, Council Projects, project teams, and Faculty and Operational
-Committees established by the Administration of the College.
+**The List of Student Groups.** This document contains the names, descriptions,
+and officers or appointees of all student clubs and organizations, branches
+of the student government, administrative committees, and project teams.
 
 **The Report on the Student Activities Fund.** As described in [Article 2, Section 2](#section-2-executives),
 The Vice President for Finance creates a State of the Student Activities Fund
