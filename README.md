@@ -39,6 +39,7 @@ Originally passed at a meeting of the Student Government on May 1st, 2015.
 
 ### Passed Amendments
 
+- 2019-12-05 BA-1920-005: Add winter elections.
 - 2019-11-07 BA-1920-004: Increased scope of SG members who Student Body can
   propose by-law amendments to.
 - 2019-11-07 BA-1920-003: Generalized wording on the forms transparency
