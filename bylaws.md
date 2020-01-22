@@ -495,8 +495,8 @@ activities. The Director approves the creation of Student Groups, classifies
 them as Clubs or Organizations, and generally helps them meet their goals. The
 Director will ensure that the Vice President for Finance has access to
 up-to-date Student Group spendings at all times. The Director populates and
-maintains the List of Student Groups and Administration Committees as described
-in [Article 13](#article-13-transparency). The Director attends meetings of the
+maintains the List of Student Groups as described in
+[Article 13](#article-13-transparency). The Director attends meetings of the
 Student Government prepared to report the activities and spending of the
 Committee. With the agreement of the Assistant Director, the Director may
 appropriate money from the CCO Budget.
@@ -621,6 +621,12 @@ A club or organization may organize the event with another Student Government
 Committee and receive funding from beyond the limits of Committee for Clubs and
 Organizations funding. This spending must be approved by the Officers of both
 Committees.
+
+### Section 10. Student Involvement Fair.
+
+The Committee hosts an annual student involvement fair at the beginning of each
+academic year so that student groups can advertise their presence and recruit
+new members. They also organize additional club fairs as needed.
 
 ### Article 6. The Committee for Supporting, Encouraging, and Recognizing Volunteerism.
 
@@ -1181,7 +1187,8 @@ summary of the action if necessary.
 
 **The List of Student Groups.** This document contains the names, descriptions,
 and officers or appointees of all student clubs and organizations, branches
-of the student government, administrative committees, and project teams.
+of the student government, administrative committees, and project teams. The
+Director of the Committee for Clubs and Organizations maintains this document.
 
 **The Report on the Student Activities Fund.** As described in [Article 2, Section 2](#section-2-executives),
 The Vice President for Finance creates a State of the Student Activities Fund
