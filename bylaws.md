@@ -1187,8 +1187,7 @@ summary of the action if necessary.
 
 **The List of Student Groups.** This document contains the names, descriptions,
 and officers or appointees of all student clubs and organizations, branches
-of the student government, administrative committees, and project teams. The
-Director of the Committee for Clubs and Organizations maintains this document.
+of the student government, administrative committees, and project teams.
 
 **The Report on the Student Activities Fund.** As described in [Article 2, Section 2](#section-2-executives),
 The Vice President for Finance creates a State of the Student Activities Fund
