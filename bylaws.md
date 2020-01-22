@@ -545,6 +545,17 @@ additional funds as needed from the Committee. Maintaining Organization status
 is contingent on an Organization keeping accurate financial records which can be
 produced upon request. Organization status is granted for one year at a time.
 
+Each new club establishes itself by submitting a charter to the Committee for
+approval. To remain established, each club or organization must submit a
+charter each academic year.
+
+A valid charter states the club or organization's purpose, membership
+structure, leadership transition protocol, events and activities, expected
+purchases, club assets, and charter amendment procedure. The Committee
+maintains a public repository containing all club and organization charters
+that club and organization members can amend according to the procedures listed
+in the club or organization charter.
+
 #### Section 6. CCO Budget.
 
 The CCO Budget is allocated jointly by the Director and Assistant Director of
