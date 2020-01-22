@@ -1,7 +1,7 @@
 # Olin College Student Government Constitution
 
-*Agreed upon by the Students of Olin College, in Town Hall Meeting, on April 13,
-2018. This Constitution will sunset on March 1, 2020.*
+*Agreed upon by the Students of Olin College, in Town Hall Meeting, on February 12,
+2020. This Constitution will sunset on March 1, 2022.*
 
 ## Preamble
 
