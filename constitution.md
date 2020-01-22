@@ -374,7 +374,7 @@ quorum is one half of the Student Body, including proxy voters.
 
 This Student Government Constitution will be reviewed by the Student Government
 in two year’s time. In order to enforce the review, this Constitution will
-sunset on the 1st of March, 2020. If this Constitution is still appropriate,
+sunset on the 1st of March, 2022. If this Constitution is still appropriate,
 relevant, and effective at that time, the Student Body may choose to amend this
 section to renew this Constitution. In the event that this section is not
 amended by that time, the Student Body must ratify a new Constitution as
