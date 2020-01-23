@@ -18,14 +18,14 @@ fulfill the changing needs of the Student Body.*
 The elected Student Leadership - Executives, Representatives, and Committee
 Leaders - together form the Student Government which will have sole authority
 to allocate the Student Activities Fund and amend the Student Government
-By-Laws. This group will also have several functions, as described in [Article 2](#article-2-the-student-government).
-A smaller subsection of the Student Government - the Executives and the
-Representatives - will comprise the Council of Olin Representatives which alone
-may not allocate the Student Activities Fund or amend the Student Government
-By-Laws. However, this group may make recommendations to the College
-Administration and Board of Trustees on behalf of the Student Government, and
-will work to compile Action Items and prioritize their execution, as described
-in [Article 3](#article-3-the-council-of-olin-representatives).
+By-Laws. [Article 2](#article-2-the-student-government) describes the functions
+of this group. A smaller subsection of the Student Government - the Executives
+and the Representatives - will comprise the Council of Olin Representatives.
+The Council of Olin Representatives may not allocate the Student Activities
+Fund or amend the Student Government By-Laws on its own. However, this group
+may make recommendations to the College Administration and Board of Trustees on
+behalf of the Student Government, and will work to compile Action Items and
+prioritize their execution, as described in [Article 3](#article-3-the-council-of-olin-representatives).
 
 Structuring the Council as a subsection of Student Government enables the
 Council to continually represent the Student Body and frees the Committee
