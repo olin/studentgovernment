@@ -135,7 +135,7 @@ If a committee or working group of faculty and/or staff requests student
 representative(s), the Council may solicit volunteers from the Student Body to
 fill the representative positions on that committee. If there are more
 volunteers than available positions, the Council will appoint students by
-a procedure codified in the Student Government By-Laws.
+a procedure codified in the Student Government Bylaws.
 
 #### Section 8. Appellate Authority.
 
