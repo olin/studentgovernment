@@ -1,8 +1,24 @@
 # Olin College Honor Code
 ## 1. PURPOSE OF THE HONOR CODE
-This Honor Code, written and maintained by the students of Olin College, exists to provide an ethical framework for the Olin student community. It represents an individual commitment by each Olin student to dedicate themselves to these standards, as well as a community commitment to ensure that these standards are upheld. This Code will serve always as a bold statement that ethics are not optional at Olin and that they are simultaneously an individual and community concern.
+This Honor Code, written and maintained by the students of Olin College, exists
+to provide an ethical framework for the Olin student community. It represents
+an individual commitment by each Olin student to dedicate themselves to these
+standards, as well as a community commitment to ensure that these standards are
+upheld. This Code will serve always as a bold statement that ethics are not
+optional at Olin and that they are simultaneously an individual and community
+concern.
 ## 2. COLLEGE JURISDICTION
-Olin College students are members of the college community as well as citizens of the Town of Needham and the Commonwealth of Massachusetts. As citizens, students are responsible to the community of which they are a part and the college neither substitutes for nor interferes with the regular legal processes. Students are also accountable for offenses against the academic community. Therefore, an action involving a student in a legal proceeding in a civil or criminal court does not free the student from responsibility for their conduct in a college proceeding. If a student is charged in both jurisdictions, the college will proceed with its internal review according to its own timetable. Also see Appendix B for articulation with Babson College, Wellesley College, and Brandeis University student judicial systems.
+Olin College students are members of the college community as well as citizens
+of the Town of Needham and the Commonwealth of Massachusetts. As citizens,
+students are responsible to the community of which they are a part and the
+college neither substitutes for nor interferes with the regular legal
+processes. Students are also accountable for offenses against the academic
+community. Therefore, an action involving a student in a legal proceeding in a
+civil or criminal court does not free the student from responsibility for their
+conduct in a college proceeding. If a student is charged in both jurisdictions,
+the college will proceed with its internal review according to its own
+timetable. Also see Appendix B for articulation with Babson College, Wellesley
+College, and Brandeis University student judicial systems.
 ## 3. HONOR CODE VALUES
 ### 3.1 Integrity
 I will represent myself accurately and completely in my work, my words, and my actions in academic and in non-academic affairs.
@@ -16,32 +32,60 @@ I will be receptive to change, supportive of innovation, and willing to take ris
 I will strive to better myself and my community and take responsibility for my own behavior. When I become aware of a violation of the Honor Code or an issue within the community, I will take action towards resolution of the situation. I expect others to do the same.
 ## 4. HONOR CODE PROCEDURES
 ### 4.1 Procedural definitions
+
 *Honor Board*: The Honor Board members consist of the Chair, Vice Chair, and 6 general members. There must be at least one member from each class. Additional involvement includes a staff representative, a faculty representative, and an Adviser to the Honor Board.
+
 *Honor Board Leadership*: The Honor Board Leadership consists of the Chair, Vice Chair, and the Adviser. The Chair does administrative tasks and works with the rest of the Honor Board to assist in hearing and administrative processes. The Vice Chair assists the Chair in their duties. The Chair is a voting member of the Student Government. The Adviser is the Dean of Student Affairs or their designee.
-*Hearing Panel*: The Hearing Panel consists of four persons selected by the Facilitation Team, Chair, and Vice Chair from the appropriately trained members of the Hearing Panel Pool. The Hearing Panel recommends sanctions and the Dean of Student Life approves/modifies/waives sanction as they see fit in responsibility hearings and sanction setting hearings.
+
+*Hearing Panel*: The Hearing Panel consists of 
+four persons selected by the Facilitation Team, Chair, and Vice Chair from the appropriately trained members of the Hearing Panel Pool. The Hearing Panel recommends sanctions and the Dean of Student Life approves/modifies/waives sanction as they see fit in responsibility hearings and sanction setting hearings.
+
 *Hearing Panel Pool*: The Hearing Panel Pool is a set of enrolled students who have been trained in the Honor Board procedures and feel comfortable in their skills to hear a case that comes to the Board.
+
 *Facilitation Team*: The Facilitation Team consists of the Adviser and two members of the Honor Board that facilitate report proceedings. Their goal is to ensure that proceedings are conducted in a responsible and timely manner per the Honor Code.
+
 *Moderator*: A member of the Facilitation Team responsible for moderating discussions of all Hearings as the result of a Report.
+
 *Recorder*: A member of the Facilitation Team responsible for recording the proceedings and discussion during a hearing.
+
 *Reporter*: The person(s) filing the report.
+
 *Reported*: The person(s) being accused of a violation of the Honor Code.
+
 *Report*: A written notification of a violation of the Honor Code or college policies or procedures. May take the form of “General” or “Streamlined Academic”.
+
 *General Report*: Any report of a violation(s) of the Honor Code or college policies or procedures excluding reports of violations of Title IX, which should be submitted as a report to the Title IX Coordinator and/or relevant authorities. Please visit this link to report a Title IX violation: (http://www.olin.edu/academic-life/student-affairs-and-resources/sexual-misconduct-info/) .
+
 *Streamlined Academic Report*: Reports of an academic violation where a conclusion has been reached and is sent to the Honor Board for review.
+
 *Charge*: The details of a violation and each individual aspect of the Honor Code or college policies or procedures addressed by a report.
+
 *Hearing*: The process by which the Reporter, Reported, Facilitation Team, Hearing Panel, and Adviser to the Honor Board meet to determine responsibility and set sanctions, if deemed appropriate.
+
 *Responsibility*: Acceptance of one’s actions; refers to confirming the violations listed on a report.
+
 *Sanction*: The consequence assigned to the Reported based upon a finding of responsibility and nature of the violation as determined by the Hearing Panel.
+
 *Witnesses/Advisers*: Both the reporter and the reported can call witnesses and advisers to assist them throughout the hearing. Witnesses are people who have knowledge of the event and advisers are people who support the reporter or reported in the hearing.
+
 *Aggrieved Parties*: The Facilitation Team can determine that there are one or more aggrieved parties, in addition to the reporter, who have been substantively aggrieved by the violation beyond any grievance suffered by the Olin community as a whole.
+
 *Appeals Board*: This group is convened to review all information available pertaining to hearings and proceedings that have led to an Appeal. Their purpose is to ensure that such proceedings were conducted according to the established procedures as written in the Honor Code and, if it is determined that procedures were not followed accordingly, to send the case back to the Honor Board for further review.
+
 *Faculty Representative*: A member of the faculty who attends Honor Board meetings and is a member of the Appeals Board.
+
 *Staff Representative*: A member of the staff who attends Honor Board meetings and is a member of the Appeals Board.
+
 *Investigative Procedure*: If deemed necessary by the Honor Board Leadership and/or the Facilitation Team, an Investigative Procedure may take place to determine the merit of a Report. All actions taken regarding a Report before a decision of merit are considered part of this procedure.
+
 *Merit*: Whether or not a Report has substance that necessitates the need for a Hearing. It is not necessary to use an Investigative Procedure to determine merit and it is assumed that most Reports will have merit. This definition is simply meant to prevent abuse of the Honor Code procedures.
+
 *Hearing*: All actions taken regarding a Report if and after the Honor Board Leadership and Facilitation Team has decided that it has merit.
+
 *Case*: A General Report that has merit as determined by the Honor Board Leadership and Facilitation Team.
-*Quorum*: 50% of the student body presently enrolled at Olin College..
+
+*Quorum*: 50% of the student body presently enrolled at Olin College.
+
 ### 4.2 Reporting and Hearing Procedures
 #### Reporting Overview
 There are several tracks that students or community members have when considering using the college as a means of adjudicating a violation of the Honor Code or related College policies. This Honor Code outlines the track that involves the Olin College Honor Board, a group of elected student representatives and appointed employees of the college responsible for facilitating adjudication of violation reports sent to them. Other tracks - direct facilitation and/or adjudication by the Office of Student Affairs, direct facilitation and/or adjudication by the Olin College Title IX Coordinator, civil or criminal courts, etc. are not bound to the same process as outlined herein.
