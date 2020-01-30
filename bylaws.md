@@ -90,8 +90,7 @@ directly with senior administrators of the College on a regular basis. These
 representatives include:
 
 1. a Representative for Campus Services
-2. a Representative to Marketing and Communications and Development, Family,
-   and Alumni Relations
+2. a Representative to Advancement
 3. a Representative to Admissions and the Office of Student Affairs and
    Resources
 4. a Representative for Curriculum and Faculty
