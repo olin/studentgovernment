@@ -19,6 +19,10 @@ List of previous significant versions:
 Amendments to the Constitution and Bylaws are listed below and can also be
 viewed as [Pull Requests with the `amendment` label](https://github.com/olin/studentgovernment/pulls?utf8=%E2%9C%93&q=is%3Apr+label%3Aamendment+)
 
+## Honor Code
+Ratified for the 2019-2020 academic year on October 4th, 2019.
+[Read it online](https://github.com/olin/studentgovernment/blob/master/honorcode.md).
+
 ## Student Government Constitution
 
 Ratified at a Town Meeting on March 5th, 2015.
