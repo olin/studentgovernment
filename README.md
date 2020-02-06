@@ -43,10 +43,12 @@ Originally passed at a meeting of the Student Government on May 1st, 2015.
 
 ### Passed Amendments
 
+- 2020-02-05 BA-1920-010: Added charter requirements to student group
+  classifications.
 - 2020-02-05 BA-1920-009: Changed default election monitor in the case of no
-  candidates
+  candidates.
 - 2020-02-05 BA-1920-008: Assigned club fair and transparency document
-  responsibilities to CCO
+  responsibilities to CCO.
 - 2019-12-05 BA-1920-007: Create more clearly outlined audit process.
 - 2019-12-05 BA-1920-006: Change list of student groups.
 - 2019-12-05 BA-1920-005: Add winter elections.
