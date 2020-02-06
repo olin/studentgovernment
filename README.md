@@ -43,6 +43,8 @@ Originally passed at a meeting of the Student Government on May 1st, 2015.
 
 ### Passed Amendments
 
+- 2020-02-05 BA-1920-011: Change the name of the Rep. to MarCom and DFAR to
+  Rep. to Advancement.
 - 2020-02-05 BA-1920-010: Added charter requirements to student group
   classifications.
 - 2020-02-05 BA-1920-009: Changed default election monitor in the case of no
