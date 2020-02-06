@@ -494,8 +494,8 @@ activities. The Director approves the creation of Student Groups, classifies
 them as Clubs or Organizations, and generally helps them meet their goals. The
 Director will ensure that the Vice President for Finance has access to
 up-to-date Student Group spendings at all times. The Director populates and
-maintains the List of Student Groups and Administration Committees as described
-in [Article 13](#article-13-transparency). The Director attends meetings of the
+maintains the List of Student Groups as described in
+[Article 13](#article-13-transparency). The Director attends meetings of the
 Student Government prepared to report the activities and spending of the
 Committee. With the agreement of the Assistant Director, the Director may
 appropriate money from the CCO Budget.
@@ -543,6 +543,17 @@ approval from the Committee or its Officers. Organizations may request
 additional funds as needed from the Committee. Maintaining Organization status
 is contingent on an Organization keeping accurate financial records which can be
 produced upon request. Organization status is granted for one year at a time.
+
+Each new club establishes itself by submitting a charter to the Committee for
+approval. To remain established, each club or organization must submit a
+charter each academic year.
+
+A valid charter states the club or organization's purpose, membership
+structure, leadership transition protocol, events and activities, expected
+purchases, club assets, charter amendment procedure, and code of conduct. The
+Committee maintains a public repository containing all club and organization
+charters that club and organization members can amend according to the
+procedures listed in the club or organization charter.
 
 #### Section 6. CCO Budget.
 
@@ -620,6 +631,12 @@ A club or organization may organize the event with another Student Government
 Committee and receive funding from beyond the limits of Committee for Clubs and
 Organizations funding. This spending must be approved by the Officers of both
 Committees.
+
+### Section 10. Student Involvement Fair.
+
+The Committee hosts an annual student involvement fair at the beginning of each
+academic year so that student groups can advertise their presence and recruit
+new members. They also organize additional club fairs as needed.
 
 ### Article 6. The Committee for Supporting, Encouraging, and Recognizing Volunteerism.
 
@@ -830,8 +847,11 @@ In the case of multiple candidates, each candidate gives a brief statement
 and is asked by the President to leave the room. The remaining members of
 the Student Government may deliberate and vote by excellence voting. The
 candidate with the most votes becomes Election Monitor. In the case of no
-candidates, the Dean of Student Life performs the duties of the Election
-Monitor.
+candidates, the Senior Class representative performs the duties of the Election
+Monitor. If the Senior Class representative is not eligible to perform the
+duties of the Election Monitor, the presiding officer of the Council nominates
+an Election Monitor. The Student Government must approve this nomination
+through an internal election.
 
 In the case of a Special Election, where calling a meeting of the Student
 Government only to elect an Election Monitor would be inexpedient, the
