@@ -551,10 +551,10 @@ charter each academic year.
 
 A valid charter states the club or organization's purpose, membership
 structure, leadership transition protocol, events and activities, expected
-purchases, club assets, and charter amendment procedure. The Committee
-maintains a public repository containing all club and organization charters
-that club and organization members can amend according to the procedures listed
-in the club or organization charter.
+purchases, club assets, charter amendment procedure, and code of conduct. The
+Committee maintains a public repository containing all club and organization
+charters that club and organization members can amend according to the
+procedures listed in the club or organization charter.
 
 #### Section 6. CCO Budget.
 
