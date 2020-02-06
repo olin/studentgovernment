@@ -839,8 +839,8 @@ the Student Government may deliberate and vote by excellence voting. The
 candidate with the most votes becomes Election Monitor. In the case of no
 candidates, the Senior Class representative performs the duties of the Election
 Monitor. If the Senior Class representative is not eligible to perform the
-duties of the Election Monitor, the presiding officer of the Council appoints
-an Election Monitor. The Student Government must approve this appointment
+duties of the Election Monitor, the presiding officer of the Council nominates
+an Election Monitor. The Student Government must approve this nomination
 through an internal election.
 
 In the case of a Special Election, where calling a meeting of the Student
