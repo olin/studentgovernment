@@ -19,6 +19,10 @@ List of previous significant versions:
 Amendments to the Constitution and Bylaws are listed below and can also be
 viewed as [Pull Requests with the `amendment` label](https://github.com/olin/studentgovernment/pulls?utf8=%E2%9C%93&q=is%3Apr+label%3Aamendment+)
 
+## Honor Code
+Ratified for the 2019-2020 academic year on October 4th, 2019.
+[Read it online](https://github.com/olin/studentgovernment/blob/master/honorcode.md).
+
 ## Student Government Constitution
 
 Ratified at a Town Meeting on March 5th, 2015.
@@ -29,7 +33,13 @@ Re-ratified at a Town Meeting on April 13th, 2018.
 
 ### Passed Amendments
 
-- [2018-04-13 CA-1718-001: Resurrect the constitution](https://github.com/olin/studentgovernment/pull/37)
+- [2020-02-12 CA-1920-006: Generalize definition of bylaws.](https://github.com/olin/studentgovernment/pull/76)
+- [2020-02-12 CA-1920-005: Automatically defer power to assistant director when Committee Director is not present.](https://github.com/olin/studentgovernment/pull/75)
+- [2020-02-12 CA-1920-004: Clarified role of CORe in opening section.](https://github.com/olin/studentgovernment/pull/74)
+- [2020-02-12 CA-1920-003: Refer to the bylaws for committee appointment process.](https://github.com/olin/studentgovernment/pull/83)
+- [2020-02-12 CA-1920-002: Change spelling of by-laws to bylaws.](https://github.com/olin/studentgovernment/pull/78)
+- [2020-02-12 CA-1920-001: Update constitution sunset to 2022.](https://github.com/olin/studentgovernment/pull/64)
+- [2018-04-13 CA-1718-001: Resurrect the constitution.](https://github.com/olin/studentgovernment/pull/37)
 
 ## Student Government By-Laws
 
@@ -39,6 +49,14 @@ Originally passed at a meeting of the Student Government on May 1st, 2015.
 
 ### Passed Amendments
 
+- 2020-02-05 BA-1920-011: Change the name of the Rep. to MarCom and DFAR to
+  Rep. to Advancement.
+- 2020-02-05 BA-1920-010: Added charter requirements to student group
+  classifications.
+- 2020-02-05 BA-1920-009: Changed default election monitor in the case of no
+  candidates.
+- 2020-02-05 BA-1920-008: Assigned club fair and transparency document
+  responsibilities to CCO.
 - 2019-12-05 BA-1920-007: Create more clearly outlined audit process.
 - 2019-12-05 BA-1920-006: Change list of student groups.
 - 2019-12-05 BA-1920-005: Add winter elections.
