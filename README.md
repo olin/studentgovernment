@@ -33,6 +33,7 @@ Re-ratified at a Town Meeting on April 13th, 2018.
 
 ### Passed Amendments
 
+- [2020-02-12 CA-1920-007: Acknowledge that student activities fee is done every semester, not every year.](https://github.com/olin/studentgovernment/pull/72)
 - [2020-02-12 CA-1920-006: Generalize definition of bylaws.](https://github.com/olin/studentgovernment/pull/76)
 - [2020-02-12 CA-1920-005: Automatically defer power to assistant director when Committee Director is not present.](https://github.com/olin/studentgovernment/pull/75)
 - [2020-02-12 CA-1920-004: Clarified role of CORe in opening section.](https://github.com/olin/studentgovernment/pull/74)
