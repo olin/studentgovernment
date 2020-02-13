@@ -72,7 +72,7 @@ Originally passed at a meeting of the Student Government on May 1st, 2015.
 - [2019-05-06 BA-1819-002: Updated virutal funds to reflect current practices.](https://github.com/olin/studentgovernment/pull/49)
 - [2019-05-06 BA-1819-001: Minor grammar fixes.](https://github.com/olin/studentgovernment/pull/48)
 - [2018-04-04 BA-1718-003: Added reading the Student Government Constitution to
-  the onboarding process for all officials.(https://github.com/olin/studentgovernment/pull/33)
+  the onboarding process for all officials.](https://github.com/olin/studentgovernment/pull/33)
 - [2018-04-04 BA-1718-002: Changed the definition of the Student Body to "all
   currently enrolled students of Olin College."](https://github.com/olin/studentgovernment/pull/32)
 - [2018-03-07 BA-1718-001: Updated CCO by-laws to reflect current practices.](https://github.com/olin/studentgovernment/pull/30)
