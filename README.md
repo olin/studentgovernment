@@ -21,6 +21,7 @@ viewed as [Pull Requests with the `amendment` label](https://github.com/olin/stu
 
 ## Honor Code
 Ratified for the 2019-2020 academic year on October 4th, 2019.
+
 [Read it online](https://github.com/olin/studentgovernment/blob/master/honorcode.md).
 
 ## Student Government Constitution
@@ -28,6 +29,8 @@ Ratified for the 2019-2020 academic year on October 4th, 2019.
 Ratified at a Town Meeting on March 5th, 2015.
 
 Re-ratified at a Town Meeting on April 13th, 2018.
+
+Re-ratified at a Town meeting on February 12th, 2020.
 
 [Read it online](https://github.com/olin/studentgovernment/blob/master/constitution.md).
 
