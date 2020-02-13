@@ -33,10 +33,11 @@ Re-ratified at a Town Meeting on April 13th, 2018.
 
 ### Passed Amendments
 
-- [2020-02-12 CA-1920-003: Refer to the bylaws for committee appointment process](https://github.com/olin/studentgovernment/pull/83)
-- [2020-02-12 CA-1920-002: Change spelling of by-laws to bylaws](https://github.com/olin/studentgovernment/pull/78)
-- [2020-02-12 CA-1920-001: Update constitution sunset to 2022](https://github.com/olin/studentgovernment/pull/64)
-- [2018-04-13 CA-1718-001: Resurrect the constitution](https://github.com/olin/studentgovernment/pull/37)
+- [2020-02-12 CA-1920-004: Clarified role of CORe in opening section.](https://github.com/olin/studentgovernment/pull/74)
+- [2020-02-12 CA-1920-003: Refer to the bylaws for committee appointment process.](https://github.com/olin/studentgovernment/pull/83)
+- [2020-02-12 CA-1920-002: Change spelling of by-laws to bylaws.](https://github.com/olin/studentgovernment/pull/78)
+- [2020-02-12 CA-1920-001: Update constitution sunset to 2022.](https://github.com/olin/studentgovernment/pull/64)
+- [2018-04-13 CA-1718-001: Resurrect the constitution.](https://github.com/olin/studentgovernment/pull/37)
 
 ## Student Government By-Laws
 
