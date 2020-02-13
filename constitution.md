@@ -1,7 +1,7 @@
 # Olin College Student Government Constitution
 
-*Agreed upon by the Students of Olin College, in Town Hall Meeting, on April 13,
-2018. This Constitution will sunset on March 1, 2020.*
+*Agreed upon by the Students of Olin College, in Town Hall Meeting, on February
+12, 2020. This Constitution will sunset on March 1, 2022.*
 
 ## Preamble
 
@@ -18,11 +18,11 @@ fulfill the changing needs of the Student Body.*
 The elected Student Leadership - Executives, Representatives, and Committee
 Leaders - together form the Student Government which will have sole authority
 to allocate the Student Activities Fund and amend the Student Government
-By-Laws. This group will also have several functions, as described in [Article 2](#article-2-the-student-government).
+Bylaws. This group will also have several functions, as described in [Article 2](#article-2-the-student-government).
 A smaller subsection of the Student Government - the Executives and the
 Representatives - will comprise the Council of Olin Representatives which alone
 may not allocate the Student Activities Fund or amend the Student Government
-By-Laws. However, this group may make recommendations to the College
+Bylaws. However, this group may make recommendations to the College
 Administration and Board of Trustees on behalf of the Student Government, and
 will work to compile Action Items and prioritize their execution, as described
 in [Article 3](#article-3-the-council-of-olin-representatives).
@@ -53,10 +53,9 @@ develop initiatives which improve the lives of students at Olin College.
 
 The Student Government will consist of the elected members of the Council of
 Olin Representatives and the Leaders of the Student Government Committees. In
-the event of the absence of a Leader of a Student Government Committee,
-acknowledged by the presiding officer of the Student Government, the Assistant
-Leader of the Student Government Committee may stand in for the Committee
-Leader and may carry the full voting power of the absent Leader.
+the event of the absence of a Leader of a Student Government Committee, the
+Assistant Leader of the Student Government Committee may stand in for the
+Committee Leader and may carry the full voting power of the absent Leader.
 
 #### Section 4. Source of Authority.
 
@@ -76,16 +75,16 @@ Student Government has ultimate authority over the allocation of the Student
 Activities Fund. The Student Government has the power to divide the Student
 Activities Fund into virtual funds to be used by the Council of Olin
 Representatives, by Student Government Committees, and for other purposes
-defined in the Student Government By-Laws.
+defined in the Student Government Bylaws.
 
-#### Section 7. Amending the By-Laws.
+#### Section 7. Amending the Bylaws.
 
-The Student Government may amend the Student Government By-Laws using the
+The Student Government may amend the Student Government Bylaws using the
 procedure described in [Article 12](#article-12-amendment-procedures).
 
 #### Section 8. Ad Hoc Representatives.
 
-The Student Government may establish in the Student Government By-Laws elected
+The Student Government may establish in the Student Government Bylaws elected
 or appointed non-voting ad hoc representatives of the Council.
 
 ### Article 3. The Council of Olin Representatives.
@@ -107,7 +106,7 @@ student body.
 #### Section 3. Structure.
 
 The Council will be comprised of three Executive Officers and some number of
-elected Representatives, as defined in the Student Government By-Laws. The
+elected Representatives, as defined in the Student Government Bylaws. The
 Executive Officers will include the President, the Vice President for
 Communications, and the Vice President for Finance. Between Executives and
 Representatives, there must be at least one member of each graduating class.
@@ -135,7 +134,7 @@ If a committee or working group of faculty and/or staff requests student
 representative(s), the Council may solicit volunteers from the Student Body to
 fill the representative positions on that committee. If there are more
 volunteers than available positions, the Council will appoint students by
-excellence voting.
+a procedure codified in the Student Government Bylaws.
 
 #### Section 8. Appellate Authority.
 
@@ -216,7 +215,7 @@ diverse, and accessible set of social opportunities for the entire Student Body.
 The Student Activities Committee will be led by the Director of Student
 Activities and the Assistant Director of Student Activities who are elected by
 the Student Body. Additional membership will be governed by the Student
-Government By-Laws.
+Government Bylaws.
 
 #### Section 3. Funding.
 
@@ -238,7 +237,7 @@ subsidizing and encouraging the growth of student groups.
 The Committee for Clubs and Organizations will be led by the Director of Clubs
 and Organizations and the Assistant Director of Clubs and Organizations who are
 elected by the Student Body. Additional membership will be governed by the
-Student Government By-Laws.
+Student Government Bylaws.
 
 #### Section 3. Funding.
 
@@ -260,7 +259,7 @@ organizations, and activities.
 The Committee for Supporting, Encouraging, and Recognizing Volunteerism will be
 led by the Director of Service and the Assistant Director of Service who are
 elected by the Student Body. Additional membership will be governed by the
-Student Government By-Laws.
+Student Government Bylaws.
 
 #### Section 3. Funding.
 
@@ -274,7 +273,7 @@ Encouraging, and Recognizing Volunteerism by the Student Government.
 
 #### Section 1. Purpose.
 
-To ensure that the Student Government Constitution and By-Laws are followed,
+To ensure that the Student Government Constitution and Bylaws are followed,
 Student Government will periodically meet with one or more representatives of
 the Honor Board to review the actions of Student Government.
 
@@ -298,13 +297,13 @@ through the Honor Board process.
 The all-school elections will be facilitated by a member of the Student
 Government not running for re-election. In the case that no member is eligible,
 a substitute will be selected to perform the duties of the Election Monitor as
-specified in the By-Laws.
+specified in the Bylaws.
 
 #### Section 2. Campaigning.
 
 To preserve an intellectual atmosphere and guarantee equal opportunities of
 election, campaigning is only allowed at the College within published
-guidelines specified in the Student Government By-Laws. The Election Monitor
+guidelines specified in the Student Government Bylaws. The Election Monitor
 presiding over the election, and as needed, the Honor Board, will jointly
 investigate allegations of campaigning and decide upon potential resolutions -
 up to and including removal from the ballot.
@@ -332,11 +331,11 @@ Student Government may contradict the Honor Code.
 #### Section 3. Student Government Constitution.
 
 The Student Government Constitution takes precedence over the Student
-Government By-Laws but may not contradict the Honor Code. The Constitution
+Government Bylaws but may not contradict the Honor Code. The Constitution
 governs the purpose, structure, and powers of the Student Government, Council
 of Olin Representatives, and Student Government Committees.
 
-#### Section 4. Student Government By-Laws.
+#### Section 4. Student Government Bylaws.
 
 The Student Government By-Laws do not take precedence over the other two
 Governing Documents. The By-Laws govern the specific roles and responsibilities
@@ -356,10 +355,10 @@ The Student Government Constitution may be amended by a simple majority vote of
 the Students present at a Town Hall Meeting where a quorum of one half of the
 Student Body is present.
 
-#### Section 3. Amendments to the Student Government By-Laws.
+#### Section 3. Amendments to the Student Government Bylaws.
 
 In order to keep the Student Government adaptable to change, the Student
-Government By-Laws may be amended by the Student Government with the approval
+Government Bylaws may be amended by the Student Government with the approval
 of three-fourths of its voting members.
 
 ### Article 13. Ratification and Review
@@ -374,7 +373,7 @@ quorum is one half of the Student Body, including proxy voters.
 
 This Student Government Constitution will be reviewed by the Student Government
 in two year’s time. In order to enforce the review, this Constitution will
-sunset on the 1st of March, 2020. If this Constitution is still appropriate,
+sunset on the 1st of March, 2022. If this Constitution is still appropriate,
 relevant, and effective at that time, the Student Body may choose to amend this
 section to renew this Constitution. In the event that this section is not
 amended by that time, the Student Body must ratify a new Constitution as
