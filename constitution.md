@@ -65,8 +65,8 @@ the trust of the Administration and Board of Trustees of the College.
 #### Section 5. Student Activities Fee.
 
 The Board of Trustees of the College has ultimate authority over the Student
-Activities Fee, which each student pays annually. The Student Government may
-recommend changes to the Student Activities Fee to the Board of Trustees.
+Activities Fee, which each student pays each semester. The Student Government
+may recommend changes to the Student Activities Fee to the Board of Trustees.
 
 #### Section 6. Student Activities Fund.
 
