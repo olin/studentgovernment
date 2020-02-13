@@ -337,10 +337,10 @@ of Olin Representatives, and Student Government Committees.
 
 #### Section 4. Student Government Bylaws.
 
-The Student Government Bylaws do not take precedence over the other two
-Governing Documents. The Bylaws govern the specific roles and responsibilities
-of elected officials. The Bylaws will also specify meeting frequency and
-funding procedures of the Student Government, the Council of Olin
+The Student Government By-Laws do not take precedence over the other two
+Governing Documents. The By-Laws govern the specific roles and responsibilities
+of elected officials. The By-Laws will also specify meeting frequency and
+operational procedures of the Student Government, the Council of Olin
 Representatives, and the Student Government Committees.
 
 ### Article 12. Amendment Procedures.
