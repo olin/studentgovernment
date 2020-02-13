@@ -1,4 +1,4 @@
-# Olin College Student Government By-Laws
+# Olin College Student Government Bylaws
 
 ## Part I. Relative to the Student Government.
 
@@ -43,7 +43,7 @@ of the Committee Leaders is considered a quorum of the Student Government.
 #### Section 4. Official Actions.
 
 Official Actions of the Student Government include issuing Allocation Orders,
-amending the By-Laws, and reviewing amendments to the Constitution. All Official
+amending the Bylaws, and reviewing amendments to the Constitution. All Official
 Actions of the Student Government may be passed with approval of a majority of
 the voting members present. All Official Actions are recorded with a unique
 identifier.
@@ -405,7 +405,7 @@ Week activities.
 
 The composition, purpose, operation, and powers of the Honor Board are detailed
 in the Honor Code. Additional powers may be allotted to them in the
-Constitution and By-Laws of the Student Government.
+Constitution and Bylaws of the Student Government.
 
 #### Section 2. Honor Board Budget.
 
@@ -829,8 +829,8 @@ follows:
 **Election Monitor.** The Election Monitor facilitates all Student Government
 elections occurring in a particular election season or special election. The
 Election Monitor creates all necessary ballots and distributes candidate
-information as outlined in the By-Laws. The Election Monitor enforces
-campaigning rules and guidelines defined in the By-Laws, and serves as the final
+information as outlined in the Bylaws. The Election Monitor enforces
+campaigning rules and guidelines defined in the Bylaws, and serves as the final
 authority on campaigning restrictions. The Election Monitor counts the ballots,
 and the results of the election are not final until the Election Monitor
 validates them.
@@ -1116,9 +1116,9 @@ whether or not to approve the amendment. The Vice President for Communications
 sends an announcement describing the outcome of the meeting to the entire
 Student Body within 24 hours of the close of the meeting.
 
-#### Section 2. Amending the By-Laws.
+#### Section 2. Amending the Bylaws.
 
-Any member of the Student Body may propose an amendment to the By-Laws by
+Any member of the Student Body may propose an amendment to the Bylaws by
 presenting the amendment in written form to any voting member of the Student
 Government at least one week in advance of the meeting of the Student
 Government at which the author would like the amendment to be addressed.
@@ -1134,14 +1134,14 @@ Government during the meeting.
 When discussion has concluded, the President calls for a vote on the amendment.
 Per the Student Government Constitution, approval of 75% of the voting members
 of the Student Government is required to pass the amendment. The Vice President
-for Communications sends an announcement detailing any changes to the By-Laws
+for Communications sends an announcement detailing any changes to the Bylaws
 and describing the outcome of the meeting to the entire Student Body within 24
 hours of the close of the meeting.
 
 #### Section 3. Referendum.
 
 If working through the Student Government yields no result, any member of the
-Student Body may propose an amendment to either the Constitution or the By-Laws
+Student Body may propose an amendment to either the Constitution or the Bylaws
 and bypass approval of the Student Government by presenting to the President of
 the Student Government the amendment in written form accompanied by the
 supporting signatures of at least 10% of the Student Body.
@@ -1158,7 +1158,7 @@ The President of the Student Government may call a Town Meeting to hold a
 community discussion, to update the Student Body on the activities of the
 Student Government or the Administration, to vote on an amendment to the
 Constitution, or, in the case of Referendum, to vote on an amendment to the
-By-Laws.
+Bylaws.
 
 Town Meetings where a vote is held to amend a Governing Document require quorum
 of one half of the Student Body. Amendments may not be changed during Town
