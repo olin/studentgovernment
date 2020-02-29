@@ -255,7 +255,8 @@ Resolutions. All Official Actions of the Council may be passed with the approval
 of a majority of the voting members present with the exception of Committee
 Appointments which are completed using approval voting and Allocation Orders of
 the Discretionary Fund or the Class Funds which may be approved by a smaller
-subsection of the Council as defined in [Article 2, Sections 11](#section-11-discretionary-fund)
+subsection of the Council as defined in
+[Article 2, Sections 11](#section-11-discretionary-fund)
 [and 12](#section-12-class-funds)
 respectively. All Official Actions of the Council are recorded with a unique
 identifier.
@@ -418,7 +419,8 @@ with joint approval.
 
 #### Section 1. Function.
 
-Pursuant to its mission, as defined in the Constitution ([Article 6, Section 1](constitution.md#section-1-mission-1)),
+Pursuant to its mission, as defined in the Constitution
+([Article 6, Section 1](constitution.md#section-1-mission-1)),
 the Student Activities Committee plans and executes campus-wide events,
 facilitates club events as requested, and maintains a public calendar of events.
 The Committee holds events of interest to the Student Body.
@@ -481,7 +483,8 @@ Finance once per week broken down by event.
 
 #### Section 1. Function.
 
-Pursuant to its mission, as defined in the Constitution ([Article 7, Section 1](constitution.md#section-1-mission-2)),
+Pursuant to its mission, as defined in the Constitution
+([Article 7, Section 1](constitution.md#section-1-mission-2)),
 the Committee for Clubs and Organizations allocates organization budgets
 annually and allocates funds to clubs upon request.
 
@@ -644,7 +647,8 @@ new members. They also organize additional club fairs as needed.
 
 #### Section 1. Function.
 
-Pursuant to its mission, as defined in the Constitution ([Article 8, Section 1](constitution.md#section-1-mission-3)),
+Pursuant to its mission, as defined in the Constitution
+([Article 8, Section 1](constitution.md#section-1-mission-3)),
 the Committee for Supporting, Encouraging, and Recognizing Volunteerism oversees
 the direction, continuity, and ongoing health of community service at the
 College. The Committee allocates service related organization budgets annually
@@ -1194,7 +1198,8 @@ members of the Student Government, and are as follows:
 
 **The List of Official Actions.** This document contains a record of every
 Official Action of the Student Government and the Council of Olin
-Representatives, which are described in [Article 1, Section 4](#section-4-official-actions)
+Representatives, which are described in
+[Article 1, Section 4](#section-4-official-actions)
 and [Article 2, Section 8](#section-8-official-actions) respectively. The list
 is in reverse-chronological order (with the most recent Official Action at the
 top), and contains the full text of every Official Action, as well as a brief
@@ -1204,11 +1209,12 @@ summary of the action if necessary.
 and officers or appointees of all student clubs and organizations, branches
 of the student government, administrative committees, and project teams.
 
-**The Report on the Student Activities Fund.** As described in [Article 2, Section 2](#section-2-executives),
-The Vice President for Finance creates a State of the Student Activities Fund
-report once per semester. A copy of this semesterly report is added to an
-ongoing Report on the Student Activities Fund, which is in reverse-chronological
-order (with the most recent report at the top).
+**The Report on the Student Activities Fund.** As described in
+[Article 2, Section 2](#section-2-executives), The Vice President for Finance
+creates a State of the Student Activities Fund report once per semester. A copy
+of this semesterly report is added to an ongoing Report on the Student
+Activities Fund, which is in reverse-chronological order (with the most recent
+report at the top).
 
 **The Meeting Minutes.** Each meeting of the Student Government and its
 Committees, including Town Meetings, have minutes detailing the topics discussed
