@@ -99,8 +99,8 @@ Originally passed at a meeting of the Student Government on May 1st, 2015.
   wording, and further defined the audit process.](https://github.com/olin/studentgovernment/pull/10)
 - [2016-02-01 BA-1516-008: Aligned the Assistant Director of Service role
   description to practice and removed service group classifications.](https://github.com/olin/studentgovernment/pull/9)
-- [2015-12-04 BA-1516-007: shorten the committee appointment timeline from 6 days
-  to 3 days.](https://github.com/olin/studentgovernment/pull/8)
+- [2015-12-04 BA-1516-007: shorten the committee appointment timeline from 6
+  days to 3 days.](https://github.com/olin/studentgovernment/pull/8)
 - [2015-12-04 BA-1516-006: Eliminate a specific time for meeting.](https://github.com/olin/studentgovernment/pull/7)
 - [2015-12-04 BA-1516-005: Eliminate wording saying funding guidelines for the
   SAF must be created.](https://github.com/olin/studentgovernment/pull/6)
