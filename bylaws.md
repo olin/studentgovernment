@@ -21,24 +21,26 @@ postponed, or rescheduled at the President’s discretion. Additional meetings
 may also be scheduled as appropriate at the President’s discretion.
 
 The time, location, and agenda of each normally scheduled meeting of the
-Student Government is announced at least 24 hours in advance in an email sent to
-the Student Body and the CORe Discussion mailing list. Additional or rescheduled
-meetings that do not occur during normally scheduled times should be announced
-to the Student Body at least 48 hours in advance, if at all possible.
+Student Government is announced at least 24 hours in advance in an email sent
+to the Student Body and the CORe Discussion mailing list. Additional or
+rescheduled meetings that do not occur during normally scheduled times should
+be announced to the Student Body at least 48 hours in advance, if at all
+possible.
 
-Meetings of the Student Government serve as the exclusive venue to pass Official
-Actions, as described in Section 4.  Additionally, meetings of the Student
-Government can serve as venues to discuss and formulate Official Actions,
-discuss the state of the Student Body and Student Experience, allow Committees
-to take charge of proposed projects, and other activities deemed relevant by the
-presiding officer.
+Meetings of the Student Government serve as the exclusive venue to pass
+Official Actions, as described in Section 4.  Additionally, meetings of the
+Student Government can serve as venues to discuss and formulate Official
+Actions, discuss the state of the Student Body and Student Experience, allow
+Committees to take charge of proposed projects, and other activities deemed
+relevant by the presiding officer.
 
 #### Section 3. Quorum.
 
 In order for the proceedings of a meeting of the Student Government to be
 valid, a quorum of the Student Government must be present in person or by video
-conference. At least a majority of the Council together with at least a majority
-of the Committee Leaders is considered a quorum of the Student Government.
+conference. At least a majority of the Council together with at least a
+majority of the Committee Leaders is considered a quorum of the Student
+Government.
 
 #### Section 4. Official Actions.
 
@@ -62,10 +64,10 @@ Fund.
 Each year, before Transition Day, the outgoing Student Government drafts the
 next year's budget, designated Allocation Order 0, informed by their experience
 of a full year in office. The outgoing Student Government passes their draft to
-the incoming Student Government who, within a month after Transition Day, amends
-or approves Allocation Order 0 to establish a budget for their session of
-Student Government. Allocation Order 0 appropriates money for the virtual funds
-defined in [Article 9, Section 2](#section-2-virtual-funds).
+the incoming Student Government who, within a month after Transition Day,
+amends or approves Allocation Order 0 to establish a budget for their session
+of Student Government. Allocation Order 0 appropriates money for the virtual
+funds defined in [Article 9, Section 2](#section-2-virtual-funds).
 
 #### Section 7. A Service to the Community.
 
@@ -77,8 +79,8 @@ compensated for their time in office.
 
 #### Section 1. Composition.
 
-The Council of Olin Representatives is comprised of three executive officers and
-ten representatives, each of whom have one full vote on the Council and the
+The Council of Olin Representatives is comprised of three executive officers
+and ten representatives, each of whom have one full vote on the Council and the
 Student Government. The executive officers are:
 
 1. the President
@@ -139,9 +141,9 @@ account.
 
 #### Section 3. Specialized Representatives.
 
-There are five Specialized Representatives who represent the entire Student Body
-and meet directly with members of the President’s Cabinet of the College. Each
-Specialized Representative:
+There are five Specialized Representatives who represent the entire Student
+Body and meet directly with members of the President’s Cabinet of the College.
+Each Specialized Representative:
 
 1. becomes familiar with the operations and policies of their relevant
    Administrative Department(s),
