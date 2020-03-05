@@ -45,7 +45,7 @@ Re-ratified at a Town meeting on February 12th, 2020.
 - [2020-02-12 CA-1920-001: Update constitution sunset to 2022.](https://github.com/olin/studentgovernment/pull/64)
 - [2018-04-13 CA-1718-001: Resurrect the constitution.](https://github.com/olin/studentgovernment/pull/37)
 
-## Student Government ByLaws
+## Student Government Bylaws
 
 Originally passed at a meeting of the Student Government on May 1st, 2015.
 
@@ -53,6 +53,7 @@ Originally passed at a meeting of the Student Government on May 1st, 2015.
 
 ### Passed Amendments
 
+- [2020-03-04 BA-1920-012: Changed every instance of by-law to bylaw](https://github.com/olin/studentgovernment/pull/85/)
 - [2020-02-05 BA-1920-011: Change the name of the Rep. to MarCom and DFAR to
   Rep. to Advancement.](https://github.com/olin/studentgovernment/pull/80)
 - [2020-02-05 BA-1920-010: Added charter requirements to student group

@@ -1,4 +1,4 @@
-# Olin College Student Government By-Laws
+# Olin College Student Government Bylaws
 
 ## Part I. Relative to the Student Government.
 
@@ -21,29 +21,31 @@ postponed, or rescheduled at the President’s discretion. Additional meetings
 may also be scheduled as appropriate at the President’s discretion.
 
 The time, location, and agenda of each normally scheduled meeting of the
-Student Government is announced at least 24 hours in advance in an email sent to
-the Student Body and the CORe Discussion mailing list. Additional or rescheduled
-meetings that do not occur during normally scheduled times should be announced
-to the Student Body at least 48 hours in advance, if at all possible.
+Student Government is announced at least 24 hours in advance in an email sent
+to the Student Body and the CORe Discussion mailing list. Additional or
+rescheduled meetings that do not occur during normally scheduled times should
+be announced to the Student Body at least 48 hours in advance, if at all
+possible.
 
-Meetings of the Student Government serve as the exclusive venue to pass Official
-Actions, as described in Section 4.  Additionally, meetings of the Student
-Government can serve as venues to discuss and formulate Official Actions,
-discuss the state of the Student Body and Student Experience, allow Committees
-to take charge of proposed projects, and other activities deemed relevant by the
-presiding officer.
+Meetings of the Student Government serve as the exclusive venue to pass
+Official Actions, as described in Section 4.  Additionally, meetings of the
+Student Government can serve as venues to discuss and formulate Official
+Actions, discuss the state of the Student Body and Student Experience, allow
+Committees to take charge of proposed projects, and other activities deemed
+relevant by the presiding officer.
 
 #### Section 3. Quorum.
 
 In order for the proceedings of a meeting of the Student Government to be
 valid, a quorum of the Student Government must be present in person or by video
-conference. At least a majority of the Council together with at least a majority
-of the Committee Leaders is considered a quorum of the Student Government.
+conference. At least a majority of the Council together with at least a
+majority of the Committee Leaders is considered a quorum of the Student
+Government.
 
 #### Section 4. Official Actions.
 
 Official Actions of the Student Government include issuing Allocation Orders,
-amending the By-Laws, and reviewing amendments to the Constitution. All Official
+amending the Bylaws, and reviewing amendments to the Constitution. All Official
 Actions of the Student Government may be passed with approval of a majority of
 the voting members present. All Official Actions are recorded with a unique
 identifier.
@@ -62,10 +64,10 @@ Fund.
 Each year, before Transition Day, the outgoing Student Government drafts the
 next year's budget, designated Allocation Order 0, informed by their experience
 of a full year in office. The outgoing Student Government passes their draft to
-the incoming Student Government who, within a month after Transition Day, amends
-or approves Allocation Order 0 to establish a budget for their session of
-Student Government. Allocation Order 0 appropriates money for the virtual funds
-defined in [Article 9, Section 2](#section-2-virtual-funds).
+the incoming Student Government who, within a month after Transition Day,
+amends or approves Allocation Order 0 to establish a budget for their session
+of Student Government. Allocation Order 0 appropriates money for the virtual
+funds defined in [Article 9, Section 2](#section-2-virtual-funds).
 
 #### Section 7. A Service to the Community.
 
@@ -77,8 +79,8 @@ compensated for their time in office.
 
 #### Section 1. Composition.
 
-The Council of Olin Representatives is comprised of three executive officers and
-ten representatives, each of whom have one full vote on the Council and the
+The Council of Olin Representatives is comprised of three executive officers
+and ten representatives, each of whom have one full vote on the Council and the
 Student Government. The executive officers are:
 
 1. the President
@@ -139,9 +141,9 @@ account.
 
 #### Section 3. Specialized Representatives.
 
-There are five Specialized Representatives who represent the entire Student Body
-and meet directly with members of the President’s Cabinet of the College. Each
-Specialized Representative:
+There are five Specialized Representatives who represent the entire Student
+Body and meet directly with members of the President’s Cabinet of the College.
+Each Specialized Representative:
 
 1. becomes familiar with the operations and policies of their relevant
    Administrative Department(s),
@@ -253,7 +255,8 @@ Resolutions. All Official Actions of the Council may be passed with the approval
 of a majority of the voting members present with the exception of Committee
 Appointments which are completed using approval voting and Allocation Orders of
 the Discretionary Fund or the Class Funds which may be approved by a smaller
-subsection of the Council as defined in [Article 2, Sections 11](#section-11-discretionary-fund)
+subsection of the Council as defined in
+[Article 2, Sections 11](#section-11-discretionary-fund)
 [and 12](#section-12-class-funds)
 respectively. All Official Actions of the Council are recorded with a unique
 identifier.
@@ -405,7 +408,7 @@ Week activities.
 
 The composition, purpose, operation, and powers of the Honor Board are detailed
 in the Honor Code. Additional powers may be allotted to them in the
-Constitution and By-Laws of the Student Government.
+Constitution and Bylaws of the Student Government.
 
 #### Section 2. Honor Board Budget.
 
@@ -416,7 +419,8 @@ with joint approval.
 
 #### Section 1. Function.
 
-Pursuant to its mission, as defined in the Constitution ([Article 6, Section 1](constitution.md#section-1-mission-1)),
+Pursuant to its mission, as defined in the Constitution
+([Article 6, Section 1](constitution.md#section-1-mission-1)),
 the Student Activities Committee plans and executes campus-wide events,
 facilitates club events as requested, and maintains a public calendar of events.
 The Committee holds events of interest to the Student Body.
@@ -479,7 +483,8 @@ Finance once per week broken down by event.
 
 #### Section 1. Function.
 
-Pursuant to its mission, as defined in the Constitution ([Article 7, Section 1](constitution.md#section-1-mission-2)),
+Pursuant to its mission, as defined in the Constitution
+([Article 7, Section 1](constitution.md#section-1-mission-2)),
 the Committee for Clubs and Organizations allocates organization budgets
 annually and allocates funds to clubs upon request.
 
@@ -642,7 +647,8 @@ new members. They also organize additional club fairs as needed.
 
 #### Section 1. Function.
 
-Pursuant to its mission, as defined in the Constitution ([Article 8, Section 1](constitution.md#section-1-mission-3)),
+Pursuant to its mission, as defined in the Constitution
+([Article 8, Section 1](constitution.md#section-1-mission-3)),
 the Committee for Supporting, Encouraging, and Recognizing Volunteerism oversees
 the direction, continuity, and ongoing health of community service at the
 College. The Committee allocates service related organization budgets annually
@@ -829,8 +835,8 @@ follows:
 **Election Monitor.** The Election Monitor facilitates all Student Government
 elections occurring in a particular election season or special election. The
 Election Monitor creates all necessary ballots and distributes candidate
-information as outlined in the By-Laws. The Election Monitor enforces
-campaigning rules and guidelines defined in the By-Laws, and serves as the final
+information as outlined in the Bylaws. The Election Monitor enforces
+campaigning rules and guidelines defined in the Bylaws, and serves as the final
 authority on campaigning restrictions. The Election Monitor counts the ballots,
 and the results of the election are not final until the Election Monitor
 validates them.
@@ -1116,9 +1122,9 @@ whether or not to approve the amendment. The Vice President for Communications
 sends an announcement describing the outcome of the meeting to the entire
 Student Body within 24 hours of the close of the meeting.
 
-#### Section 2. Amending the By-Laws.
+#### Section 2. Amending the Bylaws.
 
-Any member of the Student Body may propose an amendment to the By-Laws by
+Any member of the Student Body may propose an amendment to the Bylaws by
 presenting the amendment in written form to any voting member of the Student
 Government at least one week in advance of the meeting of the Student
 Government at which the author would like the amendment to be addressed.
@@ -1134,14 +1140,14 @@ Government during the meeting.
 When discussion has concluded, the President calls for a vote on the amendment.
 Per the Student Government Constitution, approval of 75% of the voting members
 of the Student Government is required to pass the amendment. The Vice President
-for Communications sends an announcement detailing any changes to the By-Laws
+for Communications sends an announcement detailing any changes to the Bylaws
 and describing the outcome of the meeting to the entire Student Body within 24
 hours of the close of the meeting.
 
 #### Section 3. Referendum.
 
 If working through the Student Government yields no result, any member of the
-Student Body may propose an amendment to either the Constitution or the By-Laws
+Student Body may propose an amendment to either the Constitution or the Bylaws
 and bypass approval of the Student Government by presenting to the President of
 the Student Government the amendment in written form accompanied by the
 supporting signatures of at least 10% of the Student Body.
@@ -1158,7 +1164,7 @@ The President of the Student Government may call a Town Meeting to hold a
 community discussion, to update the Student Body on the activities of the
 Student Government or the Administration, to vote on an amendment to the
 Constitution, or, in the case of Referendum, to vote on an amendment to the
-By-Laws.
+Bylaws.
 
 Town Meetings where a vote is held to amend a Governing Document require quorum
 of one half of the Student Body. Amendments may not be changed during Town
@@ -1192,7 +1198,8 @@ members of the Student Government, and are as follows:
 
 **The List of Official Actions.** This document contains a record of every
 Official Action of the Student Government and the Council of Olin
-Representatives, which are described in [Article 1, Section 4](#section-4-official-actions)
+Representatives, which are described in
+[Article 1, Section 4](#section-4-official-actions)
 and [Article 2, Section 8](#section-8-official-actions) respectively. The list
 is in reverse-chronological order (with the most recent Official Action at the
 top), and contains the full text of every Official Action, as well as a brief
@@ -1202,11 +1209,12 @@ summary of the action if necessary.
 and officers or appointees of all student clubs and organizations, branches
 of the student government, administrative committees, and project teams.
 
-**The Report on the Student Activities Fund.** As described in [Article 2, Section 2](#section-2-executives),
-The Vice President for Finance creates a State of the Student Activities Fund
-report once per semester. A copy of this semesterly report is added to an
-ongoing Report on the Student Activities Fund, which is in reverse-chronological
-order (with the most recent report at the top).
+**The Report on the Student Activities Fund.** As described in
+[Article 2, Section 2](#section-2-executives), The Vice President for Finance
+creates a State of the Student Activities Fund report once per semester. A copy
+of this semesterly report is added to an ongoing Report on the Student
+Activities Fund, which is in reverse-chronological order (with the most recent
+report at the top).
 
 **The Meeting Minutes.** Each meeting of the Student Government and its
 Committees, including Town Meetings, have minutes detailing the topics discussed
