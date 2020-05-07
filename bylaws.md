@@ -164,12 +164,9 @@ liaises with the College’s Vice President for Operations and Chief Information
 Officer and follows all actions and initiatives related to student dining,
 facilities, or information technology at the College.
 
-**Representative to Marketing and Communications and Development, Family, and
-Alumni Relations.** The Representative to Marketing and Communications, and
-Development, Family, and Alumni Relations liaises with the College’s Chief
-Marketing Officer and Vice President of Development, Family, and Alumni
-Relations and follows all actions and initiatives happening in their respective
-departments.
+**Representative to Advancement.** The Representative to Advancement liaises 
+with the College’s Vice President for Advancement and follows all actions and
+initiatives associated with the department.
 
 **Representative to Admissions and the Office of Student Affairs and
 Resources.** The Representative to Admissions and the Office of Student Affairs
@@ -900,8 +897,7 @@ occurs immediately following the first spring election cycle:
 2. Assistant Director of Clubs and Organizations
 3. Assistant Director of Service
 4. Representative for Campus Services
-5. Representative to Marketing and Communications, and Development, Family, and
-   Alumni Relations
+5. Representative to Advancement
 6. Representative to the Office of Student Affairs and Resources, and
    Admissions
 7. Representative for Curriculum and Faculty
