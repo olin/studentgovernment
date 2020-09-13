@@ -34,7 +34,7 @@
 # Commmittee for Clubs and Organizations (CCO)
 **Director**: [Argyris Kriezis](mailto:akriezis@olin.edu)
 
-**Assistant Director**: TBD
+**Assistant Director**: [Olivia Jo Bradley](mailto:obradley@olin.edu)
 
 # Committee for Supporting, Encouraging, and Recognizing Volunteerism (SERV) 
 **Director**: [Grace Montagnino](mailto:gmontagnino@olin.edu)
