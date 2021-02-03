@@ -3,12 +3,12 @@
 ## Executive Board
 **President**: [Shreya Chowdhary](mailto:schowdhary@olin.edu)
 
-**Vice President for Communications**: [Riya Aggarwal](mailto:raggarwal@olin.edu)
+**Vice President for Communications**: [Mia Skaggs](mailto:mskaggs@olin.edu)
 
 **Vice President for Finances**: [Meg Ku](mailto:mku@olin.edu)
 
 ## Special Representatives
-**Representative for Campus Services**: [Antoinette Tan](mailto:atan@olin.edu)
+**Representative for Campus Services**: [Ishaan Oberoi](mailto:ioberoi@olin.edu)
 
 **Representative for Advancement**: [Maya Al-Ahmad](mailto:mahmad1@olin.edu)
 
@@ -42,7 +42,7 @@
 **Assistant Director**: [Esme Abbot](mailto:eabbot@olin.edu)
 
 # Student Activities Committee (SAC)
-**Director**: [Rishita Sarin](mailto:rsarin@olin.edu)
+**Director**: [Oscar de la Garza](mailto:odelagarza@olin.edu)
 
 **Assistant Director**: [Berwin Lan](mailto:blan@olin.edu)
 
@@ -53,7 +53,7 @@
 
 **General Members**:
 * Co21 Member: [Quinn Kelley](mailto:quinn.kelley@students.olin.edu)
-* Co22 Member: TBD
+* Co22 Member: [Manu Patil](mailto:mpatil@olin.edu)
 * Co23 Member: [Andrew Mascillaro](mailto:amascillaro@olin.edu)
 * Co24 Member: [Jaclyn Ho](mailto:jho2@olin.edu)
 * General Member: [Andrew Chang](mailto:achang1@olin.edu)
