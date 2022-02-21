@@ -93,8 +93,7 @@ representatives include:
 
 1. a Representative for Campus Services
 2. a Representative to Advancement
-3. a Representative to Admissions and the Office of Student Affairs and
-   Resources
+3. a Representative to the Office of Admission and Financial Aid and the Office of Student Affairs and Resources
 4. a Representative for Curriculum and Faculty
 5. a Representative for Intercollegiate Affairs
 
@@ -168,11 +167,7 @@ facilities, or information technology at the College.
 with the College’s Vice President for Advancement and follows all actions and
 initiatives associated with the department.
 
-**Representative to Admissions and the Office of Student Affairs and
-Resources.** The Representative to Admissions and the Office of Student Affairs
-and Resources liaises with the Dean of Student Life and the Dean of Admissions
-and follows all actions and initiatives happening in their respective
-departments.
+**Representative to the Office of Admission and Financial Aid and the Office of Student Affairs and Resources.** The Representative to the Office of Admission and the Office of Student Affairs and Resources liaises with the Dean of the College and the Dean of Admission and Financial Aid and follows all actions and initiatives happening in their respective departments.
 
 **Representative for Curriculum and Faculty.** The Representative for
 Curriculum and Faculty liaises with the Associate Dean of Curriculum, the
@@ -898,8 +893,7 @@ occurs immediately following the first spring election cycle:
 3. Assistant Director of Service
 4. Representative for Campus Services
 5. Representative to Advancement
-6. Representative to the Office of Student Affairs and Resources, and
-   Admissions
+6. Representative to the Office of Admission and Financial Aid and the Office of Student Affairs and Resources
 7. Representative for Curriculum and Faculty
 8. Representative for Intercollegiate Affairs
 9. Senior Class Representative
