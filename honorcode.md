@@ -255,9 +255,28 @@ vote of the voting members of the Hearing Panel who do not abstain from
 voting). The Hearing Panel shall include in the materials it submits to the
 Dean of Student Affairs a brief written summary of the Reported’s response,
 if given.
+
 #### Appeals
-Requests for appeal may be made to the Dean of Student Affairs on the following
-grounds:
+Upon conclusion of an Honor Board hearing and delivery of the outcome to the
+parties involved, the Reported and/or Reporter may appeal a “finding of responsibility” or
+“sanctions” by writing via email to the Dean of Student Affairs within one
+business day following the delivery of the outcome of the hearing. The Appeal
+letter must clearly state the grounds and rationale for the Appeal. Once
+received, the Dean of Student Affairs will convene an Appeals Board. The
+members of the Appeals Board will be the Faculty Representative to the Honor
+Board, the Staff Representative to the Honor Board, and a student member of the
+Honor Board determined by the Honor Board Leadership. None of the Appeals
+Board members will have been involved in the adjudication of the Case being
+appealed. The Dean may appoint new members to the panel in the event of a
+conflict or add members as needed. In the latter case, this may result in more
+than three voting members on the Appeals Board.
+
+The purpose of the Appeals Board is to review all information available
+pertaining to hearings and proceedings that led to the Appeal to ensure that
+these were conducted according to the established judicial procedures. The
+Appeals Board will not substitute its own judgment for a “finding of
+responsibility” or “sanctions”. Requests for appeal may be made to the Dean
+of Student Affairs on the following grounds:
 1. Procedural error;
 2. New evidence that was not reasonably available at the time of the Hearing
 that could change the outcome of the Hearing;
@@ -266,23 +285,6 @@ of the Case.
 
 Disagreement with the finding(s) or Sanction(s) is not, by itself, grounds for
 Appeal.
-
-Upon conclusion of a Hearing and delivery of the outcome to the parties
-involved, the Reported and/or Reporter may appeal a finding of Responsibility
-or Sanction(s) by written statement to the Dean of Student Affairs within one
-business day. The Appeal letter must clearly state the grounds and rationale
-for the Appeal. Once received, the Dean of Student Affairs will convene an
-Appeals Board and notify the Reporter, Reported and Aggrieved Parties. The
-members of the Appeals Board will be the Faculty Representative to the Honor
-Board, the Staff Representative to the Honor Board, and a student member of the
-Honor Board determined by the Honor Board Leadership. None of the Appeals Board
-members will have been involved in the adjudication of the Case being appealed.
-The Dean of Student Affairs may appoint new members to the Appeals Board as
-needed or in the event of a conflict of interest. This may result in more than
-three voting members on the Appeals Board.
-
-The Appeals Board will not substitute its own judgment for a finding of
-Responsibility or Sanction(s).
 
 The Appeals Board may rule in one of three ways:
 1. They may recommend a new Hearing before a new Hearing Panel.
@@ -316,7 +318,8 @@ In the event that a faculty or staff member identifies a violation of academic
 integrity, the faculty or staff member and the Reported will work independently
 to develop an appropriate Sanction. A summary of the violation and resolution
 is submitted to the Honor Board Leadership for reviewing and recording.
-# 5. AMENDMENTS
+
+## 5. AMENDMENTS
 Within a month of the start of every academic year, a town hall must be called
 to ratify and/or amend the Honor Code for that academic year.
 
@@ -348,8 +351,7 @@ will take effect immediately. In order to reinstate the Honor Code, a proposal
 must be submitted to the Student Affairs Office, which will put the issue to a
 student vote, as per the policies of the Student Affairs Office.
 
-# Related Policies and Processes
-## ARTICULATION WITH BABSON COLLEGE, WELLESLEY COLLEGE AND BRANDEIS UNIVERSITY STUDENT JUDICIAL SYSTEMS
+## 6. ARTICULATION WITH BABSON COLLEGE, WELLESLEY COLLEGE AND BRANDEIS UNIVERSITY STUDENT JUDICIAL SYSTEMS
 Olin College has agreed with Babson College and Brandeis University to enforce
 their respective conduct standards when their students participate in academic,
 Co-Curricular and extracurricular pursuits on the neighboring (host) campuses.
@@ -380,54 +382,3 @@ http://www.babson.edu/student-life/community-standards/Pages/home.aspx
 
 Brandeis Student Rights and Community Standards:
 http://www.brandeis.edu/studentlife/srcs/index.html
-
-## APPEALS PROCESS
-Upon conclusion of an Honor Board hearing and delivery of the outcome to the
-parties involved, students may appeal a “finding of responsibility” or
-“sanctions” by writing via email to the Dean of Student Affairs within one
-business day following the delivery of the outcome of the hearing. The appeal
-letter must clearly state the grounds and rationale for the appeal. Once
-received, the Dean of Student Affairs will convene an Appeals Board. The
-members of the Appeals Board will be the faculty representative to the Honor
-Board, the staff representative to the Honor Board, and either a student member
-of the Honor Board or the Title IX deputy coordinator. None of the Appeals
-Board members will have been involved in the adjudication of the case being
-appealed. The Title IX deputy coordinator will sit in on cases of sexual
-misconduct and assault. A student member of the Honor Board will sit in on all
-other appeals. The Dean may appoint new members to the panel in the event of a
-conflict or add members as needed. In the latter case, this may result in more
-than three voting members on the Appeals Board.
-
-The purpose of the Appeals Board is to review all information available
-pertaining to hearings and proceedings that led to the appeal to ensure that
-these were conducted according to the established judicial procedures. The
-Appeals Board will not substitute its own judgment for a “finding of
-responsibility” or “sanctions”. Requests for appeal may be made to the Dean
-of Student Affairs on the following grounds:
-1. Procedural error;
-2. New evidence that was not reasonably available at the time of the hearing
-that could change the outcome of the hearing;
-3. Belief that the severity of the sanction is inappropriate given the details
-of the case.
-
-Disagreement with the finding or sanctions is not, by itself, grounds for
-appeal.
-
-The Appeals Board may rule in one of three ways:
-1. They may recommend a new hearing before a new hearing panel.
-2. They may recommend the case go back to the original hearing panel for
-further review for reasons such as new evidence that was not available during
-the original hearing.
-3. They may recommend that the appeal be denied.
-
-If the appeal is denied, the sanctions will be imposed and the college will
-consider the case closed. The Appeals Board must inform the Dean of Student
-Affairs about the outcome of the appeal deliberations within 10 business days
-of the written appeal being received. The Dean of Student Affairs will notify
-the student(s) in writing of the outcome of the appeal within 2 business days
-of receiving the outcome from the Appeals Board.
-Barring any extraordinary circumstances, if a request for appeal is filed
-sanctions resulting from the case will typically be put on hiatus and not
-implemented until after the appeal is resolved. If an emergency suspension or
-dismissal has been administered, the student must leave campus and remain off
-campus during the appeal process.
