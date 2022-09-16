@@ -5,14 +5,14 @@
 
 **Vice President for Communications**: [Emma Fox](mailto:efox@olin.edu)
 
-**Vice President for Finances**: TBD
+**Vice President for Finances**: [Solomiia Kachur](mailto:skachur@olin.edu)
 
 ## Special Representatives
 **Representative for Campus Services**: TBD
 
-**Representative for Advancement**: TBD
+**Representative for Advancement**: [Trinity Lee](mailto:tlee1@olin.edu)
 
-**Representative to the Offices of Student Affairs and Resources (StAR) & Admission and Financial Aid (OAFA)**: TBD
+**Representative to the Offices of Student Affairs and Resources (StAR) & Admission and Financial Aid (OAFA)**: [Angela Huang](mailto:ahuang3@olin.edu)
 
 **Representative for Intercollegiate Affairs**: TBD
 
@@ -23,18 +23,18 @@
 
 **Senior Class Activities Representative**: [Rishita Sarin](mailto:rsarin@olin.edu)
 
-**Junior Class Representative**: TBD
+**Junior Class Representative**: [Luke Raus](mailto:lraus@olin.edu)
 
 **Sophomore Class Representative**: [Ellie Ramos](mailto:eramos@olin.edu)
 
-**First Year Class Representative**: TBD
+**First Year Class Representative**: [Camden Droz](mailto:cdroz@olin.edu)
 
-**First Year Class Representative**: TBD
+**First Year Class Representative**: [Dexter Friis-Hecht](mailto:dfriishecht@olin.edu)
 
 # Commmittee for Clubs and Organizations (CCO)
 **Director**: [Aditi Vinod](mailto:avinod@olin.edu)
 
-**Assistant Director**: 
+**Assistant Director**: [Jaclyn Ho](mailto:jho2@olin.edu)
 
 # Committee for Supporting, Encouraging, and Recognizing Volunteerism (SERV) 
 **Director**: [Andrew DeCandia](mailto:adecandia@olin.edu)
@@ -44,7 +44,7 @@
 # Student Activities Committee (SAC)
 **Director**: [Ishaan Oberoi](mailto:ioberoi@olin.edu)
 
-**Assistant Director**: TBD
+**Assistant Director**: [Anagha Babu](mailto:ababu@olin.edu)
 
 # Honor Board
 **Chair**: [Andrew Mascillaro](mailto:amascillaro@olin.edu)
