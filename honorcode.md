@@ -38,10 +38,10 @@ College.
 I will be receptive to change, supportive of innovation, and willing to take
 risks for the benefit of the community.
 ### 3.5 Do Something
-I will strive to better myself and my community and take responsibility for my
-own behavior. When I become aware of a violation of the Honor Code or an issue
-within the community, I will take action towards resolution of the situation. I
-expect others to do the same.
+I strive to be an active advocate for the wellbeing of my community. I will
+seek to understand and then act on issues I perceive around me that are specific
+to both Olin and beyond. I will engage in open, self-reflective discussion with
+my peers and support them in their efforts to do the same.
 ## 4. HONOR CODE PROCEDURES
 ### 4.1 Procedural definitions
 
