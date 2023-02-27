@@ -38,7 +38,7 @@ College.
 I will be receptive to change, supportive of innovation, and willing to take
 risks for the benefit of the community.
 ### 3.5 Do Something
-I strive to be an active advocate for the wellbeing of my community. I will
+I will strive to be an active advocate for the wellbeing of my community. I will
 seek to understand and then act on issues I perceive around me that are specific
 to both Olin and beyond. I will engage in open, self-reflective discussion with
 my peers and support them in their efforts to do the same.
