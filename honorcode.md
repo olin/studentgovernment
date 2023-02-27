@@ -67,7 +67,8 @@ responsibility hearings and sanction setting hearings.
 have been trained in the Honor Board procedures and feel comfortable in their
 skills to hear a case that comes to the Board.
 
-*Facilitation Team*: The Facilitation Team consists of the Adviser and two
+*Facilitation Team*: The Facilitation Team consists of either the Adviser, the
+Staff Representative, or the Faculty Representative along with two
 members of the Honor Board that facilitate report proceedings. Their goal is to
 ensure that proceedings are conducted in a responsible and timely manner per
 the Honor Code.
