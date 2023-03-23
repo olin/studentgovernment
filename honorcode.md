@@ -38,10 +38,10 @@ College.
 I will be receptive to change, supportive of innovation, and willing to take
 risks for the benefit of the community.
 ### 3.5 Do Something
-I will strive to better myself and my community and take responsibility for my
-own behavior. When I become aware of a violation of the Honor Code or an issue
-within the community, I will take action towards resolution of the situation. I
-expect others to do the same.
+I will strive to be an active advocate for the well-being of my community. I will
+seek to understand, and then act on, issues I perceive around me that are specific
+to both Olin and beyond. I will engage in open, self-reflective discussion with
+my peers and support them in their efforts to do the same.
 ## 4. HONOR CODE PROCEDURES
 ### 4.1 Procedural definitions
 
@@ -51,23 +51,24 @@ involvement includes a staff representative, a faculty representative, and an
 Adviser to the Honor Board.
 
 *Honor Board Leadership*: The Honor Board Leadership consists of the Chair,
-Vice Chair, and the Adviser. The Chair does administrative tasks and works with
-the rest of the Honor Board to assist in hearing and administrative processes.
-The Vice Chair assists the Chair in their duties. The Chair is a voting member
-of the Student Government. The Adviser is the Dean of Student Affairs or their
-designee.
+Vice Chair, and the Adviser of the Honor Board. The Chair does administrative
+tasks and works with the rest of the Honor Board to assist in hearing and
+administrative processes. The Vice Chair assists the Chair in their duties.
+The Chair is a voting member of the Student Government. The Adviser is the
+Dean of the College or their designee.
 
 *Hearing Panel*: The Hearing Panel consists of four persons selected by the
 Facilitation Team, Chair, and Vice Chair from the appropriately trained members
-of the Hearing Panel Pool. The Hearing Panel recommends sanctions and the Dean
-of Student Life approves/modifies/waives sanction as they see fit in
+of the Hearing Panel Pool. The Hearing Panel recommends sanctions and the Adviser
+to the Honor Board approves/modifies/waives sanction as they see fit in
 responsibility hearings and sanction setting hearings.
 
 *Hearing Panel Pool*: The Hearing Panel Pool is a set of enrolled students who
 have been trained in the Honor Board procedures and feel comfortable in their
 skills to hear a case that comes to the Board.
 
-*Facilitation Team*: The Facilitation Team consists of the Adviser and two
+*Facilitation Team*: The Facilitation Team consists of either the Adviser, the
+Staff Representative, or the Faculty Representative along with two
 members of the Honor Board that facilitate report proceedings. Their goal is to
 ensure that proceedings are conducted in a responsible and timely manner per
 the Honor Code.
@@ -90,7 +91,7 @@ Academic”.
 policies or procedures excluding reports of violations of Title IX, which
 should be submitted as a report to the Title IX Coordinator and/or relevant
 authorities. Please visit this link to report a Title IX violation:
-(http://www.olin.edu/academic-life/student-affairs-and-resources/sexual-misconduct-info/).
+(https://www.olin.edu/academic-life/student-affairs-and-resources/sexual-misconduct-info/).
 
 *Streamlined Academic Report*: Reports of an academic violation where a
 conclusion has been reached and is sent to the Honor Board for review.
@@ -124,6 +125,11 @@ purpose is to ensure that such proceedings were conducted according to the
 established procedures as written in the Honor Code and, if it is determined
 that procedures were not followed accordingly, to send the case back to the
 Honor Board for further review.
+
+*Adviser to the Honor Board*: A member of the Olin community who attends Honor Board
+meetings and is a member of the Appeals Board. They have access to all honor
+board cases and are the primary point of contact for working with the Honor Board.
+This role is filled by the Dean of the College or their designee.
 
 *Faculty Representative*: A member of the faculty who attends Honor Board
 meetings and is a member of the Appeals Board.
@@ -163,7 +169,7 @@ Coordinator, civil or criminal courts, etc. are not bound to the same process
 as outlined herein.
 #### Report
 In order to submit a report to the Honor Board for review, any Olin community
-member  can file a report form that is received by the Chair, Vice Chair, or
+member can file a report form that is received by the Chair, Vice Chair, or
 Adviser to the Honor Board. The details of the layout and content of the
 report form are subject to the determination of the current Honor Board. At
 minimum, the Report cites a violation of at least one of either the Honor Code
@@ -207,8 +213,8 @@ defined in Section 4.1. The faculty and/or staff representatives to the Honor
 Board may be present at hearings, though their presence is not required and
 they hold no decision-making power. If the Honor Board is unable to meet its
 obligations in a timely fashion due to scheduling conflicts, disqualifications,
-or other reasons that the Dean of Student Affairs determines may compromise its
-effectiveness, the Dean may appoint an ad hoc Facilitation Team.
+or other reasons that the Adviser to the Honor Board determines may compromise its
+effectiveness, the Adviser to the Honor Board may appoint an ad hoc Facilitation Team.
 
 Upon formation of the Hearing Panel the Facilitation Team will deliver the
 charges to the Reported and the Reported will be given the opportunity to
@@ -248,26 +254,26 @@ Sanction Setting Hearing.
 The Hearing Panel may request and/or review recommendations for Sanction(s)
 from the Reported, the Aggrieved Parties, and the Reporter. The Reported may
 respond to the Hearing Panel’s recommended Sanction(s) prior to the close of
-the Hearing. The Dean of Student Affairs shall review sanctions recommended by
+the Hearing. The Adviser to the Honor Board shall review sanctions recommended by
 the Hearing Panel. Decisions shall be based solely upon evidence and testimony
 introduced at the Hearing(s) and shall be made by consensus (i.e., unanimous
 vote of the voting members of the Hearing Panel who do not abstain from 
 voting). The Hearing Panel shall include in the materials it submits to the
-Dean of Student Affairs a brief written summary of the Reported’s response,
+Adviser to the Honor Board a brief written summary of the Reported’s response,
 if given.
 
 #### Appeals
 Upon conclusion of an Honor Board hearing and delivery of the outcome to the
 parties involved, the Reported and/or Reporter may appeal a “finding of responsibility” or
-“sanctions” by writing via email to the Dean of Student Affairs within one
+“sanctions” by writing via email to the Adviser to the Honor Board within one
 business day following the delivery of the outcome of the hearing. The Appeal
 letter must clearly state the grounds and rationale for the Appeal. Once
-received, the Dean of Student Affairs will convene an Appeals Board. The
+received, the Adviser to the Honor Board will convene an Appeals Board. The
 members of the Appeals Board will be the Faculty Representative to the Honor
 Board, the Staff Representative to the Honor Board, and a student member of the
 Honor Board determined by the Honor Board Leadership. None of the Appeals
 Board members will have been involved in the adjudication of the Case being
-appealed. The Dean may appoint new members to the panel in the event of a
+appealed. The Adviser may appoint new members to the panel in the event of a
 conflict or add members as needed. In the latter case, this may result in more
 than three voting members on the Appeals Board.
 
@@ -275,8 +281,8 @@ The purpose of the Appeals Board is to review all information available
 pertaining to hearings and proceedings that led to the Appeal to ensure that
 these were conducted according to the established judicial procedures. The
 Appeals Board will not substitute its own judgment for a “finding of
-responsibility” or “sanctions”. Requests for appeal may be made to the Dean
-of Student Affairs on the following grounds:
+responsibility” or “sanctions”. Requests for appeal may be made to the Adviser
+to the Honor Board on the following grounds:
 1. Procedural error;
 2. New evidence that was not reasonably available at the time of the Hearing
 that could change the outcome of the Hearing;
@@ -294,9 +300,9 @@ the original Hearing.
 3. They may recommend that the Appeal be denied.
 
 If the Appeal is denied, the Sanction(s) will be imposed and the college will
-consider the Case closed. The Appeals Board must inform the Dean of Student
-Affairs about the outcome of the Appeal deliberations within 10 business days
-of the written Appeal being received. The Dean of Student Affairs will notify,
+consider the Case closed. The Appeals Board must inform the Adviser to the Honor
+Board about the outcome of the Appeal deliberations within 10 business days
+of the written Appeal being received. The Adviser to the Honor Board will notify,
 in writing, the Reporter, the Reported, and Aggrieved Parties of the outcome of
 the Appeal within 2 business days of receiving the outcome from the Appeals
 Board.
@@ -309,8 +315,8 @@ campus during the Appeal process.
 
 #### Failure to Comply with Sanction(s)
 If the student fails to comply with sanctions, the Honor Board Chair and Vice
-Chair will determine if a noncompliance hearing (which is handled by the Dean
-of Student Affairs) is needed or if the Dean of Student Affairs is granted
+Chair will determine if a noncompliance hearing (which is handled by the Adviser
+to the Honor Board) is needed or if the Adviser to the Honor Board is granted
 authority to setup a separate process.
 
 #### Streamlined Academic Report
@@ -346,10 +352,11 @@ secret ballot on whether or not to abolish the Honor Code. If neither choice
 receives the vote of more than 50% of the student body the Honor Code remains
 in effect.
 
-If the Honor Code is abolished, policies drafted by the Student Affairs Office
-will take effect immediately. In order to reinstate the Honor Code, a proposal
-must be submitted to the Student Affairs Office, which will put the issue to a
-student vote, as per the policies of the Student Affairs Office.
+If the Honor Code is abolished, policies drafted by the Student Affairs and
+Resources Office will take effect immediately. In order to reinstate the Honor
+Code, a proposal must be submitted to the Student Affairs Office, which will
+put the issue to a student vote, as per the policies of the Student Affairs
+and Resources Office.
 
 ## 6. ARTICULATION WITH BABSON COLLEGE, WELLESLEY COLLEGE AND BRANDEIS UNIVERSITY STUDENT JUDICIAL SYSTEMS
 Olin College has agreed with Babson College and Brandeis University to enforce
@@ -375,10 +382,10 @@ standards of conduct.
 
 For more information:
 The Wellesley Honor Code:
-http://new.wellesley.edu/studentlife/aboutus/honor
+https://wellesley.edu/studentlife/aboutus/honor
 
 The Babson Community Standards:
-http://www.babson.edu/student-life/community-standards/Pages/home.aspx
+https://www.babson.edu/student-life/community-standards/Pages/home.aspx
 
 Brandeis Student Rights and Community Standards:
-http://www.brandeis.edu/studentlife/srcs/index.html
+https://www.brandeis.edu/studentlife/srcs/index.html
