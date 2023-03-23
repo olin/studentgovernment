@@ -38,8 +38,8 @@ College.
 I will be receptive to change, supportive of innovation, and willing to take
 risks for the benefit of the community.
 ### 3.5 Do Something
-I will strive to be an active advocate for the wellbeing of my community. I will
-seek to understand and then act on issues I perceive around me that are specific
+I will strive to be an active advocate for the well-being of my community. I will
+seek to understand, and then act on, issues I perceive around me that are specific
 to both Olin and beyond. I will engage in open, self-reflective discussion with
 my peers and support them in their efforts to do the same.
 ## 4. HONOR CODE PROCEDURES
@@ -91,7 +91,7 @@ Academic”.
 policies or procedures excluding reports of violations of Title IX, which
 should be submitted as a report to the Title IX Coordinator and/or relevant
 authorities. Please visit this link to report a Title IX violation:
-(http://www.olin.edu/academic-life/student-affairs-and-resources/sexual-misconduct-info/).
+(https://www.olin.edu/academic-life/student-affairs-and-resources/sexual-misconduct-info/).
 
 *Streamlined Academic Report*: Reports of an academic violation where a
 conclusion has been reached and is sent to the Honor Board for review.
@@ -382,10 +382,10 @@ standards of conduct.
 
 For more information:
 The Wellesley Honor Code:
-http://wellesley.edu/studentlife/aboutus/honor
+https://wellesley.edu/studentlife/aboutus/honor
 
 The Babson Community Standards:
-http://www.babson.edu/student-life/community-standards/Pages/home.aspx
+https://www.babson.edu/student-life/community-standards/Pages/home.aspx
 
 Brandeis Student Rights and Community Standards:
-http://www.brandeis.edu/studentlife/srcs/index.html
+https://www.brandeis.edu/studentlife/srcs/index.html
