@@ -1,57 +1,60 @@
 # Council of Olin Representatives (CORe)
 
 ## Executive Board
-**President**: [Efe Cemal Gulcu](mailto:egulcu@olin.edu)
+**President**: [Leslie Bostwick](mailto:lbostwick@olin.edu)
 
-**Vice President for Communications**: [Emma Fox](mailto:efox@olin.edu)
+**Vice President for Communications**: [Dakota Change](mailto:schang2@olin.edu)
 
-**Vice President for Finances**: [Solomiia Kachur](mailto:skachur@olin.edu)
+**Vice President for Finances**: [Kenneth Xiong](mailto:kxiong@olin.edu)
 
 ## Special Representatives
-**Representative for Campus Services**: TBD
+**Representative for Campus Services**: [Ike Walker](mailto:iwalker@olin.edu)
 
-**Representative for Advancement**: [Trinity Lee](mailto:tlee1@olin.edu)
+**Representative for OSCOM & OEPP**: TBD
 
-**Representative to the Offices of Student Affairs and Resources (StAR) & Admission and Financial Aid (OAFA)**: [Angela Huang](mailto:ahuang3@olin.edu)
+**Representative to the Offices of Student Affairs and Resources (StAR) & Admission and Financial Aid (OAFA)**: TBD
 
-**Representative for Intercollegiate Affairs**: TBD
+**Representative for Babson, Olin, Wellesley (BOW)**: [Satchel Sevenau](mailto:ssevenau@olin.edu)
 
-**Representative for Faculty and Curriculum**: [Bahar Maghbouleh](mailto:bmaghbouleh@olin.edu)
+**Representative for Faculty and Curriculum**: [Malvina Clavering](mailto:mclavering@olin.edu)
 
 ## Class Representatives
-**Senior Class Representative**: [Isabel Serrato](mailto:iserrato@olin.edu)
+**Senior Class Representative**: [Ayush Chakraborty](mailto:achakraborty@olin.edu)
 
-**Senior Class Activities Representative**: [Rishita Sarin](mailto:rsarin@olin.edu)
+**Senior Class Activities Representative**: [Suki Sacks](mailto:nsacks@olin.edu)
 
-**Junior Class Representative**: [Luke Raus](mailto:lraus@olin.edu)
+**Junior Class Representative**: [Satchel Schiavo](mailto:sschiavo@olin.edu)
 
-**Sophomore Class Representative**: [Ellie Ramos](mailto:eramos@olin.edu)
+**Sophomore Class Representative**: TBD
 
-**First Year Class Representative**: [Camden Droz](mailto:cdroz@olin.edu)
+**First Year Class Representative**: TBD
 
-**First Year Class Representative**: [Dexter Friis-Hecht](mailto:dfriishecht@olin.edu)
+**First Year Class Representative**: TBD
 
-# Commmittee for Clubs and Organizations (CCO)
-**Director**: [Aditi Vinod](mailto:avinod@olin.edu)
+# Club Council (CC)
+**Director**: [Miriam Rich](mailto:mrich1@olin.edu)
 
-**Assistant Director**: [Jaclyn Ho](mailto:jho2@olin.edu)
+**Assistant Director**: [Azzy Zeigler](mailto:azeigler@olin.edu)
 
 # Committee for Supporting, Encouraging, and Recognizing Volunteerism (SERV) 
-**Director**: [Andrew DeCandia](mailto:adecandia@olin.edu)
+**Director**: [Bill Le](mailto:cle@olin.edu)
 
-**Assistant Director**: [Isabel de Luis](mailto:ideluis@olin.edu)
+**Assistant Director**: [Rohan Bendapudi](mailto:rbendapudi@olin.edu)
 
 # Student Activities Committee (SAC)
-**Director**: [Ishaan Oberoi](mailto:ioberoi@olin.edu)
+**Director**: [Diana Garcia](mailto:dgarcia@olin.edu)
 
-**Assistant Director**: [Anagha Babu](mailto:ababu@olin.edu)
+**Assistant Director**: [Amia Georges](mailto:ageorges2@olin.edu)
 
 # Honor Board
-**Chair**: [Andrew Mascillaro](mailto:amascillaro@olin.edu)
+**Chair**: [Sam Wisnoski](mailto:swisnoski@olin.edu)
 
-**Vice Chair**: [Neel Dhulipala](mailto:ndhulipala@olin.edu)
+**Vice Chair**: TBD
 
 **General Members**:
-* General Member: [Zachary Sherman](mailto:zsherman@olin.edu)
-* General Member: [Han Vakil](mailto:hvakil@olin.edu)
-* General Member: [Emma Mascillaro](mailto:emascillaro@olin.edu)
+* General Member: [Anna Holbrook](mailto:aholbrook1@olin.edu)
+* General Member: [Bill Le](mailto:cle@olin.edu)
+* General Member: [Oscar Bao](mailto:xbao@olin.edu)
+* General Member: [Ike Walker](mailto:iwalker@olin.edu)
+* General Member: TBD
+* General Member: TBD
