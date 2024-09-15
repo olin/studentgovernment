@@ -6,9 +6,9 @@ Bylaws or Amendments. You've come to the right place!
 Any questions? Unsure of how to proceed? Reach out to any members of Student
 Government's Executive Board (the President, Vice President for Finance, and
 Vice President of Communications). As of the 2020-2021 school year, those
-members are [Shreya Chowdhary](mailto:schowdhary@olin.edu),
-[Megan Ku](mailto:mku@olin.edu),
-and [Riya Aggarwal](mailto:raggarwal@olin.edu).
+members are [Leslie Botswick](mailto:lbostwick@olin.edu),
+[Kenneth Xiong](mailto:kxiong@olin.edu),
+and [Dakota Chang](mailto:schang2@olin.edu).
 
 ## General Formatting
 
