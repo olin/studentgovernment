@@ -10,13 +10,12 @@ The Student Government serves and acts as the voice of the Student Body of the C
 
 #### Section 2. Meetings.
 
-Meetings of the Student Government occur weekly at a regularly scheduled time set by the President and are open for the Student Body to attend and participate in discussion. The meeting time will be posted on the Student Government Bulletin Board in the Dining Hall and sent out at the beginning of each semester when the meeting time is first decided. Both of these must be updated should the meeting ever change. A meeting of the Student Government may be canceled, postponed, or rescheduled at the President’s discretion. Additional meetings may also be scheduled as appropriate at the President’s discretion.
+Meetings of the Student Government occur monthly at a regularly scheduled time set by the President and are open for the Student Body to attend and participate in discussion. The meeting time will be posted on the Student Government Bulletin Board in the Dining Hall and sent out at the beginning of each semester when the meeting time is first decided. Both of these must be updated should the meeting ever change. A meeting of the Student Government may be canceled, postponed, or rescheduled at the President’s discretion. Additional meetings may also be scheduled as appropriate at the President’s discretion.
 Meetings of the Student Government serve as the exclusive venue to pass Official Actions, as described in Section 12. Additionally, meetings of the Student Government can serve as venues to discuss and formulate Official Actions, discuss the state of the Student Body and Student Experience, allow Committees to take charge of proposed projects, and other activities deemed relevant by the presiding officer.
 
 #### Section 3. Quorum.
 
-In order for the proceedings of a meeting of the Student Government to be valid, a quorum of the Student Government must be present in person or by virtual attendance. At least a simple majority of the members and one member of the executive board is considered a quorum of the Student Government.
-The Chair of the Honor Board and the Club Chair do not have voting power and do not count toward quorum, but should attend the first meeting of each month to give updates about their respective offices.
+In order for the proceedings of a meeting of the Student Government to be valid, a quorum of the Student Government must be present in person or by virtual attendance.At least a simple majority of the members and 3 out of 4 Committee Leaders (CCo, CORe, SAC, Serv) is considered a quorum of the Student Government.
 
 #### Section 4. Allocation Orders.
 
@@ -41,7 +40,7 @@ the Vice President for Finance
 Five of the ten representatives are Specialized Representatives who each meet directly with senior administrators of the College on a regular basis. These representatives include:
 
 a Representative for Operations
-a Representative to OSCOM (the Office of Strategic Communications)
+a Representative to OSCOM (the Office of Strategic Communications) and OEPP (the Office of External Programs and Partnerships)
 a Representative to OAFA (the Office of Admission and Financial Aid) and StAR (the Office of Student Affairs and Resources)
 a Representative for Curriculum and Faculty
 a Representative for Babson, Olin, and Wellesley (BOW Rep)
@@ -81,9 +80,9 @@ The Student Body elects the following five Specialized Representatives:
 
 *Representative to OAFA and StAR.* The Representative to OAFA and StAR liaises with the Dean of the College and the Dean of Admission and Financial Aid and follows all actions and initiatives happening in their respective departments.
 
-*Representative for Curriculum and Faculty.* The Representative for Curriculum and Faculty liaises with the Associate Dean of Curriculum, the Associate Dean for Faculty Affairs and Development, and the Provost and Dean of Faculty and follows all actions and initiatives related to curriculum and faculty.
+*Representative for Curriculum and Faculty.* The Representative for Curriculum and Faculty liaises with the Associate Deans and committee chairs responsible for curricular change and operations and other faculty responsibilities and functions, and the Provost and Dean of Faculty and follows all actions and initiatives related to curriculum and faculty.
 
-*Representative for Intercollegiate Affairs.* The Representative for Intercollegiate Affairs liaises with the Director of the Collaboratory and the administrators of the Babson/Olin/Wellesley Three College Collaboration and follows all actions and initiatives related to the Collaboratory and the Collaboration. The Representative serves as Olin’s Ambassador to the Babson/Olin/Wellesley Student Council which advises the administrators of the Collaboration on issues of interest to the students of the three colleges.
+*Representative for Babson, Olin and Wellesley.* The Representative for Babson, Olin and Wellesley liaises with the Director of the Collaboratory and the administrators of the Babson/Olin/Wellesley Three College Collaboration and follows all actions and initiatives related to the Collaboratory and the Collaboration. The Representative serves as Olin’s Ambassador to the Babson/Olin/Wellesley Student Council which advises the administrators of the Collaboration on issues of interest to the students of the three colleges.
 
 #### Section 10. Class Representatives.
 
@@ -95,36 +94,45 @@ actively improves student life by championing or contributing to Council Project
 
 Each class has one class representative, except for the First Year Class, which has two representatives, as this class would otherwise be under-represented in the Student Government.
 
-#### Section 11. Open and Closed Session.
+#### Section 11. Meetings. 
+
+In general, meetings of the Council will occur weekly and the Student Body will be highly encouraged to participate in open sessions. The meeting time will be posted on the Student Government Bulletin Board in the Dining Hall and sent out at the beginning of each semester when the meeting time is first decided. Both of these must be updated should the meeting ever change. Meetings of the Student Government count as meetings of the Council. A meeting of the Council may be canceled, postponed, or rescheduled at the President’s discretion. Additional meetings may also be scheduled as appropriate at the President’s discretion.
+The time, location, and agenda of each normally scheduled meeting of the Council will be announced at least 24 hours in advance to all members of the Council.
+
+#### Section 12. Quorum. 
+
+In order for the proceedings of a meeting of the Council to be valid, a quorum of the Council must be present in person or by virtual attendance. At least 7 of the 13 voting members of the Council will be considered a quorum of the Council.
+
+#### Section 13. Open and Closed Session.
 
 Discussions, agenda items, and votes of Student Government take place in one of two states: Open Session or Closed Session. When Student Government is in Open Session, any member of the Olin community may be present and participate in discussion. When Student Government is in Closed Session, only members of Student Government and people whose attendance is declared appropriate by the President may be present and participate. Minutes and relevant documentation taken during closed sessions are kept confidential, as described in Part IV, Article 5. The President may declare Student Government in Closed Session during discussions and votes regarding Allocation Orders, Committee Appointments, Disagreement Resolutions, or unforeseeable sensitive issues.
 
-#### Section 12. Official Actions.
+#### Section 14. Official Actions.
 
 Official Actions of the Student Government include issuing Allocation Orders, amending Bylaws, publishing Recommendations, establishing Council Projects, voting on Committee Appointments, holding Internal Elections, and arbitrating Disagreement Resolutions. All Official Actions of Student Government may be passed with the approval of a majority of the voting members present with the exception of Committee Appointments which are completed using approval voting and Allocation Orders of the Discretionary Fund or the Class Funds which may be approved by a smaller subsection of Student Government as defined in Part I, Article 1, Sections 14 and 15 respectively. All Official Actions of Student Government are recorded with a unique identifier.
 
-#### Section 13. Allocation Orders.
+#### Section 15. Allocation Orders.
 
 Student Government issues Allocation Orders appropriating the Student Government Budget. Student Government may only vote on Allocation Orders at official meetings of Student Government.
 
-#### Section 14. Discretionary Fund.
+#### Section 16. Discretionary Fund.
 
 When Student Government is not in session and for purposes which cannot wait until the next meeting of Student Government, the President may issue Allocation Orders to allocate and spend the Discretionary Fund with the consent of the Vice President for Finance. For the purposes of documentation, Discretionary Fund Allocation Orders are documented in the minutes of the next meeting of Student Government and treated as an Official Action.
 
-#### Section 15. Class Funds.
+#### Section 17. Class Funds.
 
 There is one Class Fund for each of the four graduating classes. The relevant Class Representative may spend their Class Fund and must give an update with spending at the next Student Government meeting. Events and activities paid for using a Class Fund should be directed towards the graduating class corresponding to the fund from which the money was allocated. 
 Class Representatives are encouraged to enlist the help of fellow classmates to organize and plan class events.
 
-#### Section 16. Recommendations.
+#### Section 18. Recommendations.
 
 The Student Government may express the official opinion of the Student Body in the form of Recommendations. It is the responsibility of the President to ensure Recommendations are conveyed to the appropriate member(s) of the College’s Administration.
 
-#### Section 17. Council Projects.
+#### Section 19. Council Projects.
 
 The establishment of a Council Project is a commitment by Student Government to address an issue or topic. To establish a Project, a Project Document must be approved by Student Government. A Project Document includes at least: a title, the date established, the goal, and the timeframe over which the goal is to be achieved. The Project Document is a working document. The President appoints a Project Lead who is responsible for coordinating the Project and a Project Team who assists in the execution of the Project. Project Teams can consist of any members of the Olin community. When a Project is established, it is “Active” and is the responsibility of Student Government until Student Government marks it “Complete,” “Suspended,” or “Unsuccessful.” Any Projects remaining at the end of the school year carry over into the next year. Council Projects may be proposed by any member of the Olin community.
 
-#### Section 18. Committee Appointments.
+#### Section 20. Committee Appointments.
 
 When requested by the Administration to appoint students to faculty and operational committees, Student Government begins the formal appointment process. At the first meeting of Student Government following the request, Student Government will create a list of criteria on which to evaluate potential candidates. Following a vote to approve that list, Student Government will vote to elect a member of Student Government to notify the Student Body of the opening, of the criteria that will be used to evaluate volunteers, and, if they are known, of the scheduling constraints associated with the role. Volunteers will be asked to provide a written submission describing their candidacy and why their personal traits and experience match the criteria outlined in the notification of the opening. Volunteers will be given at least three full days over which to submit their written submissions. Unless the Student Government votes that identifying information (such as name or class year) ought to be part of the criteria used to evaluate candidates, this process should be anonymized.
 
@@ -134,19 +142,19 @@ After sending out the call for volunteers, the member of Student Government coor
 
 After the Council votes, the results of the election should be documented as an Official Action, and the member of the Council who sent out the original notification of the opening should announce the results.
 
-#### Section 19. Appellate Authority.
+#### Section 21. Appellate Authority.
 
 If a major disagreement (budget, logistical, or otherwise) arises between organizations or within the leadership of any organization, either party may appeal to the Council by contacting the president of Student Government and requesting that the Council arbitrate the disagreement. At the next meeting of the Council, the president of Student Government requests the presence of both parties, and the Council hears testimony. The parties involved in the disagreement then leave the room, and the Council deliberates. If appropriate, the Council may invite the parties involved to return in order to suggest a solution to the disagreement. However, the Council votes without the parties involved present and its decision is final.
 
-#### Section 20. Monthly Reports.
+#### Section 22. Monthly Reports.
 
 Each month, the Council publishes a brief report to the Student Body outlining the accomplishments and activities of the Student Government for that month, updates from SAC and SERV, and any activities of the Administration that would be of interest to the Student Body.
 
-#### Section 21. Conflicts of Interest.
+#### Section 23. Conflicts of Interest.
 
 A member of Student Government should excuse themselves from a vote if there is a clear conflict of interest. Specifically, a member should excuse themselves if an Allocation Order provides direct and exclusive benefit to that member or if the vote relates to an appointment or internal election in which they are a candidate.
 
-#### Section 22. Ad Hoc Representatives.
+#### Section 24. Ad Hoc Representatives.
 
 The Student Government establishes the following non-voting ad hoc representatives of the Council:
 
@@ -164,7 +172,7 @@ The composition, purpose, operation, and powers of the Honor Board are detailed 
 
 The Chair and Vice Chair of the Honor Board may allocate the Honor Board Budget with joint approval.
 
-## Part III. The Club Council and Permanent Clubs.
+## Part III. The Club Council.
 
 ### Article 1. The Club Council.
 
@@ -179,13 +187,16 @@ The Club Council has two elected Officers, the Club Chair and Vice Club Chair.
 *Club Chair.* The Club Chair runs meetings of the council and generally oversees the council’s activities. The Chair approves the creation of Clubs and generally helps them meet their goals. The Chair will ensure that the Vice President for Finance has access to up-to-date Student Group spendings at all times. The Chair populates and maintains the List of Student Groups as described in Part IV, Article 5, Section 2. With the agreement of the Vice Chair, the Chair may appropriate money from the Club Budget.
 
 *Vice Club Chair.* The Vice Club Chair assists the Chair in the operations of the Council. The Vice Chair keeps financial records of the Council. In the absence of the Chair, the Vice Chair performs the duties of the Chair. With the agreement of the Chair, the Vice Chair may allocate money from the Club Budget. The Vice Chair is in charge of all reimbursement procedures. 
-Section 3. General Membership.
+
+#### Section 3. General Membership.
 
 The General Membership of the Council includes the leadership of every student club.
 
+The Committee must select a member of CC to be the delegate for the monthly Student Government meetings. A new delegate may be chosen every month based on the committee’s discretion. This delegate acquires voting power for that meeting that they attend. A delegate can not be a CORe voting member.  
+
 #### Section 4. Meetings.
 
-Meetings of the Council include the Officers, the Director and Assistant Director of SAC, and the Director and Assistant Director of SERV.  General Membership of the Council and members of the Student Government are welcome to attend meetings, but are not required to do so. Meetings must be held once monthly to obtain updates from SAC and SERV, as well as informing clubs and organizations of funding procedures and issues of importance.
+Meetings of the Council include the Club Chair and Vice Club Chair. General Membership of the Council and members of the Student Government are welcome to attend meetings, but are not required to do so. 
 
 #### Section 5. Student Group Classifications.
 
@@ -195,11 +206,7 @@ Student Groups are categorized by the Club Chair into one of three classificatio
 
 A valid charter states the club’s purpose, membership structure, leadership transition protocol, events and activities, expected purchases, club assets, charter amendment procedure, and code of conduct. The Council maintains a public repository containing all club and organization charters that club and organization members can amend according to the procedures listed in the club or organization charter.
 
-*Permanent Clubs.* Permanent clubs include SAC and SERV. These are on-campus groups that are deemed integral to Olin culture and are therefore made permanent in the governing documents. Permanent clubs will receive an annual budget from the Club Council on the recommendation of the Student Government. The current heads of permanent clubs are required to attend the Transition Day, and will request a budget during the transition meeting.
-
-Charters for permanent clubs are in the bylaws and require Student Government approval to update as specified in Part III.
-
-*Project Teams.* Project teams are chartered under both Student Government and the College’s Academic Affairs Department. Project teams may request an annual budget of $100 from the Council at the beginning of the school year to be used for team bonding / social events only.  Project Teams will engage in external fundraising for costs associated with projects and competitions or other travel; student government funds may not be used for these.  Maintaining Project Team status under Student Government is contingent on a Project Team keeping accurate financial records which can be produced upon request. Project Team status is granted for one year at a time.
+*Project Teams.* Project teams are chartered under both Student Government and the College’s Academic Affairs Department. Project teams may request an annual budget of $200 from the Council at the beginning of the school year to be used for team bonding / social events only.  Project Teams will engage in external fundraising for costs associated with projects and competitions or other travel; student government funds may not be used for these.  Maintaining Project Team status under Student Government is contingent on a Project Team keeping accurate financial records which can be produced upon request. Project Team status is granted for one year at a time.
 
 Each new Project Team establishes itself by submitting a charter to the Council and the College’s Project Team Contact for approval. To remain established, each project team must submit a charter each academic year.
 
@@ -261,6 +268,8 @@ The Committee has two elected Officers, the Director and Assistant Director of S
 
 Any student interested in helping to organize school-wide events and who attends meetings of the Committee is considered part of the General Membership of the Committee. The Assistant Director of SAC keeps a list of the General Membership.
 
+The Committee must select a member of SAC to be the delegate for the monthly Student Government meetings. A new delegate may be chosen every month based on the committee’s discretion. This delegate acquires voting power for that meeting that they attend. A delegate can not be a CORe voting member.  
+
 #### Section 4. Meetings.
 
 SAC meets weekly to coordinate and plan for upcoming events and social opportunities and to reflect on the success of previous activities. SAC meetings will include the Officers and the General Membership. Announcements of meeting times and agendas are sent to the SAC mailing list prior to meetings.
@@ -290,6 +299,8 @@ The Committee has two elected Officers, the Director and Assistant Director of S
 #### Section 3. General Membership.
 
 All students are “encouraged to contribute their time and wealth to support philanthropic endeavors of their choice” by the Founding Precepts of Olin College (Section 5). Therefore, there is an expectation that the entire Student Body must maintain a spirit of volunteerism. More specifically, any student interested in helping to organize school-wide service events and who attends meetings of SERV is considered part of the General Membership of the Committee.
+
+The Committee must select a member of SERV  to be the delegate for the monthly Student Government meetings. A new delegate may be chosen every month based on the committee’s discretion. This delegate acquires voting power for that meeting that they attend. A delegate can not be a CORe voting member. 
 
 #### Section 4. Meetings.
 
@@ -355,7 +366,7 @@ At the Audit Meeting, the President of the Student Government and the Chair of t
 
 #### Section 3. Discrepancy Resolution.
 
-At the fall semester review, if the Honor Board finds that a portion of the Governing Documents are not being followed, the Honor Board requests that the person(s) responsible resolve the issue before the spring semester follow-up meeting. If the responsible official(s) do not resolve the infraction before the follow-up meeting, the Honor Board may file a case report about Student Government citing the infraction, and publish a statement to the community after investigation and resolution through the Honor Board process.
+At the fall semester review, if the Honor Board finds that a portion of the Governing Documents are not being followed, the Honor Board requests that the person(s) responsible resolve the issue prior to the next Student Government meeting. If the responsible official(s) do not resolve the infraction before the follow-up meeting, the Honor Board may file a case report about Student Government citing the infraction, and publish a statement to the community after investigation and resolution through the Honor Board process.
 
 ### Article 3. Election Procedures.
 
@@ -363,7 +374,12 @@ At the fall semester review, if the Honor Board finds that a portion of the Gove
 
 The following eligibility restrictions apply to candidates for positions in the Student Government. A student may run for any combination of positions but may only hold one position on the Student Government.
 
-Any student at Olin in the following year may run for any position in the student government, as long as the following restrictions are met at all times:
+##### Section 1a. Ike Walker Clause
+
+This applies to all elected members of Student Government, including those on the Honor Board and Directors and Assistant Directors of Committees. Ike Walker, specifically, is not allowed to utilize any loopholes in this or any Governing Documents to hold multiple positions.
+The aforementioned clause does not apply to the General Members of the Honor Board but only to the Honor Board Chair and Vice Chair. Thus, an Honor Board General Member can also hold a position in CORe or any other sector of Student Government.
+
+Any student at Olin in the following year may run for any position in Student Government, as long as the following restrictions are met at all times:
 
 1. A Senior cannot be the Assistant Director of a committee if the Director of that committee is a Senior.
 2. The Chair and Vice Chair of the Honor Board cannot be in the same graduating class.
@@ -382,7 +398,7 @@ In the case of a Special Election, where calling a meeting of the Student Govern
 
 A Regular Election takes one week to complete. To stagger the large number of positions up for election in the spring, the spring elections occur over two of these week-long election cycles. The fall elections and the winter elections need only one cycle each.
 
-At the beginning of an election, the Election Monitor opens nominations for at least 48 hours. The Election Monitor makes the real-time list of nominations available to the student body. Each nominated student who chooses to run sends the Election Monitor a single presentation slide which serves as a declaration of candidacy and a description of their campaign. Following the nomination period, the Election Monitor distributes all of the candidates' slides and opens polls for at least 24 hours. In between the close of nominations and the close of the polls, campaigning takes place. If there are no candidates for a position or if none of the candidates for a position garner at least 50% of the vote, an election for the position is held again as part of the next scheduled election or as part of a special election, if appropriate.
+At the beginning of an election, the Election Monitor opens nominations for at least 48 hours. The Election Monitor makes the real-time list of nominations available to the student body. Each nominated student who chooses to run sends the Election Monitor a single presentation slide which serves as a declaration of candidacy and a description of their campaign. Following the nomination period, the Election Monitor distributes all of the candidates' slides and opens polls for at least 24 hours. In between the close of nominations and the close of the polls, campaigning takes place. If there are no candidates for a position or if none of the candidates for a position garner more than 50% of the vote, an election for the position is held again as part of the next scheduled election or as part of a special election, if appropriate.
 
 The following positions are elected in the first spring election cycle, which occurs the beginning of the month of April.
 
@@ -407,7 +423,7 @@ The following positions are elected in the second spring election cycle, which o
 10. Junior Class Representative
 11. Sophomore Class Representative
 12. Senior Class Activities Representative
-13. Four Honor Board General Members
+13. Six Honor Board General Members
 
 The following positions are elected in the only fall election cycle, which occurs at the the beginning of the month of September.
 
@@ -453,11 +469,13 @@ Seniors and other students not attending Olin in the following academic year may
 
 For each position except for Honor Board General Members and Vice Chair of the Honor Board, the winner is determined by ranked-choice voting. 
 
-Ranked-choice voting: The winner is the student who earns at least 50% of the first-choice votes. If no student wins in this way, the candidate with the lowest number of first-choice votes is removed from the pool. All ballots with the eliminated candidate ranked first are then assigned to that ballot’s second-choice candidate. This process continues until one candidate has earned at least 50% of the vote. 
+Ranked-choice voting: The winner is the student who earns more than 50% of the first-choice votes. If no student wins in this way, the candidate with the lowest number of first-choice votes is removed from the pool. All ballots with the eliminated candidate ranked first are then assigned to that ballot’s second-choice candidate. This process continues until one candidate has earned more than 50% of the vote. 
 
-For the position of Vice Chair of the Honor Board, the winner is the student who is not in the same class as the newly elected chair who has garnered at least 50% of the votes by ranked choice voting.
+For the position of Chair of the Honor Board, the winner is a student who has served on the Honor Board for at least a semester and who has garnered more than 50% of the votes by ranked choice voting.
 
-For Honor Board General Members, the winners are the students with the most excellence votes and who have garnered at least 50% of the votes by ranked-choice voting, given that at the end of Fall Elections, there is at least one student from each class on the Honor Board.
+For the position of Vice Chair of the Honor Board, the winner is the student who has served on the Honor Board for at least a semester, who is not in the same class as the newly elected chair who has garnered more than 50% of the votes by ranked choice voting.
+
+For Honor Board General Members, the winners are the students with the most excellence votes, given that at the end of Fall Elections, there is at least one student from each class on the Honor Board and no more than 3 general members from the same class year.
 
 If no candidate meets these conditions, the election for that position occurs in the next scheduled election or as part of a special election, if appropriate.
 
@@ -475,7 +493,7 @@ All members of the Student Government not under investigation will be considered
 
 The reporter and reported have the chance to present their argument and call witnesses. Each are responsible for their respective witnesses.
 
-At the end of the meeting, all members of the Student Government not currently under investigation vote on the removal of the student(s) in question. A vote of 75% of the eligible membership is required to remove a student from office.
+At the end of the meeting, all members of the Student Government not currently under investigation vote on the removal of the student(s) in question. A vote of 2/3 of the eligible membership is required to remove a student from office.
 
 If a request for impeachment is submitted against an Honor Board member, the impeachment proceedings proceed the same as above with following exceptions.
 
