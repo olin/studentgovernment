@@ -5,7 +5,7 @@ Bylaws or Amendments. You've come to the right place!
 
 Any questions? Unsure of how to proceed? Reach out to any members of Student
 Government's Executive Board (the President, Vice President for Finance, and
-Vice President of Communications). As of the 2020-2021 school year, those
+Vice President of Communications). As of the 2023-2024 school year, those
 members are [Leslie Botswick](mailto:lbostwick@olin.edu),
 [Kenneth Xiong](mailto:kxiong@olin.edu),
 and [Dakota Chang](mailto:schang2@olin.edu).
