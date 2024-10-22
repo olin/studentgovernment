@@ -78,7 +78,7 @@ I will strive to be an active advocate for the well-being of my community. I wil
 
 **Case:** A General Report that has merit as determined by the Honor Board Leadership and/or Facilitation Team.
 
-**Charge: **The details of a violation and each individual aspect of the Honor Code or college policies or procedures addressed by a report.
+**Charge:** The details of a violation and each individual aspect of the Honor Code or college policies or procedures addressed by a report.
 
 **Direct Adjudication:** Direct Adjudication is the path for addressing violations of the Community Expectations Policy intended for particularly serious cases or those with extenuating circumstances (i.e. those where suspension or expulsion is a potential or likely outcome). This path involves a meeting held by a Student Accountability Administrator with a student or student group representative and necessary follow-up actions to address allegations of misconduct.
 
