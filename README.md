@@ -32,7 +32,7 @@ Re-ratified at a Town Meeting on April 13th, 2018.
 
 Re-ratified at a Town meeting on February 12th, 2020.
 
-Re-ratidied at a Town meeting on October 10th, 2024
+Re-ratified at a Town meeting on October 10th, 2024
 
 [Read it online](https://github.com/olin/studentgovernment/blob/master/constitution.md).
 
